@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3982,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog.html",
+			"settings":
+			{
+				"buffer_size": 2007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "research.html",
+			"settings":
+			{
+				"buffer_size": 7261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "teaching.html",
+			"settings":
+			{
+				"buffer_size": 1960,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXing/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"last_filter": "proj",
+		"selected_items":
+		[
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/index.html",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/Data/analysis.code/cbgame.py",
+		"/home/siva82kb/Documents/work/my.work/emg_detection/understanding-electromyography/README.md",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/Data/analysis.code/misc.py",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/Data/analysis.code/leb.txt",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/Data/analysis.code/test.py",
+		"/home/siva82kb/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/siva82kb/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/Data/analysis.code/.gitignore",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/Data/com.CMCBIOE.VR_PAT/files/PROFILE/1/PROFILE.csv",
+		"/home/siva82kb/.bashrc",
+		"/home/siva82kb/.zshrc",
+		"/home/siva82kb/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+		"/home/siva82kb/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/Data/analysis.code/healthy.cfg",
+		"/home/siva82kb/Documents/work/writing/2016/papers/sitar_2016/points_to_address",
+		"/home/siva82kb/Desktop/mathics-0.9/README.rst",
+		"/home/siva82kb/Documents/work/writing/2016/papers/sitar_2016/point_to_address",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/vacancies.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/blog.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/teaching.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/research.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/stylesheets/styles.css",
+		"/home/siva82kb/Documents/work/website/old/index.html",
+		"/home/siva82kb/Documents/work/my.work/isometric_study/summary_routines.py",
+		"/home/siva82kb/Documents/work/my.work/isometric_study/isometric_support.py",
+		"/etc/network/interfaces",
+		"/etc/NetworkManager/NetworkManager.conf",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/com.BioeCMC.VR/files/ Profiles/12345f/profile.csv",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/com.BioeCMC.VR/files/game_data/12345f/CB/12345f_cb_20160513.csv",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/com.BioeCMC.VR/files/ Profiles/12345f/_SVV20160513.csv",
+		"/home/siva82kb/Documents/work/my.work/vestibular_rehab/com.BioeCMC.VR/cache/UnityShaderCache/8bbb437b9df20ec1905d54681192f098",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/stylesheets/github-light.css",
+		"/home/siva82kb/Documents/work/writing/2016/papers/emg_bci_2016/emgbci.bib",
+		"/media/siva82kb/9486-FA25/output/output-new/full_summ",
+		"/media/siva82kb/9486-FA25/output/patient_details_separated.csv",
+		"/home/siva82kb/Documents/work/software/control_station/cmdparser.py",
+		"/home/siva82kb/Documents/work/software/control_station/cmdwnd.py",
+		"/home/siva82kb/Documents/work/software/control_station/config_creator.py",
+		"/home/siva82kb/Documents/work/software/control_station/tcpclient.py",
+		"/home/siva82kb/Documents/work/software/control_station/tcpserver.py",
+		"/home/siva82kb/Documents/work/software/control_station/test_cmdhandler.py",
+		"/home/siva82kb/Documents/work/software/control_station/test_cmdparser.py",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/_posts/2014-3-3-Hello-World.md",
+		"/home/siva82kb/Documents/work/software/control_station/cmdhandler.py",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/_layouts/post.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/_layouts/page.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/_includes/analytics.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/_includes/disqus.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/_includes/meta.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/_includes/svg-icons.html",
+		"/home/siva82kb/Documents/work/website/siva82kb.github.io/_config.yml",
+		"/home/siva82kb/Documents/work/writing/2016/papers/emg_bci_2016/EMGbci.tex",
+		"/home/siva82kb/.config/sublime-text-3/Packages/User/LaTeXing.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			": ",
+			"SVV",
+			"fm",
+			"FM",
+			"CB",
+			"game",
+			"GAME",
+			"profile",
+			"PROFILE",
+			"VR",
+			"BioeCMC",
+			"rgb(",
+			"rgb",
+			"def",
+			"def ",
+			"'total'",
+			"'curr'",
+			"introduction",
+			"> ",
+			"h4",
+			"<h4>",
+			"h4",
+			"Courier New",
+			"\\\\",
+			" 20",
+			"Time Stamp,PITCH,YAW,ROLL,Acc.x,Acc.y,Acc.y,gyro.x,gyro.y,gyro.z,compas.x,compas.y,compas.z,Breaks,Tgt.x,tgt.y,tgt.x\n",
+			"date",
+			"<p class=\"date\">",
+			"/p",
+			"\">",
+			"href=\"",
+			"\">",
+			"h1",
+			"header",
+			"url",
+			"url = ",
+			"http",
+			"url = {",
+			"url = ",
+			": ",
+			". ",
+			"markdown",
+			"\n",
+			") ",
+			":",
+			") ",
+			"@article"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1761,
+								1761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "research.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "teaching.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXing/LaTeX.sublime-build",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
