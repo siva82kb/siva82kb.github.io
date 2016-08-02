@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.12)  15 JUN 2015 10:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.17)  2 AUG 2016 21:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -839,28 +839,22 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 15484 strings out of 495028
- 286745 string characters out of 6181497
+ 15476 strings out of 495028
+ 286675 string characters out of 6181497
  359517 words of memory out of 5000000
- 18319 multiletter control sequences out of 15000+600000
+ 18313 multiletter control sequences out of 15000+600000
  8596 words of font info for 33 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  49i,14n,53p,400b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation3} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation5} has been referenced but does not exist
-, replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on lecture_0.5.pdf (2 pages, 62353 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on lecture_0.5.pdf (2 pages, 62291 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
