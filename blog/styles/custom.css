@@ -10,16 +10,16 @@
     }
 
     div.cell{
-        width:600px;
-        margin-left:20% !important;
-        margin-right:auto;
+        width: 700px;
+        margin-left: 20% !important;
+        margin-right: auto;
     }
     h1 {        
         font-family: "Alegreya Sans", "Courier 10 Pitch", Courier, Helvetica, serif;
     }
     h4{ 
         font-family: "Alegreya Sans", "Courier 10 Pitch", Helvetica, serif;
-        margin-top:12px;
+        margin-top: 12px;
         margin-bottom: 3px;
     }
 
@@ -27,7 +27,7 @@
         font-family: "Alegreya Sans", "Courier 10 Pitch", Courier, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
         line-height: 160%;
         font-size: 120%;
-        width:600px;
+        width: 700px;
         margin-left:auto;
         margin-right:auto;
     }
@@ -62,19 +62,19 @@
 </style>
 <script>
     MathJax.Hub.Config({
-                        TeX: {
-                           extensions: ["AMSmath.js"],
-                           equationNumbers: { autoNumber: "AMS", useLabelIds: true}
-                           },
-                tex2jax: {
-                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
-                },
-                displayAlign: 'center', // Change this to 'center' to center equations.
-                "HTML-CSS": {
-                    availableFonts: ["TeX"],
-                    preferredFont: "TeX",
-                    styles: {'.MathJax_Display': {"margin": 4}},
-                }
-        });
+        TeX: {
+           extensions: ["AMSmath.js"],
+           equationNumbers: { autoNumber: "AMS", useLabelIds: true}
+           },
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+        },
+        displayAlign: 'center', // Change this to 'center' to center equations.
+        "HTML-CSS": {
+            availableFonts: ["TeX"],
+            preferredFont: "TeX",
+            styles: {'.MathJax_Display': {"margin": 4}},
+        }
+    });
 </script>
