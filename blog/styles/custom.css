@@ -2,12 +2,14 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900,100italic,300italic,400italic,500italic,700italic,800italic,900italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
 
 <style>
-    @font-face {
+    /*@font-face {
         font-family: "Computer Modern";
         src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-    }
+    }*/
 
     div.cell{
         width: 700px;
@@ -15,18 +17,30 @@
         margin-right: auto;
     }
     h1 {        
-        font-family: "Alegreya Sans", "Courier 10 Pitch", Courier, Helvetica, serif;
+        font-family: "Amatic SC", "Alegreya Sans", "Courier 10 Pitch", Courier, Helvetica, serif;
+        font-color: ;
     }
+
+    h2 {        
+        font-family: "Amatic SC", "Alegreya Sans", "Courier 10 Pitch", Courier, Helvetica, serif;
+        font-color: ;
+    }
+
+    h3 {        
+        font-family: "Amatic SC", "Alegreya Sans", "Courier 10 Pitch", Courier, Helvetica, serif;
+        font-color: ;
+    }
+
     h4{ 
-        font-family: "Alegreya Sans", "Courier 10 Pitch", Helvetica, serif;
+        font-family: "Amatic SC", "Alegreya Sans", "Courier 10 Pitch", Helvetica, serif;
         margin-top: 12px;
         margin-bottom: 3px;
     }
 
     div.text_cell_render{
         font-family: "Alegreya Sans", "Courier 10 Pitch", Courier, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-        line-height: 160%;
-        font-size: 120%;
+        line-height: 150%;
+        font-size: 1.2em  ;
         width: 700px;
         margin-left:auto;
         margin-right:auto;
@@ -41,7 +55,7 @@
     }
 
     .text_cell_render h5 {
-        font-family: "Alegreya Sans", "Courier 10 Pitch";
+        font-family: "Open Sans Condensed", "Alegreya Sans", "Courier 10 Pitch";
         font-weight: 300;
         font-size: 16pt;
         color: #4057A1;
@@ -52,7 +66,8 @@
     }
     
     .MathJax {
-        color: #000;
+        font-size: 0.6em;
+        color: #444;
     }
 
     .warning{
