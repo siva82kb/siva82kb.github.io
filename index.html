@@ -1,70 +1,35 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>siva82kb by siva82kb</title>
+---
+layout: default
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <script src="javascripts/scale.fix.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1 class="header">siva82kb</h1>
-        <p class="header"></p>
-
-        <ul>
-          <li><a class="buttons github" href="https://github.com/siva82kb">GitHub Profile</a></li>
-        </ul>
-
-        <!--Links-->
-        <a class="main-links" href="index.html">home</a><br>
-        <a class="main-links" href="https://biorehab.github.io/">research</a><br>
-        <a class="main-links" href="teaching.html">teaching</a><br>
-        <a class="main-links" href="blog.html">blog</a><br>
-        <a class="main-links" href="https://biorehab.github.io/positions.html">vacancies</a><br>
-        <p class="main-links"></p>
-      </header>
-      <section>
-        <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About me</h3>
-
-<p>I am Sivakumar Balasubramanian, Associate Professor in <a href="http://www.bioe-cmcvellore.in/">Bioengineering</a> at the <a href="http://www.cmch-vellore.edu/">Christian Medical College Vellore</a>. I have been with the department since August 2014. My basic degree is in Electronics and Communication Engineering, following which I completed my master's and doctoral degrees in Bioengineering, focusing primarily in <a href="https://en.wikipedia.org/wiki/Rehabilitation_engineering">rehabilitation engineering</a>.</p>
-
-<p>My main research interest in the development and validation of tools and training methods for the effective and efficient delivery of <a href="https://en.wikipedia.org/wiki/Neurorehabilitation">neurorehabilitation</a>, and quantitative human analysis.</p>
-
-<p>I enjoy teaching very much as it is the best way for me to learn and strengthen my basics. I am paticularly interested in teaching courses in <i>signal processing</i>, <i>mechanics of movements</i>, and <i>human motor control and learning</i>.</p>
-
-<h3>	
-Professional Experience
-</h3>
-<p class="tight-details">Aug'15 - present: Associate Professor in Bioengineering, CMC Vellore, India</p>
-<p class="tight-details">Aug'14 - Jul'15: Lecturer in Bioengineering, CMC Vellore, India </p>
-<p class="tight-details">Nov'12 - July'14: Reseacher, Tecnalia, San Sebatian, Spain</p>
-<p class="tight-details">Feb'10 - Oct'12: Postdoc @ Human Robotics Group, Imperial College London, UK</p>
-
-<h3>
-Education
-</h3>
-<p class="tight-details">Aug'05 - Nov'09: Ph.D in Bioengineering, ASU, Tempe, USA</p>
-<p class="tight-details">Aug'03 - may'05: M.Tech in Biomedical Engineering, IIT Bombay, Maharashtra</p>
-<p class="tight-details">Aug'99 - May'03: B.Tech in Electronics and Communication Engineering, PEC, Puducherry</p>
-
-<h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contact</h3>
-
-<p class="contact-details">Department of Bioengineering, Christian Medical College, Bagayam, Vellore 632002, Tamil Nadu.<br>Ph: +91 416 228 5098 | Email: <a mailto="siva82kb@cmcvellore.ac.in ">siva82kb@cmcvellore.ac.in </a></p>
-      </section>
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
+{% for post in paginator.posts %}
+<div class="article">
+    <div class="well">
+        <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
+        {% if site.comments and post.comments %}
+            {% if site.disqus != '' %}
+            <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread" data-disqus-identifier="{{ post.url | slugify }}">Comments</a></p>
+            {% elsif site.isso != '' %}
+            <p class="author"><a href="{{ site.baseurl }}{{ post.url }}{{ site.isso_suffix }}#isso-thread">Comments</a></p>
+            {% endif %}
+        {% endif %}
+        <div class="content">
+            {{ post.content }}
+        </div>
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->		
-  </body>
-</html>
+</div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <a class="btn btn-default" href="{{ site.baseurl}}/index.html" class="previous">Newer</a>
+      {% else %}
+        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">Newer</a>
+      {% endif %}
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Older</a>
+  {% endif %}
+</div>

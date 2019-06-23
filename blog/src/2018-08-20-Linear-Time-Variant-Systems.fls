@@ -1,7 +1,0 @@
-PWD /home/siva82kb/Documents/work/website/siva82kb.github.io/blog/src
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/siva82kb/Documents/work/website/siva82kb.github.io/blog/src/2018-08-20-Linear-Time-Variant-Systems.html
-OUTPUT /home/siva82kb/Documents/work/website/siva82kb.github.io/blog/src/2018-08-20-Linear-Time-Variant-Systems.log
