@@ -1,7 +1,20 @@
-<h1>Links</h1>
+<h2>Links</h2>
 <ul>
-  <li><a href="#">One</a></li>
-  <li><a href="#">Two</a></li>
-  <li><a href="#">Three</a></li>
-  <li><a href="#">Four</a></li>
+    {% if site.twitter_username %}
+      <li>
+        <a href="https://twitter.com/{{ site.twitter_username }}">
+          <i class="fa fa-twitter"></i> Twitter
+        </a>
+      </li>
+    {% endif %}
+    {% if site.github_username %}
+      <li>
+        <a href="https://github.com/{{ site.github_username }}">
+        <i class="fa fa-github"></i> GitHub
+        </a>
+      </li>
+    {% endif %}
+    <!-- <li><a href="#">One</a></li>
+    <li><a href="#">Two</a></li>
+    <li><a href="#">Three</a></li> -->
 </ul>

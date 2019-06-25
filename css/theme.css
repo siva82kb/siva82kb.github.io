@@ -17,7 +17,7 @@ body {
 
 .sidebar h1 {
     color: #ee4444;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 .sidebar a {
@@ -25,8 +25,8 @@ body {
 }
 
 .sidebar li {
-    margin-top: .7em;
-    line-height: 1em;
+    margin-top: .5em;
+    line-height: 1.2em;
 }
 
 .sidebar a:hover {
@@ -38,8 +38,23 @@ body {
 }
 
 .well h1 {
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 0.2em;
     color: #ee4444;
-    font-size: 1.3em;
+    font-size: 1.9em;
+}
+
+.well h2 {
+    color: #ee4444;
+    font-size: 1.6em;
+    padding: 0px;
+    margin: 0px;
+}
+
+.well h3 {
+    color: #ee4444;
+    font-size: 1.2em;
 }
 
 .author {
@@ -48,4 +63,10 @@ body {
 
 .author a {
     color: #ee4444;
+}
+
+.tight-details {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 5px;
 }
