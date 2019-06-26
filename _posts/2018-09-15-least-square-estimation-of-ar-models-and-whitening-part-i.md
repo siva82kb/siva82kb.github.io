@@ -3,6 +3,7 @@ layout: post
 title: "Least Square Estimation of AR Models and Whitening - Part I"
 date: 2018-09-15 16:25:06 +0530
 comments: true
+categories: [linear-systems, blah]
 ---
 Consider an $p$-order stationary autoregressive model driven by white noise.
 

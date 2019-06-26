@@ -3,6 +3,7 @@ layout: post
 title: "Input-Output Relationship of a Linear Time-Varying System"
 date: 2018-08-20 18:30:00 +0530
 comments: true
+categories: [linear-systems]
 ---
 
 Most of us that have studied signal processing or control theory would be familiar with the input-output relationship of linear time-invariant (LTI) systems. If $H$ is an LTI system with impulse response $h(t)$, then the output of the system for any arbitrary input is given by **convolution integral**,
