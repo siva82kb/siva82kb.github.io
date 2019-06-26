@@ -3,7 +3,7 @@ layout: post
 title: "Least Square Estimation of AR Models and Whitening - Part I"
 date: 2018-09-15 16:25:06 +0530
 comments: true
-categories: [linear-systems, blah]
+categories: [linear-systems]
 ---
 Consider an $p$-order stationary autoregressive model driven by white noise.
 
@@ -59,14 +59,14 @@ Lets assume that we have $$N$$ samples of $$x_n$$, we can then estimate the para
 $$ \hat{a}_1 = \frac{\mathbf{x}_{N-1, M}^T\mathbf{x}_{N, M}}{\mathbf{x}_{N, M}^T\mathbf{x}_{N, M}}$$
 
 ### Running estimate of a AR process of order 1
-The following figure shows the result from an estimation procedure for a _autoregressive process_ of order 1. The code used for generate this plot can be found  [here]({{site.baseurl}}/notebooks/2018-09-15-Least-Square-Estimation-of-AR-Models-And-Whitening-Part-I.ipynb).
+The following figure shows the result from an estimation procedure for a _autoregressive process_ of order 1. The code used for generate this plot can be found  [here](https://nbviewer.jupyter.org/github/siva82kb/siva82kb.github.io/blob/master/notebooks/2018-09-15-Least-Square-Estimation-of-AR-Models-And-Whitening-Part-I.ipynb).
 
 <p align="center">
 <img src="{{ site.baseurl }}/figs/ar1.png" width="75%" height="75%">
 </p>
 
 ### Running estimate of a AR process of order 'p'
-The following figure shows the result from an estimation procedure for a _autoregressive process_ of order 3. The code used for generate this plot can be found  [here]({{site.baseurl}}/notebooks/2018-09-15-Least-Square-Estimation-of-AR-Models-And-Whitening-Part-I.ipynb).
+The following figure shows the result from an estimation procedure for a _autoregressive process_ of order 3. The code used for generate this plot can be found  [here](https://nbviewer.jupyter.org/github/siva82kb/siva82kb.github.io/blob/master/notebooks/2018-09-15-Least-Square-Estimation-of-AR-Models-And-Whitening-Part-I.ipynb).
 
 <p align="center">
 <img src="{{ site.baseurl }}/figs/ar3.png" width="75%" height="75%">
