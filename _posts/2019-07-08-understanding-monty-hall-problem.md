@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding the Monty Hall Problem"
-date: 2019-07-03 21:00:060 +0530
+date: 2019-07-08 09:00:060 +0530
 comments: true
 categories: [probability]
 ---
