@@ -9,7 +9,7 @@ Welcome to the course page for Linear Algebra and Random Processes (LARP). This 
 
 
 ### Course Information Document
-You can download the course document information from [here]({{site.baseurl}}/teaching/ls/course_info.pdf).
+You can download the course document information from [here]({{site.baseurl}}/teaching/larp/course_info.pdf).
 
 
 ### Lecture timings
