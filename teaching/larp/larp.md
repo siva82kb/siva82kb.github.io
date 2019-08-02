@@ -3,7 +3,7 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 <div class="well">
-## Linear Albgebra and Random Processes
+## Linear Algebra and Random Processes
 ---
 Welcome to the course page for Linear Algebra and Random Processes (LARP). This page contains all course realted information for students attending the course. For all course related queries please contact the course [instructor](mailto:siva82kb.work@gmail.com) or the TAs ([Aravind](mailto:nehru.aravind@gmail.com), [Tim](mailto:timontunes@gmail.com)).
 
