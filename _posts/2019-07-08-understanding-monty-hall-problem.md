@@ -5,7 +5,7 @@ date: 2019-07-08 09:00:060 +0530
 comments: true
 categories: [probability]
 ---
-
+s
 I had come across the Monty Hall problem a year back, and my answer that could come up with the standard one - "I would not switch my choice". In case you do not know what that means, let me start by describing the Monty Hall problem. 
 
 The Monty Hall problem is a puzzle in probability. Assume that you are in a gameshow, where there are three doors (A, B, C) - one of the doors conceals a car, which you can win if you choose this door correctly; the other two doors have things that are not of any value. You are first required to choose a door. Following this the host checks the remaining doors, and opens of the on that does not contain the car. You are now given a chance to either stick with your original choice, or switch your choice to the remaining door. What would you be the better option? Stick with your original choice, or switch to the other door.
