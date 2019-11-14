@@ -54,5 +54,6 @@ The [course notes]({{site.baseurl}}/teaching/ls/lsnotes.pdf) contains some of th
 ### Homework Assignments
 The [assigment document]({{site.baseurl}}/teaching/larp/assignment.pdf) contains all the problems you will need to workout as part of your homework. You will be informed in class regularly about the sections to solve and submit as your homework assignment. The document will be regularly updated and revised, you are encouraged to make sure you have the most up-to-date document when working on your assigments. You can download data for programming assingments for the different assignments from the link given below:
 - [SVD and Least Squares Methods]({{site.baseurl}}/teaching/larp/data/ls.zip)
+- [Experiments, Sample Spaces, and Probability]({{site.baseurl}}/teaching/larp/data/textdata.txt)
 
 </div>
