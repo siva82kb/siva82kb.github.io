@@ -1,0 +1,74 @@
+I"�<p>Consider an $p$-order stationary autoregressive model driven by white noise.</p>
+
+<script type="math/tex; mode=display">x_n = \sum_{k=1}^{p} a_kx_{n-k} + \epsilon_n</script>
+
+<p>where, $\epsilon_n$ is Gaussian white noise with zero mean and variance $\sigma_{\epsilon}^2$.</p>
+
+<p>Let us assume that we have $N+$ sample of this AR process and we are interested in estimating the parameter $a_k$. We can arrange the data into a set of $M=N+1-p$ linear equations,</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{bmatrix}
+x_{0} & x_{1} & \cdots & x_{p-1} \\
+x_{1} & x_{2} & \cdots & x_{p} \\
+x_{2} & x_{3} & \cdots & x_{p+1} \\
+% x_{p+1} & x_{p} & \cdots & x_{2} \\
+\vdots & \vdots & \ddots & \vdots \\
+x_{N-p} & x_{N-p+1} & \cdots & x_{N-1}
+\end{bmatrix} \begin{bmatrix}
+a_p \\
+a_{p-1} \\
+\vdots \\
+a_1
+\end{bmatrix} = \begin{bmatrix}
+x_{p}\\
+x_{p+1}\\
+x_{p+2}\\
+\vdots\\
+x_{N}
+\end{bmatrix} %]]></script>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{bmatrix}
+\mathbf{x}_{N-p, M} & \mathbf{x}_{N-p+1, M} & \cdots & \mathbf{x}_{N-1, M}
+\end{bmatrix} \mathbf{a} = \mathbf{x}_{N, M} %]]></script>
+
+<script type="math/tex; mode=display">\mathbf{X}_{N, M}\mathbf{a} = \mathbf{x}_{N, M}</script>
+
+<p>where, <script type="math/tex">\mathbf{x}_{k, M}</script> is a column vector whose elements are the past <script type="math/tex">M</script> of <script type="math/tex">x_n</script> starting from the instant <script type="math/tex">k</script>; <script type="math/tex">x_{k-M+1}</script>, <script type="math/tex">x_{k}</script> are the first and last elements of the vector, respectively. <script type="math/tex">\mathbf{X}_{N, M}</script> consists of the columns <script type="math/tex">\mathbf{x}_{N-p, M}, \,\mathbf{x}_{N-p+1, M}, \, \ldots \, , \mathbf{x}_{N-p, M}</script>.</p>
+
+<p>The least-squares estimate of $\mathbf{a}$ is given by,</p>
+
+<script type="math/tex; mode=display">\hat{\mathbf{a}} = \left(\mathbf{X}_{N, M}^T\mathbf{X}_{N, M}\right)^{-1}\mathbf{X}_{N, M}^T\mathbf{x}_{N, M}</script>
+
+<p>Post-multiplying <script type="math/tex">\mathbf{x}_{N, M}</script> by the pseudo-inverse will provide the least square estimate of <script type="math/tex">\mathbf{a}</script>.</p>
+
+<p><strong>A simple example</strong>: Let us start with the simplest possible example of a AR process where <script type="math/tex">p=1</script>.</p>
+
+<script type="math/tex; mode=display">x_n = a_1 x_{n-1} + \epsilon_n</script>
+
+<p>Lets assume that we have <script type="math/tex">N</script> samples of <script type="math/tex">x_n</script>, we can then estimate the parameter <script type="math/tex">a_1</script> using the following,</p>
+
+<script type="math/tex; mode=display">\hat{a}_1 = \frac{\mathbf{x}_{N-1, M}^T\mathbf{x}_{N, M}}{\mathbf{x}_{N, M}^T\mathbf{x}_{N, M}}</script>
+
+<h3 id="running-estimate-of-a-ar-process-of-order-1">Running estimate of a AR process of order 1</h3>
+<p>The following figure shows the result from an estimation procedure for a <em>autoregressive process</em> of order 1. The code used for generate this plot can be found  <a href="https://nbviewer.jupyter.org/github/siva82kb/siva82kb.github.io/blob/master/notebooks/2018-09-15-Least-Square-Estimation-of-AR-Models-And-Whitening-Part-I.ipynb">here</a>.</p>
+
+<p align="center">
+<img src="/figs/ar1.png" width="75%" height="75%" />
+</p>
+
+<h3 id="running-estimate-of-a-ar-process-of-order-p">Running estimate of a AR process of order ‘p’</h3>
+<p>The following figure shows the result from an estimation procedure for a <em>autoregressive process</em> of order 3. The code used for generate this plot can be found  <a href="https://nbviewer.jupyter.org/github/siva82kb/siva82kb.github.io/blob/master/notebooks/2018-09-15-Least-Square-Estimation-of-AR-Models-And-Whitening-Part-I.ipynb">here</a>.</p>
+
+<p align="center">
+<img src="/figs/ar3.png" width="75%" height="75%" />
+</p>
+
+<h3 id="whitening-using-estimated-ar-parametes-lefthataright">Whitening using estimated AR parametes <script type="math/tex">\left(\hat{a}\right)</script></h3>
+
+<p>Once <script type="math/tex">\hat{a}</script> is obtained, then the signal <script type="math/tex">y_n</script> can be whitened by passing it through the following moving average filter.</p>
+
+<script type="math/tex; mode=display">w_n = y_n - \sum_{k=1}^{p} \hat{a}_ky_{n-k}</script>
+
+<p><script type="math/tex">w_n</script> would be the out of this moving average filter, and $w_n$ will be a white noise. The input to this moving average filter the measured time series <script type="math/tex">y_n</script>.</p>
+:ET
