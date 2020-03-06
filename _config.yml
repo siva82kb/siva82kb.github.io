@@ -10,7 +10,7 @@ url:
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: ""
+baseurl: ''
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''

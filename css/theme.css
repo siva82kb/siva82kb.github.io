@@ -1,6 +1,7 @@
 body {
     padding-top: 60px;
     padding-bottom: 60px;
+    font-family: 'Livvic', sans-serif;
 }
 
 .copyright {
@@ -68,5 +69,5 @@ body {
 .tight-details {
   margin: 0px;
   padding: 0px;
-  padding-top: 5px;
+  padding-top: 0px;
 }
