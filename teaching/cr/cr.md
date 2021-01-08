@@ -5,7 +5,7 @@ layout: default
 <div class="well">
 ## Clinial Attachment
 ---
-Welcome to the course page for Clinical Rotation. This page contains all course realted information for students taking the course. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
+Welcome to the course page for Clinical Attachment. This page contains all course realted information for students taking the course. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
 
 
 ### Course Information Document
