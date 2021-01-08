@@ -1,14 +1,54 @@
----
-layout: post
-title: "Representation of Numbers in Computers - I: Whole numbers and Integers"
-date: 2020-03-29 00:00:00 +0530
-comments: true
-categories: [computer-science]
----
+I"Î@<p>This second part of the blog post on number representation on computers focuses on fixed-point and floating-point numbers. Fixed and floating point numbers allow use to have approximate representation of real numbers.</p>
 
-I have long wanted to write something about the different binary number representations used in a computer, along their corresponding arithmetic operations. I would have loved to have stumbled upon something like this during my undergraduate years. So, I hope that this will be useful for others who might be looking for a short tutorial-like material on numerical data types used in a computer, in particular _integers_, _fixed-point_, and _floating-point_ numbers. In this two part blog-post, I first write about the representation of whole numbers and integers, along with the details of how to add and multiply them. 
+<p>The binary representation of a real number has the following general form,</p>
+<center>
+  <img src="/figs/real_number.png" width="60%" height="60%" />
+</center>
 
-### Whole Numbers
+<p>The computation of the value represented by this number is done the same way we would compute it with a decimal number. The radix point separates the numbers with non-negative powers on 2 on one side (left side), and the ones with negative powers of 2 on the right. For example, consider the numbers \(1001.1011\). The integer and fractional parts are given by,</p>
+
+\[\begin{split}
+1001  &amp;= 1 \times 2^3 + 0 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 9\\
+.1011 &amp;= 1 \times 2^{-1} + 0 \times 2^{-2} + 1 \times 2^{-3} + 2^{-4}\\
+      &amp;= 0.5 + 0.125 + 0.0625  = 0.6875
+\end{split}\]
+
+<p>So, the number \(1001.1011\) in binary equals \(9.6875\) in decimal. You are probably familar about the procedure to convert a integer to a binary numbers. How would you convert a fractional number to its corresponding binary number? The procedures for adding and multiplication of real numbers in binary representation are similar to the ones we are familiar with decimal numbers.</p>
+
+<h3 id="fixed-point-numbers">Fixed-point Numbers</h3>
+<p>Fixed point numbers are the real number equivalent of whole number or intgeers numbers represented by a finite number of bits. Unlike integers, fixed point numbers have a non-zero fractional part. These are called <em>fixed-point numbers</em> because the position of the radix point is fixed to a mutually agreed location. Consider the example of a 8-bit \(\left(b_7b_6b_5b_4.b_3b_2b_1b_0\right)\) numbers with the radix point located between the bits \(b_4\) and \(b_3\). This fixed-point number can represent upto 256 different numbers, from \(0000.0000\) to \(1111.1111\). Let us assume for now that we are only interested in representing positive numbers. Then, this 8-bit number can represented numbers from 0 to 15.9375, with the difference between successive numbers being \(0.0625 = 0000.0001\).</p>
+
+<p>When representing whole numbers with 8-bits, we could think of it as the real number line betwee to 0 to 256 being equally divided into 256 segments starting from 0. Each 8-bit number then represent the boundaries of the 256 line segments of unit length. In the case of a 8-bit fixed-point number with the radix point between the fourth and fifth bits, we divide the number line between 0 and 16 into 256 equal segments. Here, the length of line segment on the number line that is divided is determined by the number of bits to the left of the radix points, and the number of divisions of this segment is determined by the total number of bits. Whole numbers can be thought of a fixed-point numbers with the radix point after the least significant bit.</p>
+
+<p>The following figure demonstrates how fixed-point number segment a part of the real line. The following two figures two different 3-bit fixed-point numbers shcemes. The figure on the left has the radix point after the first bit, and the one on the right has the radix point after the second bit. The figures, along with the explanation in the previous paragraph should be able to convey the idea about how fixed-point numbers chop up a segment of the real line.</p>
+
+<center>
+  <img src="/figs/nw-wn-fp.png" width="80%" height="80%" />
+</center>
+
+<p>Negative nubers are handled the same way they were with integers. The integer part of the is represented in the 2s complement format. The following figure demonstrate this for a 3-bit number with the radix point after the second bit.</p>
+
+<center>
+  <img src="/figs/nw-int-fp.png" width="45%" height="45%" />
+</center>
+
+<h3 id="floating-point-numbers">Floating-point Numbers</h3>
+<p>From a practical perspective, there are two issues with fixed-point numbers.</p>
+<ol>
+  <li>The range of numbers they can represent is limited and the number of bits used will need to be increased to widen this range. To be fair, this problem is common to all numbers represented using a finite numbers of bits (or digits).</li>
+  <li>The difference between successive numbers (absolute resolution) in a fixed-point representation is constant throughout its entire range. However, often in practice the absolute resolution required for numbers increases with the size of the numbers. For example, the resolution of the numbers needed to report the masses of adult Chihuahuas, humans, or blue whales are quite different; reasonalble resolutions could be 0.1Kg, 1Kg and 1000Kgs for Chihuahas, humans, and blue whales, respectively. If we decide to use a fixed-point number system to represent the masses of these three species, these numbers must:
+    <ul>
+      <li>have a resultion of at least 0.1Kg, and</li>
+      <li>be able to represent numbers as large as 200,000Kg.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>This could be achieved with a 21-bit fixed-point number with the radix point between \(b_{4}\) and \(b_{3}\) bits: \(b_{20}b_{19}b_{18} \ldots b_{6}b_{5}b_{4}.b_3b_2b_1b_0\). It sounds like we would be able to do this easily on a 32-bit machine. However, this is a highly inefficient way of representing numbers for practical purposes. This 21 fixed-point number would allow us to specify the mass of a blue whale upto an accuracy of 0.1Kg! Who would ever want to know the mass that accurately, assuming we can actually reliably measure it to that level of accuracy?</p>
+
+<p>It turns out, in practice, <em>relative resolution</em> is more useful than absolute resultion. Relative resolution is the ratio of the difference between successive numbers with respect o the mangitude of the numbers. With floating-point numbers the relative resolution remains the same throughout the range of these numbers.</p>
+
+<!-- 
 The binary representation of _whole numbers_ is something all of us are familiar with. In the decimal system, the number two hundred and thirty five is represented as the following,
 
 $$ 235 = 2 \times 10^2 + 3 \times 10^1 + 5 \times 10^0 $$
@@ -130,12 +170,12 @@ Numbers represented in computer use a finite number of bits. For example, a 64 b
 
 In general, whole numbers can be represented as discrete, equi-distant points on a number line (infinitely long) as shown in the following figure,
 <center>
-  <img src="{{ site.baseurl }}/figs/nl-wn.png" width="50%" height="50%">
+  <img src="/figs/nl-wn.png" width="50%" height="50%">
 </center>
 
 While, the whole numbers represented with a finite number of bits can be represented on a circle (number-wheel) as the following figure,
 <center>
-  <img src="{{ site.baseurl }}/figs/nw-wn.png" width="42%" height="42%">
+  <img src="/figs/nw-wn.png" width="42%" height="42%">
 </center>
 
 ### Integers
@@ -201,7 +241,7 @@ $$ N = -b_{n-1}2^{n-1} + \sum_{i=0}^{n-2} b_i2^i $$
 
 The followiing image shows another way to look at 2's complement numbers.
 <center>
-  <img src="{{ site.baseurl }}/figs/nw-int.png" width="42%" height="42%">
+  <img src="/figs/nw-int.png" width="42%" height="42%">
 </center>
 
 <center>
@@ -222,4 +262,5 @@ It should be noted that overflow here does not mean the presence of a carryover 
 
 **Binary Multiplication**. We can multiply 2's complement numbers like we do with binary whole numbers. The products come out with the appropriate signs provided there is no overflow. Consider wo binary signed numbers $B_1$ and $B_2$. An overflow occurs when: the product $\vert B_1 \times B_2$ is greater than $2^{n-1}$ when the $\text{sign}\left(B_1 \times B_2\right)$ is $-1$, or when the product $\vert B_1 \times B_2$ is greater than $2^{n-1} - 1$ when the $\text{sign}\left(B_1 \times B_2\right)$ is $+1$. There is no overflow when one of the numbers is $0$. You can verify this writing down the product table for 2 bit numbers. 
 
-The second part of this blog-post will deal with fixed and floating point numbers.
+The second part of this blog-post will deal with fixed and floating point numbers. -->
+:ET

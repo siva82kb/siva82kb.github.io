@@ -5,7 +5,7 @@ layout: default
 <div class="well">
 ## Clinial Rotations
 ---
-Welcome to the course page for Clinical Rotation. This page contains all course realted information for students taking the course. For all course related queries please contact the course [instructor](mailto:siva82kb.work@gmail.com).
+Welcome to the course page for Clinical Rotation. This page contains all course realted information for students taking the course. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
 
 
 ### Course Information Document
@@ -19,9 +19,10 @@ Welcome to the course page for Clinical Rotation. This page contains all course 
 Wed, Fri: 2:00PM - 5:00PM
 
 ### Course document upload URL
-You will need to upload all course related document [here](https://goo.gl/forms/Lyfzr7NLzIWGSGIY2).
+- **Batch 1**: You will need to upload all course related document [here](https://docs.google.com/forms/d/1Ju5GYwyR65u7pcBC3d8PDbuzCnlyUuShC3vqrJchfuw/edit?usp=sharing).
+- **Batch 2**: You will need to upload all course related document [here](https://docs.google.com/forms/d/111Nkn_m8vdsR5V8qk9ds6J9U7zmGLbpO7q5Gl4Odj20/edit?usp=sharing).
 
 ### Course project details and selection form
-You can find the details of the different project on offer, and the form to submit your choices [here](https://goo.gl/forms/GOiF59Id0cVpVCip1).
+You can find the details of the different project on offer, and the form to submit your choices [here]().
 
 </div>
