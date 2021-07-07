@@ -11,7 +11,7 @@ $$ y(t) = \int_{-\infty}^{\infty} h(\tau) x(t - \tau) d\tau \,, \quad t \in \mat
 
 The same idea can be applied to a discrete-time system with impulse response $h[n]$. The output in this case is given by the **convolution sum**,
 
-$$ y[n] = \sum_{k=\infty}^{\infty}h[k]x[n - k] \,, \quad n \in \mathbb{Z} $$
+$$ y[n] = \sum_{k=-\infty}^{\infty}h[k]x[n - k] \,, \quad n \in \mathbb{Z} $$
 
 The fact that input-output (IO) relationships for LIT systems can be determined through convolution, also leads to popular transform-based representation, analysis and design of LIT systems.
 
