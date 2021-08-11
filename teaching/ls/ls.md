@@ -32,7 +32,7 @@ There is no one fixed textbook for the course. The course slides and course note
 Video lectures: 
 [[01]](https://youtu.be/ju2OOo9SSDw)
 [[02]](https://youtu.be/JmVBRKQi4ns) |
-[Assignment]({{site.baseurl}}/teaching/ls/assignmentectors.pdf)
+[Assignment]({{site.baseurl}}/teaching/ls/assignments/vectors.pdf)
 
 #### Module 02: Matrices
 - [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/matrices.pdf) |
