@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Linear Systems
 ---
 {::options parse_block_html="true" /}
 <div class="well">
@@ -13,7 +14,7 @@ You can download the course document information from [here]({{site.baseurl}}/te
 
 
 ### Lecture timings
-TBD
+Mod, Wed - 7:30 AM to 9:00
 
 ### Reference textbooks
 There is no one fixed textbook for the course. The course slides and course notes should serve as the first reference material for the course. However, you are strongly encouraged to refer to the following textbooks for the different topics covered in the course. The lecture slides for different topics will list the recommended reading material for the different topics.
@@ -25,27 +26,101 @@ There is no one fixed textbook for the course. The course slides and course note
 - Online course on _Linear Dynamical Systems_ by S Boyd. [Course Link](https://see.stanford.edu/Course/EE263)
 
 
-### Lecture slides
-- [Vectors]({{site.baseurl}}/teaching/ls/lectures/vectors.pdf)
-- [Matrices]({{site.baseurl}}/teaching/ls/lectures/matrices.pdf)
-- [Orthogonality]({{site.baseurl}}/teaching/ls/lectures/orthogonality.pdf)
-- [Matrix Inverses]({{site.baseurl}}/teaching/ls/lectures/matrixinverses.pdf)
-- [Eigenvectors and eigenvalues]({{site.baseurl}}/teaching/ls/lectures/eigenvalvec.pdf)
-- [Positive definiteness and Matrix norm]({{site.baseurl}}/teaching/ls/lectures/pdmatnorm.pdf)
-- [Singular Value Decomposition]({{site.baseurl}}/teaching/ls/lectures/svd.pdf)
-- [Least squares methods]({{site.baseurl}}/teaching/ls/lectures/leastsquares.pdf)
-- [Linear dynamical systems (LDS) - Transfer function view]({{site.baseurl}}/teaching/ls/lectures/ldstfview.pdf)
-- [LDS - State space view]({{site.baseurl}}/teaching/ls/lectures/ldsss.pdf)
-- [Solution of LDS]({{site.baseurl}}/teaching/ls/lectures/ldssol.pdf)
-- [Stability]({{site.baseurl}}/teaching/ls/lectures/stability.pdf)
-- [Controllability and Observability]({{site.baseurl}}/teaching/ls/lectures/contobs.pdf)
+### Course Modules
+#### Module 01: Vectors
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/vectors.pdf) |
+Video lectures: 
+[[01]](https://youtu.be/ju2OOo9SSDw)
+[[02]](https://youtu.be/JmVBRKQi4ns) |
+[Assignment]({{site.baseurl}}/teaching/ls/assignmentectors.pdf)
+
+#### Module 02: Matrices
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/matrices.pdf) |
+Video lecture |
+Assignment
+
+#### Module 03: Orthogonality
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/orthogonality.pdf) |
+Video lecture |
+Assignment
+
+#### Module 04: Matrix Inverses
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/matrixinverses.pdf) |
+Video lecture |
+Assignment
+
+#### Module 04: Eigenvectors and eigenvalues
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/eigenvalvec.pdf) |
+Video lecture |
+Assignment
+
+#### Module 06: Positive definiteness and Matrix norm
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/pdmatnorm.pdf) |
+Video lecture |
+Assignment
+
+#### Module 07: Singular Value Decomposition
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/svd.pdf) |
+Video lecture |
+Assignment
+
+#### Module 08: Linear Least Squares Methods
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/leastsquares.pdf) |
+Video lecture |
+Assignment
+
+#### Module 09: Linear Dynamical Systems (LDS) - Transfer Function View
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/ldstfview.pdf) |
+Video lecture |
+Assignment
+
+#### Module 10: LDS - State Space View
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/ldsss.pdf) |
+Video lecture |
+Assignment
+
+#### Module 11: Solution of LDS
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/ldssol.pdf) |
+Video lecture |
+Assignment
+
+#### Module 12: Stability
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/stability.pdf) |
+Video lecture |
+Assignment
+
+#### Module 13: Controllability and Observability
+- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/contobs.pdf) |
+Video lecture |
+Assignment
+
+#### Module 14: State Feedback Control
+- Lecture Slides |
+Video lecture |
+Assignment
+
+#### Module 15: Linear Observers
+- Lecture Slides |
+Video lecture |
+Assignment
+
+#### Module 16: Optimization -  A very brief introduction
+- Lecture Slides |
+Video lecture |
+Assignment
+
+#### Module 17: System modelling - Bond graph approach
+- Lecture Slides |
+Video lecture |
+Assignment
 
 
-### Course Notes
-The [course notes]({{site.baseurl}}/teaching/ls/lsnotes.pdf) contains some of the topics covered (and not covered) in the lectures. I am still in the process of preparing this document and hope to have at least a first draft completed soon. Please visit the page regularly to have the most up-to-date version.
 
-### Homework Assignments
+<!-- ### Course Notes
+The [course notes]({{site.baseurl}}/teaching/ls/lsnotes.pdf) contains some of the topics covered (and not covered) in the lectures. I am still in the process of preparing this document and hope to have at least a first draft completed soon. Please visit the page regularly to have the most up-to-date version. -->
+
+<!-- ### Homework Assignments
 The [assigment document]({{site.baseurl}}/teaching/ls/assignment.pdf) contains all the problems you will need to workout as part of your homework. You will be informed in class regularly about the sections to solve and submit as your homework assignment. The document will be regularly updated and revised, you are encouraged to make sure you have the most up-to-date document when working on your assigments. You can download data for programming assingments for the different assignments from the link given below:
-- [SVD and Least Squares Methods]({{site.baseurl}}/teaching/ls/data/ls.zip)
+- [SVD and Least Squares Methods]({{site.baseurl}}/teaching/ls/data/ls.zip) -->
 
 </div>
