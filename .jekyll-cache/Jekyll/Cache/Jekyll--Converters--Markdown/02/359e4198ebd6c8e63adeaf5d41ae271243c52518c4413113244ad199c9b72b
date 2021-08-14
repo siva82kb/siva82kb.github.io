@@ -1,6 +1,13 @@
-I"D<div class="well">
+I"õ<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
+  <p><a href="#course-information-document">Course Info</a> |
+<a href="#lecture-timings">Lecture Times</a> |
+<a href="#references">References</a> |
+<a href="#course-modules">Modules</a> |
+<a href="#discussion-videos">Discussion</a> | 
+<a href="#submit-course-documents">Submit Stuff</a></p>
+
   <p>Welcome to the course page for the Introduction to Digital Signal Processing. This page contains all course realted information for students attending the course. For all course related queries please contact the course <a href="mailto:siva82kb@cmcvellore.ac.in">instructor</a>.</p>
 
   <h3 id="course-information-document">Course Information Document</h3>
@@ -11,7 +18,7 @@
 
   <p>Live discussion every Friday 5:30PM - 7:00PM.</p>
 
-  <h3 id="reference-textbooks">Reference textbooks</h3>
+  <h3 id="references">References</h3>
   <p>The following are some of the suggested references for the topics covered in the course. For each lecture, the releveant reading materials will be from one or more of the following books.</p>
 
   <ul>
@@ -49,7 +56,8 @@ Video lectures:
   <ul>
     <li>Lecture Slides |
 Video lecture |
-Assignment</li>
+Assignment <a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">[2a]</a> <a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">[2b]</a><br />
+  <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub></li>
   </ul>
 
   <h4 id="module-03-what-are-signals">Module 03: What are signals?</h4>
@@ -153,6 +161,14 @@ Coming soon
 
 ### Homework Assignments
 Coming soon -->
+
+  <h3 id="discussion-videos">Discussion videos</h3>
+  <ul>
+    <li><a href="/teaching/dsp/lectures/orientation.pdf">Discussion 01</a></li>
+  </ul>
+
+  <h3 id="submit-course-documents">Submit Course Documents</h3>
+  <p><a href="https://forms.gle/AAKEZZx1aFd58nd48">Submission link</a></p>
 
 </div>
 :ET

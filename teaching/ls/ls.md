@@ -6,6 +6,12 @@ title: Linear Systems
 <div class="well">
 ## Linear Systems
 ---
+[Course Information](#course-information-document) |
+[Lecture Timings](#lecture-timings) |
+[References](#references) |
+[Modules](#course-modules) |
+[Submit Stuff](#submit-course-documents)
+
 Welcome to the course page for Linear Systems. This page contains all course realted information for students attending the course. For all course related queries please contact the course [instructor](mailto:siva82kb.work@gmail.com).
 
 
@@ -16,8 +22,8 @@ You can download the course document information from [here]({{site.baseurl}}/te
 ### Lecture timings
 Mod, Wed - 7:30 AM to 9:00
 
-### Reference textbooks
-There is no one fixed textbook for the course. The course slides and course notes should serve as the first reference material for the course. However, you are strongly encouraged to refer to the following textbooks for the different topics covered in the course. The lecture slides for different topics will list the recommended reading material for the different topics.
+### References
+There is no one fixed textbook for the course. The course slides and course notes should serve as the first reference material for the course. However, you are strongly encouraged to refer to the following textbooks for the different topics covered in the course. The lecture slides f    or different topics will list the recommended reading material for the different topics.
 
 - G Strang, _Introduction to linear algebra_. Wellesley, MA: Wellesley-Cambridge Press, 1993.
 - CD Meyer, _Matrix analysis and applied linear algebra_. Siam; 2000 Jun 1.
@@ -114,7 +120,8 @@ Assignment
 Video lecture |
 Assignment
 
-
+### Submit Course Documents
+[Submission link](https://forms.gle/fnqPjoVQmx1jfSfg9)
 
 <!-- ### Course Notes
 The [course notes]({{site.baseurl}}/teaching/ls/lsnotes.pdf) contains some of the topics covered (and not covered) in the lectures. I am still in the process of preparing this document and hope to have at least a first draft completed soon. Please visit the page regularly to have the most up-to-date version. -->

@@ -1,6 +1,12 @@
-I"N<div class="well">
+I"Ê<div class="well">
   <h2 id="linear-systems">Linear Systems</h2>
   <hr />
+  <p><a href="#course-information-document">Course Information</a> |
+<a href="#lecture-timings">Lecture Timings</a> |
+<a href="#references">References</a> |
+<a href="#course-modules">Modules</a> |
+<a href="#submit-course-documents">Submit Stuff</a></p>
+
   <p>Welcome to the course page for Linear Systems. This page contains all course realted information for students attending the course. For all course related queries please contact the course <a href="mailto:siva82kb.work@gmail.com">instructor</a>.</p>
 
   <h3 id="course-information-document">Course Information Document</h3>
@@ -9,8 +15,8 @@
   <h3 id="lecture-timings">Lecture timings</h3>
   <p>Mod, Wed - 7:30 AM to 9:00</p>
 
-  <h3 id="reference-textbooks">Reference textbooks</h3>
-  <p>There is no one fixed textbook for the course. The course slides and course notes should serve as the first reference material for the course. However, you are strongly encouraged to refer to the following textbooks for the different topics covered in the course. The lecture slides for different topics will list the recommended reading material for the different topics.</p>
+  <h3 id="references">References</h3>
+  <p>There is no one fixed textbook for the course. The course slides and course notes should serve as the first reference material for the course. However, you are strongly encouraged to refer to the following textbooks for the different topics covered in the course. The lecture slides f    or different topics will list the recommended reading material for the different topics.</p>
 
   <ul>
     <li>G Strang, <em>Introduction to linear algebra</em>. Wellesley, MA: Wellesley-Cambridge Press, 1993.</li>
@@ -141,6 +147,9 @@ Assignment</li>
 Video lecture |
 Assignment</li>
   </ul>
+
+  <h3 id="submit-course-documents">Submit Course Documents</h3>
+  <p><a href="https://forms.gle/fnqPjoVQmx1jfSfg9">Submission link</a></p>
 
   <!-- ### Course Notes
 The [course notes](/teaching/ls/lsnotes.pdf) contains some of the topics covered (and not covered) in the lectures. I am still in the process of preparing this document and hope to have at least a first draft completed soon. Please visit the page regularly to have the most up-to-date version. -->

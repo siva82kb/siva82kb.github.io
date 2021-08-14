@@ -6,6 +6,13 @@ title: Introduction to DSP
 <div class="well">
 ## Introduction to Digital Signal Processing
 ---
+[Course Info](#course-information-document) |
+[Lecture Times](#lecture-timings) |
+[References](#references) |
+[Modules](#course-modules) |
+[Discussion](#discussion-videos) | 
+[Submit Stuff](#submit-course-documents)
+
 Welcome to the course page for the Introduction to Digital Signal Processing. This page contains all course realted information for students attending the course. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
 
 
@@ -18,7 +25,7 @@ All lectures are pre-recorded.
 
 Live discussion every Friday 5:30PM - 7:00PM.
 
-### Reference textbooks
+### References
 The following are some of the suggested references for the topics covered in the course. For each lecture, the releveant reading materials will be from one or more of the following books.
 
 - Oppenheim, Alan V., Ronald W. Schafer, and John R. Buck. Discrete-time signal processing. Vol. 2. Englewood Cliffs: Prentice-hall, 1989.
@@ -47,7 +54,8 @@ Video lectures:
 #### Module 02: Introduction to Python Programming
 - Lecture Slides |
 Video lecture |
-Assignment
+Assignment [[2a]](https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing) [[2b]](https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing)<br>
+    <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub>
 
 #### Module 03: What are signals?
 - Lecture Slides |
@@ -130,5 +138,13 @@ Coming soon
 
 ### Homework Assignments
 Coming soon -->
+
+
+### Discussion videos
+- [Discussion 01]({{site.baseurl}}/teaching/dsp/lectures/orientation.pdf)
+
+
+### Submit Course Documents
+[Submission link](https://forms.gle/AAKEZZx1aFd58nd48)
 
 </div>
