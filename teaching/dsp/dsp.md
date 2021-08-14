@@ -141,7 +141,7 @@ Coming soon -->
 
 
 ### Discussion videos
-- [Discussion 01]({{site.baseurl}}/teaching/dsp/lectures/orientation.pdf)
+- [Discussion 01](https://youtu.be/yUq7RIp1VLo)
 
 
 ### Submit Course Documents
