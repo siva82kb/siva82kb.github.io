@@ -1,4 +1,4 @@
-I"ë<div class="well">
+I"—<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -54,10 +54,11 @@ Video lectures:
 
   <h4 id="module-02-introduction-to-python-programming">Module 02: Introduction to Python Programming</h4>
   <ul>
-    <li>Lecture Slides |
-Video lecture |
+    <li><a href="/teaching/dsp/lectures/introtopython.pdf">Lecture Slides</a> |
+Video lecture: [<a href="https://youtu.be/1eXOSy_AHdM">01</a>] |
 Assignment <a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">[2a]</a> <a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">[2b]</a><br />
   <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub></li>
+    <li>Extra material: <a href="">[Google Colab Notebook]</a></li>
   </ul>
 
   <h4 id="module-03-what-are-signals">Module 03: What are signals?</h4>

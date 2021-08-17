@@ -52,8 +52,9 @@ Video lectures:
 - Extra videos: [[Functions]](https://www.youtube.com/watch?v=52tpYl2tTqk) [[Complex Numbers]](https://www.youtube.com/playlist?list=PL8eY_HDc45x-2mKqjasJUr3MTkkX_IcCG)
 
 #### Module 02: Introduction to Python Programming
-- Lecture Slides |
-Video lecture |
+- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/introtopython.pdf) |
+[Google Colab Notebook](https://colab.research.google.com/drive/1wW8mIdTPh-m57SgT8eX79ebIePl3i8WB?usp=sharing) | 
+Video lecture: [[01](https://youtu.be/1eXOSy_AHdM)] |
 Assignment [[2a]](https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing) [[2b]](https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing)<br>
     <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub>
 
