@@ -1,4 +1,4 @@
-I"—<div class="well">
+I"n<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -55,10 +55,10 @@ Video lectures:
   <h4 id="module-02-introduction-to-python-programming">Module 02: Introduction to Python Programming</h4>
   <ul>
     <li><a href="/teaching/dsp/lectures/introtopython.pdf">Lecture Slides</a> |
+<a href="https://colab.research.google.com/drive/1wW8mIdTPh-m57SgT8eX79ebIePl3i8WB?usp=sharing">Google Colab Notebook</a> | 
 Video lecture: [<a href="https://youtu.be/1eXOSy_AHdM">01</a>] |
 Assignment <a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">[2a]</a> <a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">[2b]</a><br />
   <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub></li>
-    <li>Extra material: <a href="">[Google Colab Notebook]</a></li>
   </ul>
 
   <h4 id="module-03-what-are-signals">Module 03: What are signals?</h4>
@@ -68,63 +68,70 @@ Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-04-sampling-theorem">Module 04: Sampling theorem</h4>
+  <h4 id="module-04-geometric-signal-theory">Module 04: Geometric Signal Theory</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-05-what-are-systems">Module 05: What are systems?</h4>
+  <h4 id="module-05-sampling-theorem">Module 05: Sampling theorem</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-06-linear-time-invaraint-systems-and-convolution">Module 06: Linear Time-Invaraint Systems and Convolution</h4>
+  <h4 id="module-06-what-are-systems">Module 06: What are systems?</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-07-fourier-representation-of-signals">Module 07: Fourier Representation of Signals</h4>
+  <h4 id="module-07-linear-time-invaraint-systems-and-convolution">Module 07: Linear Time-Invaraint Systems and Convolution</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-08-z-transform">Module 08: Z transform</h4>
+  <h4 id="module-08-fourier-representation-of-signals">Module 08: Fourier Representation of Signals</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-09-discrete-fourier-transform">Module 09: Discrete Fourier Transform</h4>
+  <h4 id="module-09-z-transform">Module 09: Z transform</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-10-frequency-selective-filters">Module 10: Frequency Selective Filters</h4>
+  <h4 id="module-10-discrete-fourier-transform">Module 10: Discrete Fourier Transform</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-11-short-time-fourier-transform">Module 11: Short-time Fourier Transform</h4>
+  <h4 id="module-11-frequency-selective-filters">Module 11: Frequency Selective Filters</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-12-introduction-to-wavelet-transform">Module 12: Introduction to Wavelet Transform</h4>
+  <h4 id="module-12-short-time-fourier-transform">Module 12: Short-time Fourier Transform</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-13-introduction-to-wavelet-transform">Module 13: Introduction to Wavelet Transform</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |

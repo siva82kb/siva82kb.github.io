@@ -63,47 +63,52 @@ Assignment [[2a]](https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScB
 Video lecture |
 Assignment
 
-#### Module 04: Sampling theorem
+#### Module 04: Geometric Signal Theory
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 05: What are systems?
+#### Module 05: Sampling theorem
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 06: Linear Time-Invaraint Systems and Convolution
+#### Module 06: What are systems?
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 07: Fourier Representation of Signals
+#### Module 07: Linear Time-Invaraint Systems and Convolution
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 08: Z transform
+#### Module 08: Fourier Representation of Signals
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 09: Discrete Fourier Transform
+#### Module 09: Z transform
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 10: Frequency Selective Filters
+#### Module 10: Discrete Fourier Transform
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 11: Short-time Fourier Transform
+#### Module 11: Frequency Selective Filters
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 12: Introduction to Wavelet Transform
+#### Module 12: Short-time Fourier Transform
+- Lecture Slides |
+Video lecture |
+Assignment
+
+#### Module 13: Introduction to Wavelet Transform
 - Lecture Slides |
 Video lecture |
 Assignment

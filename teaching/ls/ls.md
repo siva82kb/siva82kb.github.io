@@ -38,12 +38,14 @@ There is no one fixed textbook for the course. The course slides and course note
 Video lectures: 
 [[01]](https://youtu.be/ju2OOo9SSDw)
 [[02]](https://youtu.be/JmVBRKQi4ns) 
-[[03]](https://youtu.be/eSHx-JXb4KI) |
+[[03]](https://youtu.be/eSHx-JXb4KI)
+[[04]](https://youtu.be/AgFGFZnTt4k) |
 [Assignment]({{site.baseurl}}/teaching/ls/assignments/vectors.pdf)
 
 #### Module 02: Matrices
 - [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/matrices.pdf) |
-Video lecture |
+Video lecture:
+[[01]](https://youtu.be/AgFGFZnTt4k?t=1171) |
 Assignment
 
 #### Module 03: Orthogonality
