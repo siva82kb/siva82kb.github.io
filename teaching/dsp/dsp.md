@@ -59,12 +59,12 @@ Assignment [[2a]](https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScB
     <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub>
 
 #### Module 03: What are signals?
-- Lecture Slides |
+- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/signals.pdf) |
 Video lecture |
 Assignment
 
 #### Module 04: Geometric Signal Theory
-- Lecture Slides |
+- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/geometricsignaltheory.pdf) |
 Video lecture |
 Assignment
 
