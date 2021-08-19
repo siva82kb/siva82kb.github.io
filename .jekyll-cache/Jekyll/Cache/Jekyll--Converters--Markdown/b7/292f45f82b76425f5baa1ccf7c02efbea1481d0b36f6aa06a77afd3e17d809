@@ -1,4 +1,4 @@
-I"Þ<div class="well">
+I"T<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -38,7 +38,7 @@
     <li><a href="/teaching/dsp/lectures/orientation.pdf">Lecture Slides</a> |
 <a href="/teaching/dsp/written_slides/orientation.pdf">Marked Slides</a> |
 Video lectures: 
-<a href="https://youtu.be/n8LgrM7dAh0">[01]</a></li>
+[<a href="https://youtu.be/n8LgrM7dAh0">01</a>]</li>
   </ul>
 
   <h4 id="module-01-mathematical-preliminaries">Module 01: Mathematical Preliminaries</h4>
@@ -46,10 +46,10 @@ Video lectures:
     <li><a href="/teaching/dsp/lectures/mathprelim.pdf">Lecture Slides</a> |
 <a href="/teaching/dsp/written_slides/mathprelim.pdf">Marked Slides</a> |
 Video lectures: 
-<a href="https://youtu.be/h3I_REUCsbA">[01]</a> |
+[<a href="https://youtu.be/h3I_REUCsbA">01</a>] |
 <a href="/teaching/dsp/assignments/mathprelim.pdf">Assignment</a>
 <br /></li>
-    <li>Extra videos: <a href="https://www.youtube.com/watch?v=52tpYl2tTqk">[Functions]</a> <a href="https://www.youtube.com/playlist?list=PL8eY_HDc45x-2mKqjasJUr3MTkkX_IcCG">[Complex Numbers]</a></li>
+    <li>Extra videos: [<a href="https://www.youtube.com/watch?v=52tpYl2tTqk">Functions</a>] [<a href="https://www.youtube.com/playlist?list=PL8eY_HDc45x-2mKqjasJUr3MTkkX_IcCG">Complex Numbers</a>]</li>
   </ul>
 
   <h4 id="module-02-introduction-to-python-programming">Module 02: Introduction to Python Programming</h4>
@@ -57,7 +57,7 @@ Video lectures:
     <li><a href="/teaching/dsp/lectures/introtopython.pdf">Lecture Slides</a> |
 <a href="https://colab.research.google.com/drive/1wW8mIdTPh-m57SgT8eX79ebIePl3i8WB?usp=sharing">Google Colab Notebook</a> | 
 Video lecture: [<a href="https://youtu.be/1eXOSy_AHdM">01</a>] |
-Assignment <a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">[2a]</a> <a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">[2b]</a><br />
+Assignment [<a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">2a</a>] [<a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">2b</a>] | Tutorials: [<a href="https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO2vXfAnORzY?usp=sharing">01</a>]<br />
   <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub></li>
   </ul>
 
