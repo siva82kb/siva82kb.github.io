@@ -72,7 +72,7 @@ Video lecture |
 Assignment
 
 #### Module 05: Sampling theorem
-- Lecture Slides |
+- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/samplingtheorem.pdf) |
 Video lecture |
 Assignment
 

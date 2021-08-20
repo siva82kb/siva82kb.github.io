@@ -1,4 +1,4 @@
-I"T<div class="well">
+I"Œ<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -57,8 +57,11 @@ Video lectures:
     <li><a href="/teaching/dsp/lectures/introtopython.pdf">Lecture Slides</a> |
 <a href="https://colab.research.google.com/drive/1wW8mIdTPh-m57SgT8eX79ebIePl3i8WB?usp=sharing">Google Colab Notebook</a> | 
 Video lecture: [<a href="https://youtu.be/1eXOSy_AHdM">01</a>] |
-Assignment [<a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">2a</a>] [<a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">2b</a>] | Tutorials: [<a href="https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO2vXfAnORzY?usp=sharing">01</a>]<br />
-  <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub></li>
+Assignment:
+[<a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">2a</a>]
+[<a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">2b</a>] |
+Tutorials: [<a href="https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO2vXfAnORzY?usp=sharing">01</a>]<br />
+<sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub></li>
   </ul>
 
   <h4 id="module-03-what-are-signals">Module 03: What are signals?</h4>
@@ -77,7 +80,7 @@ Assignment</li>
 
   <h4 id="module-05-sampling-theorem">Module 05: Sampling theorem</h4>
   <ul>
-    <li>Lecture Slides |
+    <li><a href="/teaching/dsp/lectures/samplingtheorem.pdf">Lecture Slides</a> |
 Video lecture |
 Assignment</li>
   </ul>
