@@ -49,9 +49,9 @@ From a practical perspective, there are two issues with fixed-point numbers.
   - have a resultion of at least 0.1Kg, and 
   - be able to represent numbers as large as 200,000Kg.
 
-This could be achieved with a 21-bit fixed-point number with the radix point between $$b_{4}$$ and $$b_{3}$$ bits: $$b_{20}b_{19}b_{18} \ldots b_{6}b_{5}b_{4}.b_3b_2b_1b_0$$. It sounds like we would be able to do this easily on a 32-bit machine. However, this is a highly inefficient way of representing numbers for practical purposes. This 21 fixed-point number would allow us to specify the mass of a blue whale upto an accuracy of 0.1Kg! Who would ever want to know the mass that accurately, assuming we can actually reliably measure it to that level of accuracy?
+This could be achieved with a 21-bit fixed-point number with the radix point between $$b_{4}$$ and $$b_{3}$$ bits: $$b_{20}b_{19}b_{18} \ldots b_{6}b_{5}b_{4}.b_3b_2b_1b_0$$. It sounds like we would be able to do this easily on a 32-bit machine. However, this is a highly inefficient way of representing numbers for practical purposes. This 21 fixed-point number would allow us to specify the mass of a blue whale upto an accuracy of 0.1Kg! Who would ever want to know the mass that accurately, assuming we can actually  measure it to that level of accuracy?
 
-It turns out, in practice, _relative resolution_ is more useful than absolute resultion. Relative resolution is the ratio of the difference between successive numbers with respect o the mangitude of the numbers. With floating-point numbers the relative resolution remains the same throughout the range of these numbers. 
+It turns out, in practice, _relative resolution_ is more useful than absolute resultion. Relative resolution is the ratio of the difference between successive numbers with respect to the mangitude of the numbers. With floating-point numbers the relative resolution remains the same throughout the range of these numbers. 
 
 
 

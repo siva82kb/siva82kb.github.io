@@ -54,7 +54,7 @@ Video lectures:
 #### Module 02: Introduction to Python Programming
 - [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/introtopython.pdf) |
 [Google Colab Notebook](https://colab.research.google.com/drive/1wW8mIdTPh-m57SgT8eX79ebIePl3i8WB?usp=sharing) | 
-Video lecture: [[01](https://youtu.be/1eXOSy_AHdM)] [[02](https://youtu.be/SOLMLhd_EIs)] |
+Video lecture: [[01](https://youtu.be/1eXOSy_AHdM)] [[02](https://youtu.be/SOLMLhd_EIs)] [[03](https://youtu.be/Rzvn0RAgetU)] |
 Assignment:
 [[2a](https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing)]
 [[2b](https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing)] |

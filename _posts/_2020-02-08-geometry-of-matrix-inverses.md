@@ -30,7 +30,25 @@ $$ \mathbf{x} = \mathbf{A}^{-1}\mathbf{b} $$
 Thus, we see that $$\mathbf{A}^{-1}$$ is the matrix that allows us to change the representation of a vector to the $$\mathcal{A}$$ basis.
 
 #### Non-square matrices have left or right inverses, but not both
-For full (column or row) rank non-square matrices, we can still have inverses, but there are some peculiarities.
+For full (column or row) rank non-square matrices, we can still have inverses, but there are some peculiarities. Let $\mathbf{A} \in \mathbb{R}^{n \times m}$.
+1. **Tall full rank matrix**:
+    
+    $$n > m, \,\, rank\left(\mathbf{A}\right) = m \implies \mathbf{B} \mathbf{A} = \mathbf{I}_{m}$$
+
+    This means that, $\mathbf{B}\mathbf{A}\mathbf{x} = \mathbf{B}\mathbf{b} \implies \mathbf{x} = \mathbf{B}\mathbf{b}$. When $\mathbf{x}$ is substituted back into the original equation, we get
+
+    $$ \begin{cases}
+    \mathbf{b} \in \mathcal{C}\left(\mathbf{A}\right) &\implies \mathbf{A}\mathbf{B}\mathbf{b} = \mathbf{b} \\
+    \mathbf{b} \notin \mathcal{C}\left(\mathbf{A}\right) &\implies \mathbf{A}\mathbf{B}\mathbf{b} \neq \mathbf{b}
+    \end{cases}
+    $$
+
+    The left inverses are all possible projection matrices that project the vector 
+2. **Fat full rank matrix**:
+    
+    $$n < m, \,\, rank\left(\mathbf{A}\right) = n \implies \mathbf{A} \mathbf{B} = \mathbf{I}_{n}$$
+
+- The left and the right inverses are not unique, there an infinite number of left and right inverses.
 
 
 
