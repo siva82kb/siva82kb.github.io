@@ -1,4 +1,4 @@
-I"2<div class="well">
+I"c<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -56,7 +56,10 @@ Video lectures:
   <ul>
     <li><a href="/teaching/dsp/lectures/introtopython.pdf">Lecture Slides</a> |
 <a href="https://colab.research.google.com/drive/1wW8mIdTPh-m57SgT8eX79ebIePl3i8WB?usp=sharing">Google Colab Notebook</a> | 
-Video lecture: [<a href="https://youtu.be/1eXOSy_AHdM">01</a>] [<a href="https://youtu.be/SOLMLhd_EIs">02</a>] [<a href="https://youtu.be/Rzvn0RAgetU">03</a>] |
+Video lecture:
+[<a href="https://youtu.be/1eXOSy_AHdM">01</a>]
+[<a href="https://youtu.be/SOLMLhd_EIs">02</a>]
+[<a href="https://youtu.be/Rzvn0RAgetU">03</a>] |
 Assignment:
 [<a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">2a</a>]
 [<a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">2b</a>] |
@@ -67,7 +70,8 @@ Tutorials: [<a href="https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK
   <h4 id="module-03-what-are-signals">Module 03: What are signals?</h4>
   <ul>
     <li><a href="/teaching/dsp/lectures/signals.pdf">Lecture Slides</a> |
-Video lecture |
+Video lecture:
+[<a href="https://youtu.be/q3m944tOGzE">01</a>] |
 Assignment</li>
   </ul>
 

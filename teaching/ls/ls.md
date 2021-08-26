@@ -46,8 +46,9 @@ Video lectures:
 - [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/matrices.pdf) |
 Video lecture:
 [[01](https://youtu.be/AgFGFZnTt4k?t=1171)]
-[[02](https://youtu.be/69nFHl5QKrs)] |
-Assignment
+[[02](https://youtu.be/69nFHl5QKrs)] 
+[[03](https://youtu.be/RWPG61KHk7Y)] |
+[Assignment]({{site.baseurl}}/teaching/ls/assignments/matrix.pdf)
 
 #### Module 03: Orthogonality
 - [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/orthogonality.pdf) |

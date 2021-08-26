@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geometry of matrix inverses"
-date: 2020-02-08 20:00:060 +0530
+date: 2021-08-20 20:00:060 +0530
 comments: true
 categories: [linear-algebra]
 ---
@@ -30,23 +30,34 @@ $$ \mathbf{x} = \mathbf{A}^{-1}\mathbf{b} $$
 Thus, we see that $$\mathbf{A}^{-1}$$ is the matrix that allows us to change the representation of a vector to the $$\mathcal{A}$$ basis.
 
 #### Non-square matrices have left or right inverses, but not both
-For full (column or row) rank non-square matrices, we can still have inverses, but there are some peculiarities. Let $\mathbf{A} \in \mathbb{R}^{n \times m}$.
-1. **Tall full rank matrix**:
-    
-    $$n > m, \,\, rank\left(\mathbf{A}\right) = m \implies \mathbf{B} \mathbf{A} = \mathbf{I}_{m}$$
+For full (column or row) rank non-square matrices, we can still have inverses, but there are some peculiarities: 
+  1. We can only have left or right inverses, as is described below, and (b) 
+  2. The left and right inverses are not unique. Let $\mathbf{A} \in \mathbb{R}^{n \times m}$.
 
-    This means that, $\mathbf{B}\mathbf{A}\mathbf{x} = \mathbf{B}\mathbf{b} \implies \mathbf{x} = \mathbf{B}\mathbf{b}$. When $\mathbf{x}$ is substituted back into the original equation, we get
+**Tall full rank matrix** only have left inverses:
 
-    $$ \begin{cases}
-    \mathbf{b} \in \mathcal{C}\left(\mathbf{A}\right) &\implies \mathbf{A}\mathbf{B}\mathbf{b} = \mathbf{b} \\
-    \mathbf{b} \notin \mathcal{C}\left(\mathbf{A}\right) &\implies \mathbf{A}\mathbf{B}\mathbf{b} \neq \mathbf{b}
-    \end{cases}
-    $$
+$$n > m, \,\, rank\left(\mathbf{A}\right) = m \implies \mathbf{B} \mathbf{A} = \mathbf{I}_{m}$$
 
-    The left inverses are all possible projection matrices that project the vector 
-2. **Fat full rank matrix**:
-    
-    $$n < m, \,\, rank\left(\mathbf{A}\right) = n \implies \mathbf{A} \mathbf{B} = \mathbf{I}_{n}$$
+This means that, $\mathbf{B}\mathbf{A}\mathbf{x} = \mathbf{B}\mathbf{b} \implies \mathbf{x} = \mathbf{B}\mathbf{b}$. When $\mathbf{x}$ is substituted back into the original equation, we get
+
+$$ \begin{cases}
+\mathbf{b} \in \mathcal{C}\left(\mathbf{A}\right) &\implies \mathbf{A}\left(\mathbf{B}\mathbf{b}\right) = \mathbf{b} \\
+\mathbf{b} \notin \mathcal{C}\left(\mathbf{A}\right) &\implies \mathbf{A}\left(\mathbf{B}\mathbf{b}\right) \neq \mathbf{b}
+\end{cases}
+$$
+
+For a given left inverse $\mathbf{B}$, adding a matrix $\mathbf{C}$ whose rows are orthogonal to the columns of $\mathbf{A}$ will result in another left inverse of $\mathbf{A}$.
+
+$$ \left( \mathbf{B} + \mathbf{C} \right) \mathbf{A} = \mathbf{I}_m, \, s.t. \, \mathbf{C}\mathbf{A} = \mathbf{0} $$
+
+The rows of $\mathbf{C}$ will be vectors from $\mathcal{N}\left(\mathbf{A}^\top\right)$ - the left nullspace of $\mathbf{A}$. Thus, it is clear that there are infinitely many left inverses for $\mathbf{A}$.
+
+What do all these left inverse matrices do? 
+
+
+**Fat full rank matrix**:
+
+$$n < m, \,\, rank\left(\mathbf{A}\right) = n \implies \mathbf{A} \mathbf{B} = \mathbf{I}_{n}$$
 
 - The left and the right inverses are not unique, there an infinite number of left and right inverses.
 
