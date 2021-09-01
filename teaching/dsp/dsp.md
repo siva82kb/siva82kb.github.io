@@ -37,22 +37,22 @@ A more advanced book that goes into the mathematical foundations of signal proce
 
 ### Course Modules
 #### Orientation
-- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/orientation.pdf) |
-[Marked Slides]({{site.baseurl}}/teaching/dsp/written_slides/orientation.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/00-orientation/orientation.pdf) |
+[Marked Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/written_slides/orientation.pdf) |
 Video lectures: 
 [[01](https://youtu.be/n8LgrM7dAh0)]
 
 #### Module 01: Mathematical Preliminaries
-- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/mathprelim.pdf) |
-[Marked Slides]({{site.baseurl}}/teaching/dsp/written_slides/mathprelim.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/01-mathprelim/mathprelim.pdf) |
+[Marked Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/written_slides/mathprelim.pdf) |
 Video lectures: 
 [[01](https://youtu.be/h3I_REUCsbA)] |
-[Assignment]({{site.baseurl}}/teaching/dsp/assignments/mathprelim.pdf)
+[Assignment](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/00-mathprelim/mathprelim.pdf)
 <br>
 - Extra videos: [[Functions](https://www.youtube.com/watch?v=52tpYl2tTqk)] [[Complex Numbers](https://www.youtube.com/playlist?list=PL8eY_HDc45x-2mKqjasJUr3MTkkX_IcCG)]
 
 #### Module 02: Introduction to Python Programming
-- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/introtopython.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/02-introtopython/introtopython.pdf) |
 [Google Colab Notebook](https://colab.research.google.com/drive/1wW8mIdTPh-m57SgT8eX79ebIePl3i8WB?usp=sharing) | 
 Video lecture:
 [[01](https://youtu.be/1eXOSy_AHdM)]
@@ -66,19 +66,19 @@ Tutorials: [[01](https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO
 <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub>
 
 #### Module 03: What are signals?
-- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/signals.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/03-signals/signals.pdf) |
 Video lecture:
 [[01](https://youtu.be/q3m944tOGzE)]
 [[02](https://youtu.be/QBt0hPJOELY)] |
 Assignment
 
 #### Module 04: Geometric Signal Theory
-- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/geometricsignaltheory.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/04-geometricsignaltheory/geometricsignaltheory.pdf) |
 Video lecture |
 Assignment
 
 #### Module 05: Sampling theorem
-- [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/samplingtheorem.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/05-samplingtheorem/samplingtheorem.pdf) |
 Video lecture |
 Assignment
 

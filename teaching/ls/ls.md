@@ -34,76 +34,76 @@ There is no one fixed textbook for the course. The course slides and course note
 
 ### Course Modules
 #### Module 01: Vectors
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/vectors.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/01-vectors/vectors.pdf) |
 Video lectures: 
 [[01](https://youtu.be/ju2OOo9SSDw)]
 [[02](https://youtu.be/JmVBRKQi4ns)] 
 [[03](https://youtu.be/eSHx-JXb4KI)]
 [[04](https://youtu.be/AgFGFZnTt4k)] |
-[Assignment]({{site.baseurl}}/teaching/ls/assignments/vectors.pdf)
+[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/01-vectors/vectors.pdf)
 
 #### Module 02: Matrices
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/matrices.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/02-matrices/matrices.pdf) |
 Video lecture:
 [[01](https://youtu.be/AgFGFZnTt4k?t=1171)]
 [[02](https://youtu.be/69nFHl5QKrs)] 
 [[03](https://youtu.be/RWPG61KHk7Y)] 
 [[04](https://youtu.be/0ufBomd6u5U)]
 [[05](https://youtu.be/558MKybdmAw)] |
-[Assignment]({{site.baseurl}}/teaching/ls/assignments/matrix.pdf)
+[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/02-matrix/matrix.pdf)
 
 #### Module 03: Orthogonality
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/orthogonality.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/03-orthogonality/orthogonality.pdf) |
 Video lecture |
 Assignment
 
 #### Module 04: Matrix Inverses
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/matrixinverses.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/04-matrixinverses/matrixinverses.pdf) |
 Video lecture |
 Assignment
 
 #### Module 04: Eigenvectors and eigenvalues
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/eigenvalvec.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 
 #### Module 06: Positive definiteness and Matrix norm
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/pdmatnorm.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 
 #### Module 07: Singular Value Decomposition
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/svd.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 
 #### Module 08: Linear Least Squares Methods
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/leastsquares.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 
 #### Module 09: Linear Dynamical Systems (LDS) - Transfer Function View
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/ldstfview.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 
 #### Module 10: LDS - State Space View
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/ldsss.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 
 #### Module 11: Solution of LDS
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/ldssol.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 
 #### Module 12: Stability
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/stability.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 
 #### Module 13: Controllability and Observability
-- [Lecture Slides]({{site.baseurl}}/teaching/ls/lectures/contobs.pdf) |
+- Lecture Slides |
 Video lecture |
 Assignment
 

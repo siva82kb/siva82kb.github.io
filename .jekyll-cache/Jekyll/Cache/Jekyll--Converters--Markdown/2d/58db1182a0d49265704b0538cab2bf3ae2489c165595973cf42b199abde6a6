@@ -1,4 +1,4 @@
-I"W<div class="well">
+I"Ç<div class="well">
   <h2 id="linear-systems">Linear Systems</h2>
   <hr />
   <p><a href="#course-information-document">Course Information</a> |
@@ -29,7 +29,7 @@
   <h3 id="course-modules">Course Modules</h3>
   <h4 id="module-01-vectors">Module 01: Vectors</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/vectors.pdf">Lecture Slides</a> |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/01-vectors/vectors.pdf">Lecture Slides</a> |
 Video lectures: 
 [<a href="https://youtu.be/ju2OOo9SSDw">01</a>]
 [<a href="https://youtu.be/JmVBRKQi4ns">02</a>] 
@@ -40,7 +40,7 @@ Video lectures:
 
   <h4 id="module-02-matrices">Module 02: Matrices</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/matrices.pdf">Lecture Slides</a> |
+    <li><a href="[/teaching/ls/lectures/matrices.pdf](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/02-matrices/matrices.pdf)">Lecture Slides</a> |
 Video lecture:
 [<a href="https://youtu.be/AgFGFZnTt4k?t=1171">01</a>]
 [<a href="https://youtu.be/69nFHl5QKrs">02</a>] 
@@ -52,77 +52,77 @@ Video lecture:
 
   <h4 id="module-03-orthogonality">Module 03: Orthogonality</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/orthogonality.pdf">Lecture Slides</a> |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/03-orthogonality/orthogonality.pdf">Lecture Slides</a> |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-04-matrix-inverses">Module 04: Matrix Inverses</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/matrixinverses.pdf">Lecture Slides</a> |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/04-matrixinverses/matrixinverses.pdf">Lecture Slides</a> |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-04-eigenvectors-and-eigenvalues">Module 04: Eigenvectors and eigenvalues</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/eigenvalvec.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-06-positive-definiteness-and-matrix-norm">Module 06: Positive definiteness and Matrix norm</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/pdmatnorm.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-07-singular-value-decomposition">Module 07: Singular Value Decomposition</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/svd.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-08-linear-least-squares-methods">Module 08: Linear Least Squares Methods</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/leastsquares.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-09-linear-dynamical-systems-lds---transfer-function-view">Module 09: Linear Dynamical Systems (LDS) - Transfer Function View</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/ldstfview.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-10-lds---state-space-view">Module 10: LDS - State Space View</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/ldsss.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-11-solution-of-lds">Module 11: Solution of LDS</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/ldssol.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-12-stability">Module 12: Stability</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/stability.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
   <h4 id="module-13-controllability-and-observability">Module 13: Controllability and Observability</h4>
   <ul>
-    <li><a href="/teaching/ls/lectures/contobs.pdf">Lecture Slides</a> |
+    <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
