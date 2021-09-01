@@ -1,4 +1,4 @@
-I"c<div class="well">
+I"C<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -63,7 +63,8 @@ Video lecture:
 Assignment:
 [<a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">2a</a>]
 [<a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">2b</a>] |
-Tutorials: [<a href="https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO2vXfAnORzY?usp=sharing">01</a>]<br />
+Tutorials: [<a href="https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO2vXfAnORzY?usp=sharing">01</a>] 
+[<a href="https://colab.research.google.com/drive/1x2SmGkODkz47l68hMyTTTVV5MbZqP5Bu?usp=sharing">02</a>]<br />
 <sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub></li>
   </ul>
 
@@ -71,7 +72,8 @@ Tutorials: [<a href="https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK
   <ul>
     <li><a href="/teaching/dsp/lectures/signals.pdf">Lecture Slides</a> |
 Video lecture:
-[<a href="https://youtu.be/q3m944tOGzE">01</a>] |
+[<a href="https://youtu.be/q3m944tOGzE">01</a>]
+[<a href="https://youtu.be/QBt0hPJOELY">02</a>] |
 Assignment</li>
   </ul>
 
@@ -181,6 +183,7 @@ Coming soon -->
   <ul>
     <li><a href="https://youtu.be/yUq7RIp1VLo">Discussion 01</a></li>
     <li><a href="https://youtu.be/d1gH2OCJJL4">Discussion 02</a></li>
+    <li><a href="https://youtu.be/tWRTDyL08es">Discussion 03</a></li>
   </ul>
 
   <h3 id="submit-course-documents">Submit Course Documents</h3>

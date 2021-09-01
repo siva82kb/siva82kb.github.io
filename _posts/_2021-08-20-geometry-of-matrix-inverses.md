@@ -45,8 +45,6 @@ What $\mathbf{x}$ represents depends on whether or not $\mathbf{b}$ is in the co
 - $\mathbf{b} \in \mathcal{C}\left( \mathbf{A} \right) \implies $ $\mathbf{x} = \mathbf{B}\mathbf{b}$ is representation of $\mathbf{b}$ in the *column basis* of $\mathbf{A}$.
 - $\mathbf{b} \notin \mathcal{C}\left( \mathbf{A} \right) \implies $  $\mathbf{x} = \mathbf{Bb}$ is the representation of some vector $\hat{\mathbf{b}}$ $=$ $\mathbf{ABb}$ in the *column basis* of $\mathbf{A}$.
 
-
-
 When $\mathbf{x}$ is substituted back into the original equation, we get
 
 $$ \begin{cases}

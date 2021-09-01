@@ -68,7 +68,8 @@ Tutorials: [[01](https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO
 #### Module 03: What are signals?
 - [Lecture Slides]({{site.baseurl}}/teaching/dsp/lectures/signals.pdf) |
 Video lecture:
-[[01](https://youtu.be/q3m944tOGzE)] |
+[[01](https://youtu.be/q3m944tOGzE)]
+[[02](https://youtu.be/QBt0hPJOELY)] |
 Assignment
 
 #### Module 04: Geometric Signal Theory
@@ -157,6 +158,7 @@ Coming soon -->
 ### Discussion videos
 - [Discussion 01](https://youtu.be/yUq7RIp1VLo)
 - [Discussion 02](https://youtu.be/d1gH2OCJJL4)
+- [Discussion 03](https://youtu.be/tWRTDyL08es)
 
 
 ### Submit Course Documents
