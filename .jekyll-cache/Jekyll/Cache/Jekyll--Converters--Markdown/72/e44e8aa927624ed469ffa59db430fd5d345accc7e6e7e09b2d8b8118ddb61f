@@ -1,10 +1,10 @@
-I"C<p>Most of us that have studied signal processing or control theory would be familiar with the input-output relationship of linear time-invariant (LTI) systems. If $H$ is an LTI system with impulse response $h(t)$, then the output of the system for any arbitrary input is given by <strong>convolution integral</strong>,</p>
+I"D<p>Most of us that have studied signal processing or control theory would be familiar with the input-output relationship of linear time-invariant (LTI) systems. If $H$ is an LTI system with impulse response $h(t)$, then the output of the system for any arbitrary input is given by <strong>convolution integral</strong>,</p>
 
 \[y(t) = \int_{-\infty}^{\infty} h(\tau) x(t - \tau) d\tau \,, \quad t \in \mathbb{R}\]
 
 <p>The same idea can be applied to a discrete-time system with impulse response $h[n]$. The output in this case is given by the <strong>convolution sum</strong>,</p>
 
-\[y[n] = \sum_{k=\infty}^{\infty}h[k]x[n - k] \,, \quad n \in \mathbb{Z}\]
+\[y[n] = \sum_{k=-\infty}^{\infty}h[k]x[n - k] \,, \quad n \in \mathbb{Z}\]
 
 <p>The fact that input-output (IO) relationships for LIT systems can be determined through convolution, also leads to popular transform-based representation, analysis and design of LIT systems.</p>
 
