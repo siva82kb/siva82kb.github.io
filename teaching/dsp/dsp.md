@@ -75,7 +75,7 @@ Assignment
 
 #### Module 04: Geometric Signal Theory
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/04-geometricsignaltheory/geometricsignaltheory.pdf) |
-[Video lecture](https://youtu.be/QZqRU7kwsXE) |
+Video lecture: [[01](https://youtu.be/QZqRU7kwsXE)] |
 Assignment
 
 #### Module 05: Sampling theorem
