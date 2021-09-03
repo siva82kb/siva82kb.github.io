@@ -70,6 +70,7 @@ Tutorials: [[01](https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO
 Video lecture:
 [[01](https://youtu.be/q3m944tOGzE)]
 [[02](https://youtu.be/QBt0hPJOELY)] |
+[Tutorial](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/02-signals/tutorial-signals.pdf) | 
 Assignment
 
 #### Module 04: Geometric Signal Theory
