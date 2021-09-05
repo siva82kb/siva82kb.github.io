@@ -63,7 +63,7 @@ Video lecture |
 Assignment
 
 #### Module 04: Eigenvectors and eigenvalues
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/05-eigenvalvec/eigenvalvec.pdf) |
 Video lecture |
 Assignment
 

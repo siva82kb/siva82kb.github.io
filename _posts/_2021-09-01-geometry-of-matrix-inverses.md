@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geometry of matrix inverses"
-date: 2021-08-20 20:00:060 +0530
+date: 2021-09-01 20:00:060 +0530
 comments: true
 categories: [linear-algebra]
 ---
@@ -17,24 +17,31 @@ When the domain and range spaces are the same, then $$\mathbf{A}$$ is a square m
 
 The matrix $$\mathbf{A}$$ has a unique inverse $$\mathbf{A}^{-1}$$, if and only if the $$\mathbf{A}$$ is full-rank, i.e. the columns of the matrix form a basis for $$\mathbb{R}^n$$. In this case, $$\mathbf{A}^{-1}\mathbf{A} = \mathbf{A}\mathbf{A}^{-1} = \mathbf{I}_n$$, where $$\mathbf{I}_n$$ is the $$n \times n$$ identity matrix.
 
-#### Matrix inverses allow us to change basis
+### Matrix inverses allow us to change basis
 
-Consider the equation, $$\mathbf{A}\mathbf{x} = \mathbf{b}$$. This equation says that the vector $$\mathbf{b}$$ is a linear combination of the columns of $$\mathbf{A}$$, with the weight for each columns given by the elements of $$\mathbf{x}$$.
+Consider the equation, $$\mathbf{A}\mathbf{x} = \mathbf{y}$$. This equation says that the vector $$\mathbf{y}$$ is a linear combination of the columns of $$\mathbf{A}$$, with the weight for each columns given by the elements of $$\mathbf{x}$$.
 
-$$ \mathbf{b} = \mathbf{A}\mathbf{x} = \begin{bmatrix} \mathbf{a}_1 & \mathbf{a}_2 & \cdots & \mathbf{a}_n\end{bmatrix} \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n\end{bmatrix} = \sum_{i=1}^n x_i\mathbf{a}_i $$
+$$ \mathbf{y} = \mathbf{A}\mathbf{x} = \begin{bmatrix} \mathbf{a}_1 & \mathbf{a}_2 & \cdots & \mathbf{a}_n\end{bmatrix} \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n\end{bmatrix} = \sum_{i=1}^n x_i\mathbf{a}_i $$
 
-Here, $$\mathbf{x}$$ is the representation of the vector $$\mathbf{b}$$ in the basis of $$\mathbb{R}^n$$ formed by the columns of $$\mathbf{A}$$ (we will refer to this basis as the *column basis*). Given $$\mathbf{A}$$ and $$\mathbf{b}$$, we can solve for $$\mathbf{x}$$ using the inverse of $$\mathbf{A}$$, 
+Here, $$\mathbf{x}$$ is the representation of the vector $$\mathbf{y}$$ in the basis of $$\mathbb{R}^n$$ formed by the columns of $$\mathbf{A}$$ (we will refer to this basis as the *column basis*). Given $$\mathbf{A}$$ and $$\mathbf{y}$$, we can solve for $$\mathbf{x}$$ using the inverse of $$\mathbf{A}$$, 
 
-$$ \mathbf{x} = \mathbf{A}^{-1}\mathbf{b} $$
+$$ \mathbf{x} = \mathbf{A}^{-1}\mathbf{y} $$
 
 Thus, we see that $$\mathbf{A}^{-1}$$ is the matrix that allows us to change the representation of a vector to the *column basis*.
 
-#### Non-square matrices have left or right inverses, but not both
+**Structure of a matrix inverse**
+Let us express $\mathbf{A}^{-1}$ as a columns of rows.
+$$ \mathbf{A}^{-1} = \begin{bmatrix} \mathbf{\tilde{b}}_1^\top \\ \mathbf{\tilde{b}}_2^\top \\ \vdots \\ \mathbf{\tilde{b}}_n^\top\end{bmatrix} $$.
+
+
+### Non-square matrices have left or right inverses, but not both
 For full (column or row) rank non-square matrices, we can still have inverses, but there are some peculiarities: 
   1. We can only have left or right inverses, as is described below, and (b) 
   2. The left and right inverses are not unique. Let $\mathbf{A} \in \mathbb{R}^{n \times m}$.
 
-**Tall full rank matrix** only have left inverses:
+#### Tall full rank matrix
+
+Tall full rank matrices only have left inverses:
 
 $$n > m, \,\, rank\left(\mathbf{A}\right) = m \implies \mathbf{B} \mathbf{A} = \mathbf{I}_{m}$$
 
@@ -59,12 +66,15 @@ $$ \left( \mathbf{B} + \mathbf{C} \right) \mathbf{A} = \mathbf{I}_m, \, s.t. \, 
 
 The rows of $\mathbf{C}$ will be vectors from $\mathcal{N}\left(\mathbf{A}^\top\right)$ - the left nullspace of $\mathbf{A}$. Thus, it is clear that there are infinitely many left inverses for $\mathbf{A}$.
 
-Just as inverses of non-singular matrices, a left inverse allow us to find the represen change basis to the *column
+**What do all these left inverse matrices do?**
 
-What do all these left inverse matrices do? 
+> A left inverse allows us to find the representation of a component of the vector $\mathbf{b}$ in $\mathcal{C}\left(\mathbf{A}\right)$ represented in the the basis formed by the columns of $\mathbf{A}$.
 
 
-**Fat full rank matrix**:
+
+
+
+#### Fat full rank matrix
 
 $$n < m, \,\, rank\left(\mathbf{A}\right) = n \implies \mathbf{A} \mathbf{B} = \mathbf{I}_{n}$$
 
