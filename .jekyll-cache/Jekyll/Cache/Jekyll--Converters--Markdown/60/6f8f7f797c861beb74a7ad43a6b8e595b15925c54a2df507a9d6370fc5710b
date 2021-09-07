@@ -1,4 +1,4 @@
-I"<div class="well">
+I"½<div class="well">
   <h2 id="linear-systems">Linear Systems</h2>
   <hr />
   <p><a href="#course-information-document">Course Information</a> |
@@ -53,7 +53,7 @@ Video lecture:
   <h4 id="module-03-orthogonality">Module 03: Orthogonality</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/03-orthogonality/orthogonality.pdf">Lecture Slides</a> |
-Video lecture |
+Video lecture [<a href="https://youtu.be/qhbJ28q2A7Y">01</a>] |
 Assignment</li>
   </ul>
 
@@ -66,7 +66,7 @@ Assignment</li>
 
   <h4 id="module-04-eigenvectors-and-eigenvalues">Module 04: Eigenvectors and eigenvalues</h4>
   <ul>
-    <li>Lecture Slides |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/05-eigenvalvec/eigenvalvec.pdf">Lecture Slides</a> |
 Video lecture |
 Assignment</li>
   </ul>

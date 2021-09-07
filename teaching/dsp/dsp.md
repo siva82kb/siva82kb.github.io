@@ -70,17 +70,15 @@ Tutorials: [[01](https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO
 Video lecture:
 [[01](https://youtu.be/q3m944tOGzE)]
 [[02](https://youtu.be/QBt0hPJOELY)] |
-[Tutorial](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/02-signals/tutorial-signals.pdf) | 
-Assignment
+[Tutorial](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/02-signals/tutorial-signals.pdf)
 
 #### Module 04: Geometric Signal Theory
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/04-geometricsignaltheory/geometricsignaltheory.pdf) |
-Video lecture: [[01](https://youtu.be/QZqRU7kwsXE)] |
-Assignment
+Video lecture: [[01](https://youtu.be/QZqRU7kwsXE)]
 
 #### Module 05: Sampling theorem
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/05-samplingtheorem/samplingtheorem.pdf) |
-Video lecture |
+Video lecture: [[01](https://youtu.be/0HUQt8eE6LE)] |
 Assignment
 
 #### Module 06: What are systems?

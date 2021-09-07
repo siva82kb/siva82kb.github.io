@@ -54,8 +54,8 @@ Video lecture:
 
 #### Module 03: Orthogonality
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/03-orthogonality/orthogonality.pdf) |
-Video lecture |
-Assignment
+Video lecture [[01](https://youtu.be/qhbJ28q2A7Y)] |
+[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/03-orthogonality/orthogonality.pdf)
 
 #### Module 04: Matrix Inverses
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/04-matrixinverses/matrixinverses.pdf) |
