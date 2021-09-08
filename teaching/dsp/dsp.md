@@ -78,7 +78,7 @@ Video lecture: [[01](https://youtu.be/QZqRU7kwsXE)]
 
 #### Module 05: Sampling theorem
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/05-samplingtheorem/samplingtheorem.pdf) |
-Video lecture: [[01](https://youtu.be/0HUQt8eE6LE)] |
+Video lecture: [[01](https://youtu.be/0HUQt8eE6LE)] | [Tutorial](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/03-04_gst-sampling/tutorial-gst-st.pdf) |
 Assignment
 
 #### Module 06: What are systems?

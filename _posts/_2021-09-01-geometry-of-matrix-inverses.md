@@ -31,7 +31,16 @@ Thus, we see that $$\mathbf{A}^{-1}$$ is the matrix that allows us to change the
 
 **Structure of a matrix inverse**
 Let us express $\mathbf{A}^{-1}$ as a columns of rows.
-$$ \mathbf{A}^{-1} = \begin{bmatrix} \mathbf{\tilde{b}}_1^\top \\ \mathbf{\tilde{b}}_2^\top \\ \vdots \\ \mathbf{\tilde{b}}_n^\top\end{bmatrix} $$.
+
+$$ \mathbf{A} = \begin{bmatrix} \mathbf{a}_1 & \mathbf{a}_2 & \ldots & \mathbf{a}_n \end{bmatrix} \longrightarrow \mathbf{A}^{-1} = \begin{bmatrix} \mathbf{\tilde{b}}_1^\top \\ \mathbf{\tilde{b}}_2^\top \\ \vdots \\ \mathbf{\tilde{b}}_n^\top\end{bmatrix} $$ 
+
+Let $$\mathbf{A} = \begin{bmatrix} 1 & 1\\ 0 & 1 \end{bmatrix} = \begin{bmatrix} \mathbf{a}_1 & \mathbf{a}_2 \end{bmatrix}$$, then $$\mathbf{A}^{-1} = \begin{bmatrix} 1 & -1 \\ 0 & 1\end{bmatrix} = \begin{bmatrix} \mathbf{\tilde{b}_1^\top} \\ \mathbf{\tilde{b}_2^\top}\end{bmatrix}$$. This means that,
+
+$$ \mathbf{\tilde{b}}_1^\top \mathbf{a}_1 = \mathbf{\tilde{b}}_2^\top \mathbf{a}_2 = 1 \quad \text{and} \quad \mathbf{\tilde{b}}_1^\top \mathbf{a}_2 = \mathbf{\tilde{b}}_2^\top \mathbf{a}_1 = 0 $$
+
+<p align="center">
+<img src="{{ site.baseurl }}/figs/invbasis.png" width="20%" height="20%">
+</p>
 
 
 ### Non-square matrices have left or right inverses, but not both

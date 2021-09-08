@@ -1,0 +1,192 @@
+I"«<div class="well">
+  <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
+  <hr />
+  <p><a href="#course-information-document">Course Info</a> |
+<a href="#lecture-timings">Lecture Times</a> |
+<a href="#references">References</a> |
+<a href="#course-modules">Modules</a> |
+<a href="#discussion-videos">Discussion</a> | 
+<a href="#submit-course-documents">Submit Stuff</a></p>
+
+  <p>Welcome to the course page for the Introduction to Digital Signal Processing. This page contains all course realted information for students attending the course. For all course related queries please contact the course <a href="mailto:siva82kb@cmcvellore.ac.in">instructor</a>.</p>
+
+  <h3 id="course-information-document">Course Information Document</h3>
+  <p>You can download the course document information from <a href="/teaching/dsp/course_info.pdf">here</a>.</p>
+
+  <h3 id="lecture-timings">Lecture timings</h3>
+  <p>All lectures are pre-recorded.</p>
+
+  <p>Live discussion every Friday 5:30PM - 7:00PM.</p>
+
+  <h3 id="references">References</h3>
+  <p>The following are some of the suggested references for the topics covered in the course. For each lecture, the releveant reading materials will be from one or more of the following books.</p>
+
+  <ul>
+    <li>Oppenheim, Alan V., Ronald W. Schafer, and John R. Buck. Discrete-time signal processing. Vol. 2. Englewood Cliffs: Prentice-hall, 1989.</li>
+    <li>Proakis John, G., and G. Manolakis Dimitris. Digital Signal Processing, principles, algorithms, and applications. Pentice Hall, 1996.</li>
+  </ul>
+
+  <p>A more advanced book that goes into the mathematical foundations of signal processing, which also gives geometric view of signal processing is the book,</p>
+
+  <ul>
+    <li>Vetterli, M., Kovacevic, J., Goyal, Vivek K., <a href="http://fourierandwavelets.org/">Foundations of Signal Processing</a>.</li>
+  </ul>
+
+  <h3 id="course-modules">Course Modules</h3>
+  <h4 id="orientation">Orientation</h4>
+  <ul>
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/00-orientation/orientation.pdf">Lecture Slides</a> |
+<a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/written_slides/orientation.pdf">Marked Slides</a> |
+Video lectures: 
+[<a href="https://youtu.be/n8LgrM7dAh0">01</a>]</li>
+  </ul>
+
+  <h4 id="module-01-mathematical-preliminaries">Module 01: Mathematical Preliminaries</h4>
+  <ul>
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/01-mathprelim/mathprelim.pdf">Lecture Slides</a> |
+<a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/written_slides/mathprelim.pdf">Marked Slides</a> |
+Video lectures: 
+[<a href="https://youtu.be/h3I_REUCsbA">01</a>] |
+<a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/00-mathprelim/mathprelim.pdf">Assignment</a>
+<br /></li>
+    <li>Extra videos: [<a href="https://www.youtube.com/watch?v=52tpYl2tTqk">Functions</a>] [<a href="https://www.youtube.com/playlist?list=PL8eY_HDc45x-2mKqjasJUr3MTkkX_IcCG">Complex Numbers</a>]</li>
+  </ul>
+
+  <h4 id="module-02-introduction-to-python-programming">Module 02: Introduction to Python Programming</h4>
+  <ul>
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/02-introtopython/introtopython.pdf">Lecture Slides</a> |
+<a href="https://colab.research.google.com/drive/1wW8mIdTPh-m57SgT8eX79ebIePl3i8WB?usp=sharing">Google Colab Notebook</a> | 
+Video lecture:
+[<a href="https://youtu.be/1eXOSy_AHdM">01</a>]
+[<a href="https://youtu.be/SOLMLhd_EIs">02</a>]
+[<a href="https://youtu.be/Rzvn0RAgetU">03</a>] |
+Assignment:
+[<a href="https://colab.research.google.com/drive/1ace6SfidqHufxbEGk5ScBR7TeY8Cz8fl?usp=sharing">2a</a>]
+[<a href="https://colab.research.google.com/drive/1J_2wYix54B9nwWMF1OPmQBj5jIF35yy9?usp=sharing">2b</a>] |
+Tutorials: [<a href="https://colab.research.google.com/drive/1JVoN9L4mn6LnKH6uyK1ayO2vXfAnORzY?usp=sharing">01</a>] 
+[<a href="https://colab.research.google.com/drive/1x2SmGkODkz47l68hMyTTTVV5MbZqP5Bu?usp=sharing">02</a>]<br />
+<sub><sup>You can download the Google Colab file from the links. You can write down you solutions, and simply upload the ipython file when you are done.</sup></sub></li>
+  </ul>
+
+  <h4 id="module-03-what-are-signals">Module 03: What are signals?</h4>
+  <ul>
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/03-signals/signals.pdf">Lecture Slides</a> |
+Video lecture:
+[<a href="https://youtu.be/q3m944tOGzE">01</a>]
+[<a href="https://youtu.be/QBt0hPJOELY">02</a>] |
+<a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/02-signals/tutorial-signals.pdf">Tutorial</a></li>
+  </ul>
+
+  <h4 id="module-04-geometric-signal-theory">Module 04: Geometric Signal Theory</h4>
+  <ul>
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/04-geometricsignaltheory/geometricsignaltheory.pdf">Lecture Slides</a> |
+Video lecture: [<a href="https://youtu.be/QZqRU7kwsXE">01</a>]</li>
+  </ul>
+
+  <h4 id="module-05-sampling-theorem">Module 05: Sampling theorem</h4>
+  <ul>
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/05-samplingtheorem/samplingtheorem.pdf">Lecture Slides</a> |
+Video lecture: [<a href="https://youtu.be/0HUQt8eE6LE">01</a>] | <a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/03-04_gst-sampling/tutorial-gst-st.pdf">Tutorial</a> |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-06-what-are-systems">Module 06: What are systems?</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-07-linear-time-invaraint-systems-and-convolution">Module 07: Linear Time-Invaraint Systems and Convolution</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-08-fourier-representation-of-signals">Module 08: Fourier Representation of Signals</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-09-z-transform">Module 09: Z transform</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-10-discrete-fourier-transform">Module 10: Discrete Fourier Transform</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-11-frequency-selective-filters">Module 11: Frequency Selective Filters</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-12-short-time-fourier-transform">Module 12: Short-time Fourier Transform</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-13-introduction-to-wavelet-transform">Module 13: Introduction to Wavelet Transform</h4>
+  <ul>
+    <li>Lecture Slides |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <!-- 
+#### Module 13: Controllability and Observability
+Lecture Slides
+Video lecture |
+Assignment
+
+#### Module 14: State Feedback Control
+- Lecture Slides |
+Video lecture |
+Assignment
+
+#### Module 15: Linear Observers
+- Lecture Slides |
+Video lecture |
+Assignment
+
+#### Module 16: Optimization -  A very brief introduction
+- Lecture Slides |
+Video lecture |
+Assignment
+
+#### Module 17: System modelling - Bond graph approach
+- Lecture Slides |
+Video lecture |
+Assignment -->
+
+  <!-- ### Lecture slides
+Coming soon
+
+### Homework Assignments
+Coming soon -->
+
+  <h3 id="discussion-videos">Discussion videos</h3>
+  <ul>
+    <li><a href="https://youtu.be/yUq7RIp1VLo">Discussion 01</a></li>
+    <li><a href="https://youtu.be/d1gH2OCJJL4">Discussion 02</a></li>
+    <li><a href="https://youtu.be/tWRTDyL08es">Discussion 03</a></li>
+  </ul>
+
+  <h3 id="submit-course-documents">Submit Course Documents</h3>
+  <p><a href="https://forms.gle/AAKEZZx1aFd58nd48">Submission link</a></p>
+
+</div>
+:ET
