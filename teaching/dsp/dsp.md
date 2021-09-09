@@ -82,7 +82,7 @@ Video lecture: [[01](https://youtu.be/0HUQt8eE6LE)] | [Tutorial](https://github.
 Assignment
 
 #### Module 06: What are systems?
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/06-systems/systems.pdf) |
 Video lecture |
 Assignment
 
