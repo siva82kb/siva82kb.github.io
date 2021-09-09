@@ -1,0 +1,121 @@
+I"v#<p>Matrices are a representation of <strong>linear maps</strong> between finite-dimensional vector spaces. Consider a  linear map \(\mathcal{L}\) from \(\mathbb{R}^m\) to \(\mathbb{R}^n\).</p>
+
+\[\mathcal{L}: \mathbb{R}^m \mapsto \mathbb{R}^n\]
+
+<p>This linear map can be represented using a real matrix \(\mathbf{A} \in \mathbb{R}^{n \times m}\), such that</p>
+
+\[\mathbf{y} = \mathcal{L}\left( \mathbf{x} \right) = \mathbf{A}\mathbf{x}, \quad \mathbf{x} \in \mathbb{R}^m, \, \mathbf{y} \in \mathbb{R}^n\]
+
+<p>When the domain and range spaces are the same, then \(\mathbf{A}\) is a square matrix.</p>
+
+<p>The matrix \(\mathbf{A}\) has a unique inverse \(\mathbf{A}^{-1}\), if and only if the \(\mathbf{A}\) is full-rank, i.e. the columns of the matrix form a basis for \(\mathbb{R}^n\). In this case, \(\mathbf{A}^{-1}\mathbf{A} = \mathbf{A}\mathbf{A}^{-1} = \mathbf{I}_n\), where \(\mathbf{I}_n\) is the \(n \times n\) identity matrix.</p>
+
+<h3 id="matrix-inverses-allow-us-to-change-basis">Matrix inverses allow us to change basis</h3>
+
+<p>Consider the equation, \(\mathbf{A}\mathbf{x} = \mathbf{y}\). This equation says that the vector \(\mathbf{y}\) is a linear combination of the columns of \(\mathbf{A}\), with the weight for each column given by the elements of \(\mathbf{x}\).</p>
+
+\[\mathbf{y} = \mathbf{A}\mathbf{x} = \begin{bmatrix} \mathbf{a}_1 &amp; \mathbf{a}_2 &amp; \cdots &amp; \mathbf{a}_n\end{bmatrix} \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n\end{bmatrix} = \sum_{i=1}^n x_i\mathbf{a}_i\]
+
+<p>Here, \(\mathbf{x}\) is the representation of the vector \(\mathbf{y}\) in the basis of \(\mathbb{R}^n\) formed by the columns of \(\mathbf{A}\) (we will refer to this basis as the <em>column basis</em>). Given \(\mathbf{A}\) and \(\mathbf{y}\), we can solve for \(\mathbf{x}\) using the inverse of \(\mathbf{A}\),</p>
+
+\[\mathbf{x} = \mathbf{A}^{-1}\mathbf{y}\]
+
+<p>Thus, we see that \(\mathbf{A}^{-1}\) is the matrix that allows us to change the representation of a vector to the <em>column basis</em>.</p>
+
+<p><strong>Structure of a matrix inverse</strong>
+Let us express $\mathbf{A}^{-1}$ as a column of rows.</p>
+
+\[\mathbf{A} = \begin{bmatrix} \mathbf{a}_1 &amp; \mathbf{a}_2 &amp; \ldots &amp; \mathbf{a}_n \end{bmatrix} \longrightarrow \mathbf{A}^{-1} = \begin{bmatrix} \mathbf{\tilde{b}}_1^\top \\ \mathbf{\tilde{b}}_2^\top \\ \vdots \\ \mathbf{\tilde{b}}_n^\top\end{bmatrix}\]
+
+<p>Let \(\mathbf{A} = \begin{bmatrix} 1 &amp; 1\\ 0 &amp; 1 \end{bmatrix} = \begin{bmatrix} \mathbf{a}_1 &amp; \mathbf{a}_2 \end{bmatrix}\), then \(\mathbf{A}^{-1} = \begin{bmatrix} 1 &amp; -1 \\ 0 &amp; 1\end{bmatrix} = \begin{bmatrix} \mathbf{\tilde{b}_1^\top} \\ \mathbf{\tilde{b}_2^\top}\end{bmatrix}\). Here,</p>
+
+\[\mathbf{\tilde{b}}_1^\top \mathbf{a}_1 = \mathbf{\tilde{b}}_2^\top \mathbf{a}_2 = 1 \quad \text{and} \quad \mathbf{\tilde{b}}_1^\top \mathbf{a}_2 = \mathbf{\tilde{b}}_2^\top \mathbf{a}_1 = 0\]
+
+<p><img src="/figs/invbasis.png" alt="" style="float: left; margin-left: 5px; margin-right: 10px; margin-top: 7px; width: 200px" /></p>
+
+<p>The components of $\mathbf{y}$ in <em>column basis</em> is given by, \(\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} = \mathbf{A}^{-1}\mathbf{y}\).</p>
+
+\[x_1 = \mathbf{\tilde{b}}_1^\top \mathbf{y} \quad \quad x_2 = \mathbf{\tilde{b}}_2^\top \mathbf{y}\]
+
+<p>Here, $\mathbf{y}_1 = x_1 \mathbf{y}$ is the oblique projection of $\mathbf{y}$ onto the subspace spanned by $\mathbf{a}_1$, along the subspace spanned by $\mathbf{a}_2$. The scaling factor $x_1$ for this oblique projection is obtained by taking the inner product of $\mathbf{y}$ with $\mathbf{\tilde{b}}_1$.</p>
+
+<p>Similarly, $\mathbf{y}_2 = x_2 \mathbf{a}_2$ is the oblique projection of $\mathbf{y}$ onto the subspace spanned by $\mathbf{a}_2$ along the subspace spanned by $\mathbf{a}_1$. $x_2$ is obtained by taking the inner product of $\mathbf{y}$ with $\mathbf{\tilde{b}}_2$.</p>
+
+<p>This can be generalized to a $n \times n$ square matrix $\mathbf{A}$.</p>
+
+<p>The oblique projection of $\mathbf{y}$ onto \(span\left( \{ \mathbf{a}_i \}\right)\) along \(span\left( \{ \mathbf{a}_j \}_{j=1, j \neq i}^{n}\right)\) is obtained by computing the scaling factor $x_i$ as the following,</p>
+
+\[x_i = \mathbf{\tilde{b}}_i^\top \mathbf{y}\]
+
+\[\mathbf{y}_i = x_i \mathbf{a}_i = \left( \mathbf{\tilde{b}}_i^\top \mathbf{y} \right) \mathbf{a}_i = \left( \mathbf{a}_i \mathbf{\tilde{b}}_i^\top \right) \mathbf{y} = \mathbf{P}_i \mathbf{y}\]
+
+<p>Note: \(span\left( \{ \mathbf{a}_j \}_{j=1, j \neq i}^{n}\right)\) is the subspace spanned by the columns of \(\mathbf{A}\) except \(\mathbf{a}_i\).</p>
+
+<p>\(\mathbf{P}_i = \mathbf{a}_i \mathbf{\tilde{b}}_i^\top\) is the projection matrix that does oblique projections onto \(span\left( \{ \mathbf{a}_i \}\right)\) along \(span\left( \{ \mathbf{a}_j \}_{j=1, j \neq i}^{n}\right)\).</p>
+
+\[\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix} = \mathbf{A}^{-1} \mathbf{y} = \begin{bmatrix} \mathbf{\tilde{b}}_1^\top \\ \mathbf{\tilde{b}}_2^\top \\ \vdots \\ \mathbf{\tilde{b}}_n^\top \end{bmatrix} \mathbf{y} = \begin{bmatrix} \mathbf{\tilde{b}}_1^\top \mathbf{y} \\ \mathbf{\tilde{b}}_2^\top \mathbf{y} \\ \vdots \\ \mathbf{\tilde{b}}_n^\top \mathbf{y} \end{bmatrix}\]
+
+<p>The matrix \(\mathbf{P}_{1:r} = \sum_{i=1}^{r} \mathbf{P}_i = \sum_{i=1}^{r} \mathbf{a}_i \mathbf{\tilde{b}}_i^\top\) is the oblique projection matrix onto \(span\left( \{ \mathbf{a}_i \}_{i=1}^{r}\right)\) along \(span\left( \{ \mathbf{a}_i \}_{i=r+1}^{n}\right)\).</p>
+
+<p>Taking the inner product with the rows \(\left\{ \mathbf{\tilde{b}}_i^\top \right\}_{i=1}^r\)</p>
+
+<!-- The columns of $\mathbf{A}$ and the rows of $\mathbf{A}^{-1}$ can be used for creating oblique projection matrices. The oblique projection of $\mathbf{y}$ onto a subspace spanned by the first $r$ columns of the matrix $\mathbf{A}$ is given by,
+
+$$ \begin{split} \mathbf{y}_{1:r} &= \sum_{i=1}^r x_i \mathbf{a}_i = \sum_{i=1}^r \left(\mathbf{\tilde{b}}_i^\top \mathbf{y} \right) \mathbf{a}_i \\
+&= \sum_{i=1}^r \left(\mathbf{a}_i \mathbf{\tilde{b}}_i^\top \right) \mathbf{y} = \mathbf{P}_r \mathbf{y}
+\end{split} $$
+
+where, $$ \mathbf{P}_r = \begin{bmatrix} \mathbf{a}_1 & \mathbf{a}_2 & \ldots & \mathbf{a}_r \end{bmatrix} \begin{bmatrix} \mathbf{\tilde{b}}_1^\top \\ \mathbf{\tilde{b}}_2^\top \\ \vdots \\ \mathbf{\tilde{b}}_r^\top \end{bmatrix}$$ is the oblique projection matrix onto the subspace spanned by the first $r$ columns of the matrix $\mathbf{A}$ along the subspace spanned by the rest of the columns of $\mathbf{A}$.
+ -->
+
+<!-- 
+
+### Non-square matrices have left or right inverses, but not both
+For full (column or row) rank non-square matrices, we can still have inverses, but there are some peculiarities: 
+  1. We can only have left or right inverses, as is described below, and (b) 
+  2. The left and right inverses are not unique. Let $\mathbf{A} \in \mathbb{R}^{n \times m}$.
+
+#### Tall full rank matrix
+
+Tall full rank matrices only have left inverses:
+
+$$n > m, \,\, rank\left(\mathbf{A}\right) = m \implies \mathbf{B} \mathbf{A} = \mathbf{I}_{m}$$
+
+This means that, $\mathbf{B}\mathbf{A}\mathbf{x} = \mathbf{B}\mathbf{b} \implies \mathbf{x} = \mathbf{B}\mathbf{b}$. 
+
+What $\mathbf{x}$ represents depends on whether or not $\mathbf{b}$ is in the column space of $\mathbf{A}$. 
+
+- $\mathbf{b} \in \mathcal{C}\left( \mathbf{A} \right) \implies $ $\mathbf{x} = \mathbf{B}\mathbf{b}$ is representation of $\mathbf{b}$ in the *column basis* of $\mathbf{A}$.
+- $\mathbf{b} \notin \mathcal{C}\left( \mathbf{A} \right) \implies $  $\mathbf{x} = \mathbf{Bb}$ is the representation of some vector $\hat{\mathbf{b}}$ $=$ $\mathbf{ABb}$ in the *column basis* of $\mathbf{A}$.
+
+When $\mathbf{x}$ is substituted back into the original equation, we get
+
+$$ \begin{cases}
+\mathbf{b} \in \mathcal{C}\left(\mathbf{A}\right) &\implies \mathbf{A}\left(\mathbf{B}\mathbf{b}\right) = \mathbf{b} \\
+\mathbf{b} \notin \mathcal{C}\left(\mathbf{A}\right) &\implies \mathbf{A}\left(\mathbf{B}\mathbf{b}\right) \neq \mathbf{b}
+\end{cases}
+$$
+
+For a given left inverse $\mathbf{B}$, adding a matrix $\mathbf{C}$ whose rows are orthogonal to the columns of $\mathbf{A}$ will result in another left inverse of $\mathbf{A}$.
+
+$$ \left( \mathbf{B} + \mathbf{C} \right) \mathbf{A} = \mathbf{I}_m, \, s.t. \, \mathbf{C}\mathbf{A} = \mathbf{0} $$
+
+The rows of $\mathbf{C}$ will be vectors from $\mathcal{N}\left(\mathbf{A}^\top\right)$ - the left nullspace of $\mathbf{A}$. Thus, it is clear that there are infinitely many left inverses for $\mathbf{A}$.
+
+**What do all these left inverse matrices do?**
+
+> A left inverse allows us to find the representation of a component of the vector $\mathbf{b}$ in $\mathcal{C}\left(\mathbf{A}\right)$ represented in the the basis formed by the columns of $\mathbf{A}$.
+
+
+
+
+
+#### Fat full rank matrix
+
+$$n < m, \,\, rank\left(\mathbf{A}\right) = n \implies \mathbf{A} \mathbf{B} = \mathbf{I}_{n}$$
+
+- The left and the right inverses are not unique, there an infinite number of left and right inverses.
+
+
+ -->
+:ET
