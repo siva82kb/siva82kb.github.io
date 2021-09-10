@@ -83,7 +83,7 @@ Video lecture: [[01](https://youtu.be/0HUQt8eE6LE)]
 
 #### Module 06: What are systems?
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/06-systems/systems.pdf) |
-Video lecture |
+Video lecture: [[01](https://youtu.be/GgNmZyYHAjQ)] |
 Assignment
 
 #### Module 07: Linear Time-Invaraint Systems and Convolution
