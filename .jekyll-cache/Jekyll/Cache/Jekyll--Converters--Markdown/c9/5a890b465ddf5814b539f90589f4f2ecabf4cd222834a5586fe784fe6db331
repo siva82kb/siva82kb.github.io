@@ -1,0 +1,49 @@
+I"�<p>For full (column or row) rank non-square matrices $\mathbf{A} \in \mathbb{R}^{n \times m}$, we can still have inverses but there are some peculiarities:</p>
+<ol>
+  <li>We can only have left or right inverses, as is described below, and</li>
+  <li>The left and right inverses are not unique.</li>
+</ol>
+
+<p>We will talk about the inverses of tall matrices in this post, i.e. matrices where $n &gt; m$. Tall full rank matrices only have left inverses:</p>
+
+\[n &gt; m, \,\, rank\left(\mathbf{A}\right) = m \implies \exists \mathbf{B} \in \mathbb{R}^{m \times n} \,\, s.t. \,\, \mathbf{B} \mathbf{A} = \mathbf{I}_{m}\]
+
+<p>This means that, $\mathbf{B}\mathbf{A}\mathbf{x} = \mathbf{B}\mathbf{b} \implies \mathbf{x} = \mathbf{B}\mathbf{b}$.</p>
+
+<p>What $\mathbf{x}$ represents depends on whether or not $\mathbf{b}$ is in the column space of $\mathbf{A}$.</p>
+
+<ul>
+  <li>$\mathbf{b} \in \mathcal{C}\left( \mathbf{A} \right) \implies $ $\mathbf{x} = \mathbf{B}\mathbf{b}$ is the representation of $\mathbf{b}$ in the <em>column basis</em> of $\mathbf{A}$.</li>
+  <li>$\mathbf{b} \notin \mathcal{C}\left( \mathbf{A} \right) \implies $  $\mathbf{x} = \mathbf{Bb}$ is the representation of some vector $\hat{\mathbf{b}}$ $=$ $\mathbf{A}\mathbf{x} = \mathbf{ABb}$, which in the <em>column basis</em> of $\mathbf{A}$.</li>
+</ul>
+
+<p>When $\mathbf{x}$ is substituted back into the original equation, we get</p>
+
+\[\begin{cases}
+\mathbf{b} \in \mathcal{C}\left(\mathbf{A}\right) &amp;\implies \hat{\mathbf{b}} = \mathbf{A}\left(\mathbf{B}\mathbf{b}\right) = \mathbf{b} \\
+\mathbf{b} \notin \mathcal{C}\left(\mathbf{A}\right) &amp;\implies \hat{\mathbf{b}} = \mathbf{A}\left(\mathbf{B}\mathbf{b}\right) \neq \mathbf{b}
+\end{cases}\]
+
+<p>For a given left inverse $\mathbf{B}$, adding a matrix $\mathbf{C}$ whose rows are orthogonal to the columns of $\mathbf{A}$ will result in another left inverse of $\mathbf{A}$.</p>
+
+\[\left( \mathbf{B} + \mathbf{C} \right) \mathbf{A} = \mathbf{I}_m, \, s.t. \, \mathbf{C}\mathbf{A} = \mathbf{0}\]
+
+<p>The rows of $\mathbf{C}$ will be vectors from $\mathcal{N}\left(\mathbf{A}^\top\right)$ - the left nullspace of $\mathbf{A}$. Thus, it is clear that there are infinitely many left inverses for $\mathbf{A}$.</p>
+
+<p><strong>What do all these left inverse matrices do?</strong></p>
+
+<blockquote>
+  <p>A left inverse allows us to find the representation of \(\hat{\mathbf{b}}\) – a component of \(\mathbf{b}\) in \(\mathcal{C}\left(\mathbf{A}\right)\) – in the <em>column basis</em> of \(\mathbf{A}\).</p>
+</blockquote>
+
+<p>These components are oblique projections onto \(\mathcal{C}\left(\mathbf{A}\right)\) along a complementary subspace in \(\mathbb{R}^n\). The matrix \(\matrix{A}\left( \mathbf{B} + \mathbf{C}\right)\) is the projection matrix that projects onto \(\mathcal{C}\left(\mathbf{A}\right)\), along a complementary subspace to \(\mathcal{C}\left(\mathbf{A}\right)\) in $$\mathbb{R}^n$.</p>
+
+<h4 id="fat-full-rank-matrix">Fat full rank matrix</h4>
+
+\[n &lt; m, \,\, rank\left(\mathbf{A}\right) = n \implies \mathbf{A} \mathbf{B} = \mathbf{I}_{n}\]
+
+<ul>
+  <li>The left and the right inverses are not unique, there an infinite number of left and right inverses.</li>
+</ul>
+
+:ET

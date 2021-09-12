@@ -54,7 +54,7 @@ Video lecture:
 
 #### Module 03: Orthogonality
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/03-orthogonality/orthogonality.pdf) |
-Video lecture [[01](https://youtu.be/qhbJ28q2A7Y)] |
+Video lecture [[01](https://youtu.be/qhbJ28q2A7Y)] [[02](https://youtu.be/DAPaZsaP5bU)] |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/03-orthogonality/orthogonality.pdf)
 
 #### Module 04: Matrix Inverses
@@ -138,3 +138,4 @@ The [assigment document]({{site.baseurl}}/teaching/ls/assignment.pdf) contains a
 - [SVD and Least Squares Methods]({{site.baseurl}}/teaching/ls/data/ls.zip) -->
 
 </div>
+ 
