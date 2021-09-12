@@ -45,7 +45,7 @@ $$ \hat{\mf{y}} = \mf{A}\left(\mf{B} + \mf{C}\right) \mf{y}$$
 
 In the absence of a mathetical proof of this, let's convince ourselves that this is true through a simple example. Let $$\mf{A} = \begin{bmatrix} 1 \\ 1\end{bmatrix}$$. The following are the various possible left inverses of $$\mf{A}$$,
 
-$$ \mf{B} + \mf{C} = \begin{bmatrix} \mf{\tilde{b}}_1^\top \end{bmatrix} + \begin{bmatrix} \mf{\tilde{c}}_1^\top \end{bmatrix} =**** \frac{1}{2}\begin{bmatrix} 1 & 1 \end{bmatrix} + \begin{bmatrix} \alpha & -\alpha \end{bmatrix}$$
+$$ \mf{B} + \mf{C} = \begin{bmatrix} \mf{\tilde{b}}_1^\top \end{bmatrix} + \begin{bmatrix} \mf{\tilde{c}}_1^\top \end{bmatrix} = \frac{1}{2}\begin{bmatrix} 1 & 1 \end{bmatrix} + \begin{bmatrix} \alpha & -\alpha \end{bmatrix}$$
 
 The following figures depicts this particular example,
 
