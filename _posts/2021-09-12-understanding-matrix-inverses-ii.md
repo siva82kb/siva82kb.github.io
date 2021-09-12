@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding matrix inverses - II: Tall matrices"
-date: 2021-09-10 20:00:060 +0530
+date: 2021-09-12 20:00:060 +0530
 comments: true
 categories: [linear-algebra]
 ---
