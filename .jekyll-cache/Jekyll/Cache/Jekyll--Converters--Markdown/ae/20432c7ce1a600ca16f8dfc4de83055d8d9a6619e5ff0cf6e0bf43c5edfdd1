@@ -1,4 +1,4 @@
-I"ÿ<div class="well">
+I"¡ <div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -99,8 +99,8 @@ Assignment</li>
 
   <h4 id="module-07-linear-time-invaraint-systems-and-convolution">Module 07: Linear Time-Invaraint Systems and Convolution</h4>
   <ul>
-    <li>Lecture Slides |
-Video lecture |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/07-ltisystems/ltisystems.pdf">Lecture Slides</a> |
+Video lecture: [<a href="https://youtu.be/nWwPqLqZFF8">01</a>] |
 Assignment</li>
   </ul>
 

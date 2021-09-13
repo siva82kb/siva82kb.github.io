@@ -54,12 +54,12 @@ Video lecture:
 
 #### Module 03: Orthogonality
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/03-orthogonality/orthogonality.pdf) |
-Video lecture [[01](https://youtu.be/qhbJ28q2A7Y)] [[02](https://youtu.be/DAPaZsaP5bU)] |
+Video lecture [[01](https://youtu.be/qhbJ28q2A7Y)] [[02](https://youtu.be/DAPaZsaP5bU)] [[03](https://youtu.be/6kmNtAi27ok)] |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/03-orthogonality/orthogonality.pdf)
 
 #### Module 04: Matrix Inverses
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/04-matrixinverses/matrixinverses.pdf) |
-Video lecture |
+Video lecture: [[01](https://youtu.be/6kmNtAi27ok?t=2529)] |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/04-matrixinv/matrixinv.pdf)
 
 #### Module 04: Eigenvectors and eigenvalues
@@ -68,7 +68,7 @@ Video lecture |
 Assignment
 
 #### Module 06: Positive definiteness and Matrix norm
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/06-pdmatnorm/pdmatnorm.pdf) |
 Video lecture |
 Assignment
 

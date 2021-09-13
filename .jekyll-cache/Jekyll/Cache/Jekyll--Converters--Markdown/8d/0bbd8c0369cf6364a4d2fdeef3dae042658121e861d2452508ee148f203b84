@@ -1,4 +1,4 @@
-I"Ü<div class="well">
+I"µ<div class="well">
   <h2 id="linear-systems">Linear Systems</h2>
   <hr />
   <p><a href="#course-information-document">Course Information</a> |
@@ -53,14 +53,14 @@ Video lecture:
   <h4 id="module-03-orthogonality">Module 03: Orthogonality</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/03-orthogonality/orthogonality.pdf">Lecture Slides</a> |
-Video lecture [<a href="https://youtu.be/qhbJ28q2A7Y">01</a>] [<a href="https://youtu.be/DAPaZsaP5bU">02</a>] |
+Video lecture [<a href="https://youtu.be/qhbJ28q2A7Y">01</a>] [<a href="https://youtu.be/DAPaZsaP5bU">02</a>] [<a href="https://youtu.be/6kmNtAi27ok">03</a>] |
 <a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/03-orthogonality/orthogonality.pdf">Assignment</a></li>
   </ul>
 
   <h4 id="module-04-matrix-inverses">Module 04: Matrix Inverses</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/04-matrixinverses/matrixinverses.pdf">Lecture Slides</a> |
-Video lecture |
+Video lecture: [<a href="https://youtu.be/6kmNtAi27ok?t=2529">01</a>] |
 <a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/04-matrixinv/matrixinv.pdf">Assignment</a></li>
   </ul>
 
@@ -73,7 +73,7 @@ Assignment</li>
 
   <h4 id="module-06-positive-definiteness-and-matrix-norm">Module 06: Positive definiteness and Matrix norm</h4>
   <ul>
-    <li>Lecture Slides |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/06-pdmatnorm/pdmatnorm.pdf">Lecture Slides</a> |
 Video lecture |
 Assignment</li>
   </ul>
