@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding matrix inverses - III: Fat matrices"
-date: 2021-09-13 20:00:060 +0530
+date: 2021-09-14 20:00:060 +0530
 comments: true
 categories: [linear-algebra]
 ---
