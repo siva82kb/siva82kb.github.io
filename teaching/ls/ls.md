@@ -59,7 +59,7 @@ Video lecture [[01](https://youtu.be/qhbJ28q2A7Y)] [[02](https://youtu.be/DAPaZs
 
 #### Module 04: Matrix Inverses
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/04-matrixinverses/matrixinverses.pdf) |
-Video lecture: [[01](https://youtu.be/6kmNtAi27ok?t=2529)] |
+Video lecture: [[01](https://youtu.be/6kmNtAi27ok?t=2529)] [[02](https://youtu.be/kLtMGVBawzk)] |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/04-matrixinv/matrixinv.pdf)
 
 #### Module 04: Eigenvectors and eigenvalues
