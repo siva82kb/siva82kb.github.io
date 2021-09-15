@@ -89,6 +89,7 @@ Assignment
 #### Module 07: Linear Time-Invaraint Systems and Convolution
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/07-ltisystems/ltisystems.pdf) |
 Video lecture: [[01](https://youtu.be/nWwPqLqZFF8)] |
+[Tutorial](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/05-06_systems-lti/tutorial-systems-lti.pdf) |
 Assignment
 
 #### Module 08: Fourier Representation of Signals
