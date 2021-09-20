@@ -1,4 +1,4 @@
-I",!<div class="well">
+I"À!<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -100,9 +100,9 @@ Assignment</li>
   <h4 id="module-07-linear-time-invaraint-systems-and-convolution">Module 07: Linear Time-Invaraint Systems and Convolution</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/07-ltisystems/ltisystems.pdf">Lecture Slides</a> |
-Video lecture: [<a href="https://youtu.be/nWwPqLqZFF8">01</a>] |
+Video lecture: [<a href="https://youtu.be/nWwPqLqZFF8">01</a>] [<a href="https://youtu.be/louRwQAY3I4">02</a>] |
 <a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/05-06_systems-lti/tutorial-systems-lti.pdf">Tutorial</a> |
-Assignment</li>
+<a href="https://colab.research.google.com/drive/1QEv6w-iJGR3Isw6AtXI8MqTc9Jq_U3zU?usp=sharing">Assignment</a></li>
   </ul>
 
   <h4 id="module-08-fourier-representation-of-signals">Module 08: Fourier Representation of Signals</h4>
