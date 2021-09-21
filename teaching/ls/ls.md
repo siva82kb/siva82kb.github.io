@@ -64,7 +64,7 @@ Video lecture: [[01](https://youtu.be/6kmNtAi27ok?t=2529)] [[02](https://youtu.b
 
 #### Module 04: Eigenvectors and eigenvalues
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/05-eigenvalvec/eigenvalvec.pdf) |
-Video lecture |
+Video lecture [[01](https://youtu.be/fYnADSsktbo)] |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/05-eigenvalvec/eigenvalvec.pdf)
 
 #### Module 06: Positive definiteness and Matrix norm
@@ -75,7 +75,7 @@ Assignment
 #### Module 07: Singular Value Decomposition
 - Lecture Slides |
 Video lecture |
-Assignment
+Assignment  
 
 #### Module 08: Linear Least Squares Methods
 - Lecture Slides |

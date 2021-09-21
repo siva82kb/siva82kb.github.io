@@ -1,4 +1,4 @@
-I"\<div class="well">
+I"Œ<div class="well">
   <h2 id="linear-systems">Linear Systems</h2>
   <hr />
   <p><a href="#course-information-document">Course Information</a> |
@@ -67,8 +67,8 @@ Video lecture: [<a href="https://youtu.be/6kmNtAi27ok?t=2529">01</a>] [<a href="
   <h4 id="module-04-eigenvectors-and-eigenvalues">Module 04: Eigenvectors and eigenvalues</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/05-eigenvalvec/eigenvalvec.pdf">Lecture Slides</a> |
-Video lecture |
-<a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/04-eigenvalvec/eigenvalvec.pdf">Assignment</a></li>
+Video lecture [<a href="https://youtu.be/fYnADSsktbo">01</a>] |
+<a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/05-eigenvalvec/eigenvalvec.pdf">Assignment</a></li>
   </ul>
 
   <h4 id="module-06-positive-definiteness-and-matrix-norm">Module 06: Positive definiteness and Matrix norm</h4>
