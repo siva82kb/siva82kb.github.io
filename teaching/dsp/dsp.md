@@ -17,7 +17,7 @@ Welcome to the course page for the Introduction to Digital Signal Processing. Th
 
 
 ### Course Information Document
-You can download the course document information from [here]({{site.baseurl}}/teaching/dsp/course_info.pdf).
+You can download the course document information from [here](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/info/course_info.pdf).
 
 
 ### Lecture timings

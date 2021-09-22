@@ -16,7 +16,7 @@ Welcome to the course page for Linear Systems. This page contains all course rea
 
 
 ### Course Information Document
-You can download the course document information from [here]({{site.baseurl}}/teaching/ls/course_info.pdf).
+You can download the course document information from [here](https://github.com/siva82kb/teaching/raw/master/linear_systems/info/course_info.pdf).
 
 
 ### Lecture timings
