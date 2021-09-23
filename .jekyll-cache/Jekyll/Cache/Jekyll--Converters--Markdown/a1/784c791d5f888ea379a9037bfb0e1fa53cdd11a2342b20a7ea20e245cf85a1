@@ -1,4 +1,4 @@
-I"À!<div class="well">
+I"H"<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -11,7 +11,7 @@
   <p>Welcome to the course page for the Introduction to Digital Signal Processing. This page contains all course realted information for students attending the course. For all course related queries please contact the course <a href="mailto:siva82kb@cmcvellore.ac.in">instructor</a>.</p>
 
   <h3 id="course-information-document">Course Information Document</h3>
-  <p>You can download the course document information from <a href="/teaching/dsp/course_info.pdf">here</a>.</p>
+  <p>You can download the course document information from <a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/info/course_info.pdf">here</a>.</p>
 
   <h3 id="lecture-timings">Lecture timings</h3>
   <p>All lectures are pre-recorded.</p>
@@ -186,6 +186,7 @@ Coming soon -->
     <li><a href="https://youtu.be/tWRTDyL08es">Discussion 03</a> (27 Aug 2021)</li>
     <li><a href="https://youtu.be/4Df8UyNxDA8">Discussion 04</a> (03 Sep 2021)</li>
     <li><a href="https://youtu.be/c4nfxak-BxY">Discussion 05</a> (08 Sep 2021)</li>
+    <li><a href="https://youtu.be/5CYayZeL7yg">Discussion 07</a> (22 Sep 2021)</li>
   </ul>
 
   <h3 id="submit-course-documents">Submit Course Documents</h3>

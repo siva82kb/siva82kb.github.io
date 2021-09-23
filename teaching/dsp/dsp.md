@@ -161,6 +161,7 @@ Coming soon -->
 - [Discussion 03](https://youtu.be/tWRTDyL08es) (27 Aug 2021)
 - [Discussion 04](https://youtu.be/4Df8UyNxDA8) (03 Sep 2021)
 - [Discussion 05](https://youtu.be/c4nfxak-BxY) (08 Sep 2021)
+- [Discussion 07](https://youtu.be/5CYayZeL7yg) (22 Sep 2021)
 
 
 ### Submit Course Documents
