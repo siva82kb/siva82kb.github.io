@@ -74,9 +74,10 @@ Video lecture |
 Assignment
 
 #### Module 07: Singular Value Decomposition
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/07-svd/svd.pdf) |
+[Demo Notebook](https://colab.research.google.com/drive/1vnmHJLa5e3MwrhBWCohi2sYG3nlRrBl2?usp=sharing) |
 Video lecture |
-Assignment  
+[Assignment](https://colab.research.google.com/drive/1UVbyOq2ivoY6f5uz3Kvkn5ZMBcropqTx?usp=sharing)  
 
 #### Module 08: Linear Least Squares Methods
 - Lecture Slides |

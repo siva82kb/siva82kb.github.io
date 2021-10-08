@@ -1,4 +1,4 @@
-I"ó<div class="well">
+I"0 <div class="well">
   <h2 id="linear-systems">Linear Systems</h2>
   <hr />
   <p><a href="#course-information-document">Course Information</a> |
@@ -81,9 +81,10 @@ Assignment</li>
 
   <h4 id="module-07-singular-value-decomposition">Module 07: Singular Value Decomposition</h4>
   <ul>
-    <li>Lecture Slides |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/07-svd/svd.pdf">Lecture Slides</a> |
+<a href="https://colab.research.google.com/drive/1vnmHJLa5e3MwrhBWCohi2sYG3nlRrBl2?usp=sharing">Demo Notebook</a> |
 Video lecture |
-Assignment</li>
+<a href="https://colab.research.google.com/drive/1UVbyOq2ivoY6f5uz3Kvkn5ZMBcropqTx?usp=sharing">Assignment</a></li>
   </ul>
 
   <h4 id="module-08-linear-least-squares-methods">Module 08: Linear Least Squares Methods</h4>
