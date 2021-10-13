@@ -76,13 +76,13 @@ Assignment
 #### Module 07: Singular Value Decomposition
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/07-svd/svd.pdf) |
 [Demo Notebook](https://colab.research.google.com/drive/1vnmHJLa5e3MwrhBWCohi2sYG3nlRrBl2?usp=sharing) |
-Video lecture |
+Video lecture: [[01](https://youtu.be/oBQ729ppi4w)] |
 [Assignment](https://colab.research.google.com/drive/1UVbyOq2ivoY6f5uz3Kvkn5ZMBcropqTx?usp=sharing)  
 
 #### Module 08: Linear Least Squares Methods
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/08-leastsquares/leastsq.pdf) |
-Video lecture |
-Assignment
+Video lecture: [[01](https://youtu.be/lU283tU16LU)] |
+[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/08-leastsquares/lesatsqaures.pdf)
 
 #### Module 09: Linear Dynamical Systems (LDS) - Transfer Function View
 - Lecture Slides |
