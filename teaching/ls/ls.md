@@ -71,7 +71,7 @@ Video lecture [[01](https://youtu.be/fYnADSsktbo)]
 #### Module 06: Positive definiteness and Matrix norm
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/06-pdmatnorm/pdmatnorm.pdf) |
 Video lecture |
-Assignment
+[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/06-pdm-matnorm/pdm-matnorm.pdf)
 
 #### Module 07: Singular Value Decomposition
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/07-svd/svd.pdf) |
@@ -84,9 +84,9 @@ Video lecture: [[01](https://youtu.be/oBQ729ppi4w)] |
 Video lecture: [[01](https://youtu.be/lU283tU16LU)] |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/08-leastsquares/lesatsqaures.pdf)
 
-#### Module 09: Linear Dynamical Systems (LDS) - Transfer Function View
-- Lecture Slides |
-Video lecture |
+#### Module 09: Linear Dynamical Systems (LDS) - Single Input Single Output view
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/09-lds-siso/ldssiso.pdf) |
+Video lecture [[01](https://youtu.be/XfQwSap_TIw)] |
 Assignment
 
 #### Module 10: LDS - State Space View
