@@ -1,4 +1,4 @@
-I"H"<div class="well">
+I"	%<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -105,14 +105,28 @@ Video lecture: [<a href="https://youtu.be/nWwPqLqZFF8">01</a>] [<a href="https:/
 <a href="https://colab.research.google.com/drive/1QEv6w-iJGR3Isw6AtXI8MqTc9Jq_U3zU?usp=sharing">Assignment</a></li>
   </ul>
 
-  <h4 id="module-08-fourier-representation-of-signals">Module 08: Fourier Representation of Signals</h4>
+  <h4 id="module-08-fourier-representation-of-continuous-time-signals">Module 08: Fourier Representation of Continuous-time Signals</h4>
+  <ul>
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/08-fourier-ct/fourier-ct.pdf">Lecture Slides</a> |
+Video lecture: [<a href="https://youtu.be/isJZeiWhhLI">01</a>] |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-09-fourier-representation-of-discrete-time-signals">Module 09: Fourier Representation of Discrete-time Signals</h4>
+  <ul>
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/09-fourier-dt/fourier-dt.pdf">Lecture Slides</a> |
+Video lecture |
+Assignment</li>
+  </ul>
+
+  <h4 id="module-09-z-transform">Module 09: Z transform</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-09-z-transform">Module 09: Z transform</h4>
+  <h4 id="module-09-frequency-domain-analysis-of-lti-systems">Module 09: Frequency-domain analysis of LTI systems</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |

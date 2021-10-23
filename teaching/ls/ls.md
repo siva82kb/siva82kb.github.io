@@ -86,7 +86,7 @@ Video lecture: [[01](https://youtu.be/lU283tU16LU)] |
 
 #### Module 09: Linear Dynamical Systems (LDS) - Single Input Single Output view
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/09-lds-siso/ldssiso.pdf) |
-Video lecture [[01](https://youtu.be/XfQwSap_TIw)] |
+Video lecture [[01](https://youtu.be/XfQwSap_TIw)] [[02](https://youtu.be/TcrwqVSicew)] |
 Assignment
 
 #### Module 10: LDS - State Space View

@@ -92,67 +92,40 @@ Video lecture: [[01](https://youtu.be/nWwPqLqZFF8)] [[02](https://youtu.be/louRw
 [Tutorial](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/tutorials/05-06_systems-lti/tutorial-systems-lti.pdf) |
 [Assignment](https://colab.research.google.com/drive/1QEv6w-iJGR3Isw6AtXI8MqTc9Jq_U3zU?usp=sharing)
 
-#### Module 08: Fourier Representation of Signals
+#### Module 08: Fourier Representation of Continuous-time Signals
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/08-fourier-ct/fourier-ct.pdf) |
+Video lecture: [[01](https://youtu.be/isJZeiWhhLI)] |
+Assignment
+
+#### Module 09: Fourier Representation of Discrete-time Signals
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/09-fourier-dt/fourier-dt.pdf) |
+Video lecture |
+Assignment
+
+#### Module 10: Sampling theorem revisited
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 09: Z transform
+#### Module 11: Z transform
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 10: Discrete Fourier Transform
+#### Module 12: Frequency-domain analysis of LTI systems
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 11: Frequency Selective Filters
+#### Module 13: Discrete Fourier Transform
 - Lecture Slides |
 Video lecture |
 Assignment
 
-#### Module 12: Short-time Fourier Transform
+#### Module 14: Frequency Selective Filters
 - Lecture Slides |
 Video lecture |
 Assignment
-
-#### Module 13: Introduction to Wavelet Transform
-- Lecture Slides |
-Video lecture |
-Assignment
-
-<!-- 
-#### Module 13: Controllability and Observability
-Lecture Slides
-Video lecture |
-Assignment
-
-#### Module 14: State Feedback Control
-- Lecture Slides |
-Video lecture |
-Assignment
-
-#### Module 15: Linear Observers
-- Lecture Slides |
-Video lecture |
-Assignment
-
-#### Module 16: Optimization -  A very brief introduction
-- Lecture Slides |
-Video lecture |
-Assignment
-
-#### Module 17: System modelling - Bond graph approach
-- Lecture Slides |
-Video lecture |
-Assignment -->
-
-<!-- ### Lecture slides
-Coming soon
-
-### Homework Assignments
-Coming soon -->
 
 
 ### Discussion videos
