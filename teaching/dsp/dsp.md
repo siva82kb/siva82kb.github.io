@@ -10,7 +10,7 @@ title: Introduction to DSP
 [Lecture Times](#lecture-timings) |
 [References](#references) |
 [Modules](#course-modules) |
-[Discussion](#discussion-videos) | 
+[Discussion](#discus    sion-videos) | 
 [Submit Stuff](#submit-course-documents)
 
 Welcome to the course page for the Introduction to Digital Signal Processing. This page contains all course realted information for students attending the course. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
@@ -94,7 +94,7 @@ Video lecture: [[01](https://youtu.be/nWwPqLqZFF8)] [[02](https://youtu.be/louRw
 
 #### Module 08: Fourier Representation of Continuous-time Signals
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/08-fourier-ct/fourier-ct.pdf) |
-Video lecture: [[01](https://youtu.be/isJZeiWhhLI)] |
+Video lecture: [[01](https://youtu.be/isJZeiWhhLI)] [[02](https://youtu.be/8-QqBFQTJuQ)] |
 Assignment
 
 #### Module 09: Fourier Representation of Discrete-time Signals
@@ -103,7 +103,7 @@ Video lecture |
 Assignment
 
 #### Module 10: Sampling theorem revisited
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/10-sampling-revisited/sampling-revisited.pdf) |
 Video lecture |
 Assignment
 

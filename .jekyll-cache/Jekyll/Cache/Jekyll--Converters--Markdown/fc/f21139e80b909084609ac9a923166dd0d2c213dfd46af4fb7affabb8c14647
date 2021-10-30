@@ -1,11 +1,11 @@
-I"­%<div class="well">
+I"Ù"<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
 <a href="#lecture-timings">Lecture Times</a> |
 <a href="#references">References</a> |
 <a href="#course-modules">Modules</a> |
-<a href="#discussion-videos">Discussion</a> | 
+<a href="#discus    sion-videos">Discussion</a> | 
 <a href="#submit-course-documents">Submit Stuff</a></p>
 
   <p>Welcome to the course page for the Introduction to Digital Signal Processing. This page contains all course realted information for students attending the course. For all course related queries please contact the course <a href="mailto:siva82kb@cmcvellore.ac.in">instructor</a>.</p>
@@ -108,7 +108,7 @@ Video lecture: [<a href="https://youtu.be/nWwPqLqZFF8">01</a>] [<a href="https:/
   <h4 id="module-08-fourier-representation-of-continuous-time-signals">Module 08: Fourier Representation of Continuous-time Signals</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/08-fourier-ct/fourier-ct.pdf">Lecture Slides</a> |
-Video lecture: [<a href="https://youtu.be/isJZeiWhhLI">01</a>] |
+Video lecture: [<a href="https://youtu.be/isJZeiWhhLI">01</a>] [<a href="https://youtu.be/8-QqBFQTJuQ">02</a>] |
 Assignment</li>
   </ul>
 
@@ -121,84 +121,38 @@ Assignment</li>
 
   <h4 id="module-10-sampling-theorem-revisited">Module 10: Sampling theorem revisited</h4>
   <ul>
-    <li>Lecture Slides |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/10-sampling-revisited/sampling-revisited.pdf">Lecture Slides</a> |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-09-z-transform">Module 09: Z transform</h4>
+  <h4 id="module-11-z-transform">Module 11: Z transform</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-09-frequency-domain-analysis-of-lti-systems">Module 09: Frequency-domain analysis of LTI systems</h4>
+  <h4 id="module-12-frequency-domain-analysis-of-lti-systems">Module 12: Frequency-domain analysis of LTI systems</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-10-discrete-fourier-transform">Module 10: Discrete Fourier Transform</h4>
+  <h4 id="module-13-discrete-fourier-transform">Module 13: Discrete Fourier Transform</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-11-frequency-selective-filters">Module 11: Frequency Selective Filters</h4>
+  <h4 id="module-14-frequency-selective-filters">Module 14: Frequency Selective Filters</h4>
   <ul>
     <li>Lecture Slides |
 Video lecture |
 Assignment</li>
   </ul>
-
-  <h4 id="module-12-short-time-fourier-transform">Module 12: Short-time Fourier Transform</h4>
-  <ul>
-    <li>Lecture Slides |
-Video lecture |
-Assignment</li>
-  </ul>
-
-  <h4 id="module-13-introduction-to-wavelet-transform">Module 13: Introduction to Wavelet Transform</h4>
-  <ul>
-    <li>Lecture Slides |
-Video lecture |
-Assignment</li>
-  </ul>
-
-  <!-- 
-#### Module 13: Controllability and Observability
-Lecture Slides
-Video lecture |
-Assignment
-
-#### Module 14: State Feedback Control
-- Lecture Slides |
-Video lecture |
-Assignment
-
-#### Module 15: Linear Observers
-- Lecture Slides |
-Video lecture |
-Assignment
-
-#### Module 16: Optimization -  A very brief introduction
-- Lecture Slides |
-Video lecture |
-Assignment
-
-#### Module 17: System modelling - Bond graph approach
-- Lecture Slides |
-Video lecture |
-Assignment -->
-
-  <!-- ### Lecture slides
-Coming soon
-
-### Homework Assignments
-Coming soon -->
 
   <h3 id="discussion-videos">Discussion videos</h3>
   <ul>
