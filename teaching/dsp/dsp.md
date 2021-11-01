@@ -94,13 +94,12 @@ Video lecture: [[01](https://youtu.be/nWwPqLqZFF8)] [[02](https://youtu.be/louRw
 
 #### Module 08: Fourier Representation of Continuous-time Signals
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/08-fourier-ct/fourier-ct.pdf) |
-Video lecture: [[01](https://youtu.be/isJZeiWhhLI)] [[02](https://youtu.be/8-QqBFQTJuQ)] |
-Assignment
+Video lecture: [[01](https://youtu.be/isJZeiWhhLI)] [[02](https://youtu.be/8-QqBFQTJuQ)]
 
 #### Module 09: Fourier Representation of Discrete-time Signals
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/09-fourier-dt/fourier-dt.pdf) |
 Video lecture |
-Assignment
+[Assignment](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/04-fourier/fourier.pdf)
 
 #### Module 10: Sampling theorem revisited
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/10-sampling-revisited/sampling-revisited.pdf) |

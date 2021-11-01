@@ -1,4 +1,4 @@
-I"X"<div class="well">
+I"9#<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -108,20 +108,19 @@ Video lecture: [<a href="https://youtu.be/nWwPqLqZFF8">01</a>] [<a href="https:/
   <h4 id="module-08-fourier-representation-of-continuous-time-signals">Module 08: Fourier Representation of Continuous-time Signals</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/08-fourier-ct/fourier-ct.pdf">Lecture Slides</a> |
-Video lecture: [<a href="https://youtu.be/isJZeiWhhLI">01</a>] [<a href="https://youtu.be/8-QqBFQTJuQ">02</a>] |
-Assignment</li>
+Video lecture: [<a href="https://youtu.be/isJZeiWhhLI">01</a>] [<a href="https://youtu.be/8-QqBFQTJuQ">02</a>]</li>
   </ul>
 
   <h4 id="module-09-fourier-representation-of-discrete-time-signals">Module 09: Fourier Representation of Discrete-time Signals</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/09-fourier-dt/fourier-dt.pdf">Lecture Slides</a> |
 Video lecture |
-Assignment</li>
+<a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/04-fourier/fourier.pdf">Assignment</a></li>
   </ul>
 
   <h4 id="module-10-sampling-theorem-revisited">Module 10: Sampling theorem revisited</h4>
   <ul>
-    <li>Lecture Slides |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/10-sampling-revisited/sampling-revisited.pdf">Lecture Slides</a> |
 Video lecture |
 Assignment</li>
   </ul>
