@@ -1,4 +1,4 @@
-I"œ#<div class="well">
+I"#<div class="well">
   <h2 id="linear-systems">Linear Systems</h2>
   <hr />
   <p><a href="#course-information-document">Course Information</a> |
@@ -103,8 +103,8 @@ Video lecture [<a href="https://youtu.be/XfQwSap_TIw">01</a>] [<a href="https://
 
   <h4 id="module-10-lds---state-space-view">Module 10: LDS - State Space View</h4>
   <ul>
-    <li>Lecture Slides |
-Video lecture |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/10-ldsss/ldsss.pdf">Lecture Slides</a> |
+Video lecture [<a href="https://youtu.be/kSsT6amz3aY">01</a>] |
 Assignment</li>
   </ul>
 
@@ -129,33 +129,25 @@ Video lecture |
 Assignment</li>
   </ul>
 
-  <h4 id="module-14-state-feedback-control">Module 14: State Feedback Control</h4>
-  <ul>
-    <li>Lecture Slides |
+  <!-- #### Modu**le 14: State Feedback Control
+- Lecture Slides |
 Video lecture |
-Assignment</li>
-  </ul>
+Assignment
 
-  <h4 id="module-15-linear-observers">Module 15: Linear Observers</h4>
-  <ul>
-    <li>Lecture Slides |
+#### Module 15: Linear Observers
+- Lecture Slides |
 Video lecture |
-Assignment</li>
-  </ul>
+Assignment
 
-  <h4 id="module-16-optimization----a-very-brief-introduction">Module 16: Optimization -  A very brief introduction</h4>
-  <ul>
-    <li>Lecture Slides |
+#### Module 16: Optimization -  A very brief introduction
+- Lecture Slides |
 Video lecture |
-Assignment</li>
-  </ul>
+Assignment
 
-  <h4 id="module-17-system-modelling---bond-graph-approach">Module 17: System modelling - Bond graph approach</h4>
-  <ul>
-    <li>Lecture Slides |
+#### Module 17: System modelling - Bond graph approach
+- Lecture Slides |
 Video lecture |
-Assignment</li>
-  </ul>
+Assignme**nt -->
 
   <h3 id="submit-course-documents">Submit Course Documents</h3>
   <p><a href="https://forms.gle/fnqPjoVQmx1jfSfg9">Submission link</a></p>

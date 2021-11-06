@@ -90,8 +90,8 @@ Video lecture [[01](https://youtu.be/XfQwSap_TIw)] [[02](https://youtu.be/TcrwqV
 [Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/09-siso/siso.pdf)
 
 #### Module 10: LDS - State Space View
-- Lecture Slides |
-Video lecture |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/10-ldsss/ldsss.pdf) |
+Video lecture [[01](https://youtu.be/kSsT6amz3aY)] |
 Assignment
 
 #### Module 11: Solution of LDS
@@ -109,7 +109,7 @@ Assignment
 Video lecture |
 Assignment
 
-#### Module 14: State Feedback Control
+<!-- #### Modu**le 14: State Feedback Control
 - Lecture Slides |
 Video lecture |
 Assignment
@@ -127,7 +127,7 @@ Assignment
 #### Module 17: System modelling - Bond graph approach
 - Lecture Slides |
 Video lecture |
-Assignment
+Assignme**nt -->
 
 ### Submit Course Documents
 [Submission link](https://forms.gle/fnqPjoVQmx1jfSfg9)
