@@ -112,7 +112,7 @@ Video lecture |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/06-ztransform/ztransform.pdf)
 
 #### Module 12: Frequency-domain analysis of LTI systems
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/12-freqresplti/freqresplti.pdf) |
 Video lecture |
 Assignment
 
