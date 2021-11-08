@@ -92,7 +92,7 @@ Video lecture [[01](https://youtu.be/XfQwSap_TIw)] [[02](https://youtu.be/TcrwqV
 #### Module 10: LDS - State Space View
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/10-ldsss/ldsss.pdf) |
 Video lecture [[01](https://youtu.be/kSsT6amz3aY)] [[02](https://youtu.be/U6mRqmaTUU0)] |
-Assignment
+[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/10-statespaceview/statespace.pdf)
 
 #### Module 11: Solution of LDS
 - Lecture Slides |
