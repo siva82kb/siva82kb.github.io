@@ -1,4 +1,4 @@
-I"?%<div class="well">
+I"¨%<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -121,14 +121,14 @@ Video lecture |
   <h4 id="module-10-sampling-theorem-revisited">Module 10: Sampling theorem revisited</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/10-sampling-revisited/sampling-revisited.pdf">Lecture Slides</a> |
-Video lecture |
+Video lecture: [<a href="https://youtu.be/RyjKPE7QyYI">01</a>] |
 <a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/05-samplingrevisted/samplingrevisted.pdf">Assignment</a></li>
   </ul>
 
   <h4 id="module-11-z-transform">Module 11: Z transform</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/11-ztransform/ztransform.pdf">Lecture Slides</a> |
-Video lecture |
+Video lecture: [<a href="https://youtu.be/RyjKPE7QyYI?t=3667">01</a>] |
 <a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/06-ztransform/ztransform.pdf">Assignment</a></li>
   </ul>
 

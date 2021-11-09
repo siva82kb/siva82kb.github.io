@@ -103,12 +103,12 @@ Video lecture |
 
 #### Module 10: Sampling theorem revisited
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/10-sampling-revisited/sampling-revisited.pdf) |
-Video lecture |
+Video lecture: [[01](https://youtu.be/RyjKPE7QyYI)] |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/05-samplingrevisted/samplingrevisted.pdf)
 
 #### Module 11: Z transform
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/11-ztransform/ztransform.pdf) |
-Video lecture |
+Video lecture: [[01](https://youtu.be/RyjKPE7QyYI?t=3667)] |
 [Assignment](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/06-ztransform/ztransform.pdf)
 
 #### Module 12: Frequency-domain analysis of LTI systems
