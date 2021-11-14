@@ -108,7 +108,7 @@ Video lecture: [[01](https://youtu.be/RyjKPE7QyYI)] |
 
 #### Module 11: Z transform
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/11-ztransform/ztransform.pdf) |
-Video lecture: [[01](https://youtu.be/RyjKPE7QyYI?t=3667)] |
+Video lecture: [[01](https://youtu.be/RyjKPE7QyYI?t=3667)] [[02](https://youtu.be/m2Y2U1iePtc)]|
 [Assignment](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/06-ztransform/ztransform.pdf)
 
 #### Module 12: Frequency-domain analysis of LTI systems

@@ -95,17 +95,17 @@ Video lecture [[01](https://youtu.be/kSsT6amz3aY)] [[02](https://youtu.be/U6mRqm
 [Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/10-statespaceview/statespace.pdf)
 
 #### Module 11: Solution of LDS
-- Lecture Slides |
-Video lecture |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/11-ldssol/ldssol.pdf) |
+Video lecture [[01](https://youtu.be/ceDmVjhlW-k)] |
 Assignment
 
 #### Module 12: Stability
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/12-stability/stability.pdf) |
 Video lecture |
 Assignment
 
 #### Module 13: Controllability and Observability
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/13-contobs/contobs.pdf) |
 Video lecture |
 Assignment
 
