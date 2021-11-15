@@ -117,7 +117,7 @@ Video lecture |
 Assignment
 
 #### Module 13: Discrete Fourier Transform
-- Lecture Slides |
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/13-dft/dft.pdf) |
 Video lecture |
 Assignment
 
