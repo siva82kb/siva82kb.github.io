@@ -107,7 +107,7 @@ Assignment
 #### Module 13: Controllability and Observability
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/13-contobs/contobs.pdf) |
 Video lecture |
-Assignment
+[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/11-ldssoln/ldssoln.pdf)
 
 <!-- #### Modu**le 14: State Feedback Control
 - Lecture Slides |
