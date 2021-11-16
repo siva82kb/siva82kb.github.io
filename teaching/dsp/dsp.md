@@ -114,7 +114,7 @@ Video lecture: [[01](https://youtu.be/RyjKPE7QyYI?t=3667)] [[02](https://youtu.b
 #### Module 12: Frequency-domain analysis of LTI systems
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/12-freqresplti/freqresplti.pdf) |
 Video lecture |
-Assignment
+[Assignment](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/07-freqresp/freqresp.pdf)
 
 #### Module 13: Discrete Fourier Transform
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/13-dft/dft.pdf) |
