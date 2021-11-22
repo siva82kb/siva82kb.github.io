@@ -1,4 +1,4 @@
-I"}'<div class="well">
+I"'(<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -135,7 +135,7 @@ Video lecture: [<a href="https://youtu.be/RyjKPE7QyYI?t=3667">01</a>] [<a href="
   <h4 id="module-12-frequency-domain-analysis-of-lti-systems">Module 12: Frequency-domain analysis of LTI systems</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/12-freqresplti/freqresplti.pdf">Lecture Slides</a> |
-Video lecture |
+Video lecture: [<a href="https://youtu.be/mvhRxdSf9ns">01</a>] |
 <a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/07-freqresp/freqresp.pdf">Assignment</a></li>
   </ul>
 
@@ -148,7 +148,7 @@ Assignment: [<a href="https://github.com/siva82kb/teaching/raw/master/intro_to_d
 
   <h4 id="module-14-frequency-selective-filters">Module 14: Frequency Selective Filters</h4>
   <ul>
-    <li>Lecture Slides |
+    <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/14-digitalfilters/digitalfilters.pdf">Lecture Slides</a> |
 Video lecture |
 Assignment</li>
   </ul>

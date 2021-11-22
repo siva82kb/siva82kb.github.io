@@ -96,7 +96,7 @@ Video lecture [[01](https://youtu.be/kSsT6amz3aY)] [[02](https://youtu.be/U6mRqm
 
 #### Module 11: Solution of LDS
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/11-ldssol/ldssol.pdf) |
-Video lecture [[01](https://youtu.be/ceDmVjhlW-k)] |
+Video lecture [[01](https://youtu.be/ceDmVjhlW-k)] [[02](https://youtu.be/tvFJ2yXcOzM)] [[03](https://youtu.be/LcgqtbfTquc)] |
 Assignment
 
 #### Module 12: Stability
