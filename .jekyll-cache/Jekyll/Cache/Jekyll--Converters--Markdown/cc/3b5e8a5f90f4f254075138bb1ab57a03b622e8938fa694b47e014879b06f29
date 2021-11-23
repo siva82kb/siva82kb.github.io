@@ -1,4 +1,4 @@
-I"'(<div class="well">
+I"¼(<div class="well">
   <h2 id="introduction-to-digital-signal-processing">Introduction to Digital Signal Processing</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -142,7 +142,7 @@ Video lecture: [<a href="https://youtu.be/mvhRxdSf9ns">01</a>] |
   <h4 id="module-13-discrete-fourier-transform">Module 13: Discrete Fourier Transform</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/13-dft/dft.pdf">Lecture Slides</a> |
-Video lecture |
+Video lecture: [<a href="https://youtu.be/X57VLAxmV3U">01</a>] |
 Assignment: [<a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/08-dsp/dsp.pdf">01</a>] [<a href="https://colab.research.google.com/drive/11Am_TDG61Yj_HHnPhjTBBiTY-JBw7tX0?usp=sharing">02</a>]</li>
   </ul>
 
@@ -150,7 +150,7 @@ Assignment: [<a href="https://github.com/siva82kb/teaching/raw/master/intro_to_d
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/14-digitalfilters/digitalfilters.pdf">Lecture Slides</a> |
 Video lecture |
-Assignment</li>
+<a href="https://colab.research.google.com/drive/12IyjlrNqaXf-KG3IL9BAR98MAzfHVPO5?usp=sharing">Assignment</a></li>
   </ul>
 
   <h3 id="discussion-videos">Discussion videos</h3>
