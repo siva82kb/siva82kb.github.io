@@ -6,13 +6,19 @@ title: Transducers &  Instrumentation
 <div class="well">
 ## Transducers and Instrumentation: Theory & Lab
 ---
+[Course Info](#course-information-document) |
+[Lecture Times](#lecture-timings) |
+[Lab Times](#lab-timings) |
+[Modules](#course-modules) |
+[Submit Stuff](#submit-course-documents)
+
 Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course realted information. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
 
 ### Course Information Document
 - **Theory**: [Course Info](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/info/course_info.pdf) 
 - **Lab**: Course Info
 
-### [Theory] Lecture timings
+### Lecture timings
 Mondays and Tuesday: 9:00AM to 10:30AM 
 
 ### Lab timings
