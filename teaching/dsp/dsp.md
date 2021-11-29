@@ -118,7 +118,7 @@ Video lecture: [[01](https://youtu.be/mvhRxdSf9ns)] |
 
 #### Module 13: Discrete Fourier Transform
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/13-dft/dft.pdf) |
-Video lecture: [[01](https://youtu.be/X57VLAxmV3U)] |
+Video lecture: [[01](https://youtu.be/X57VLAxmV3U)]  [[02](https://youtu.be/UrqiJIr1Buk)] |
 Assignment: [[01](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/assignment/08-dsp/dsp.pdf)] [[02](https://colab.research.google.com/drive/11Am_TDG61Yj_HHnPhjTBBiTY-JBw7tX0?usp=sharing)]
 
 #### Module 14: Frequency Selective Filters

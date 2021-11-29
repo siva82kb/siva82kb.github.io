@@ -101,7 +101,7 @@ Assignment
 
 #### Module 12: Stability
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/12-stability/stability.pdf) |
-Video lecture |
+Video lecture [[01](https://youtu.be/iEKi8wCU2UU)] |
 Assignment
 
 #### Module 13: Controllability and Observability
