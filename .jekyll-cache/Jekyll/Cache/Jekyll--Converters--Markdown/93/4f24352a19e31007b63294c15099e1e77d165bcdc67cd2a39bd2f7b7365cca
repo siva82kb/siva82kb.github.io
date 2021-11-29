@@ -1,0 +1,129 @@
+I"ï<div class="well">
+  <h2 id="transducers-and-instrumentation-lab">Transducers and Instrumentation Lab</h2>
+  <hr />
+  <p>Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course realted information. For all course related queries please contact the course <a href="mailto:siva82kb@cmcvellore.ac.in">instructor</a>.</p>
+
+  <h3 id="course-information-document">Course Information Document</h3>
+  <ul>
+    <li><strong>Theory</strong>: <a href="https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/info/course_info.pdf">Course Info</a></li>
+    <li><strong>Lab</strong>: Course Info</li>
+  </ul>
+
+  <h3 id="theory-lecture-timings">[Theory] Lecture timings</h3>
+  <p>Mondays and Tuesday: 9:00AM to 10:30AM</p>
+
+  <h3 id="lab-timings">Lab timings</h3>
+  <p>Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM</p>
+
+  <h3 id="course-modules">Course Modules</h3>
+  <h4 id="module-01-introduction-to-measurement">Module 01: Introduction to measurement</h4>
+  <p><sub>Measurement; Measuring instrument; Transducer &amp; sensors; Generalized static characteristics of sensors; Generalized dynamic characteristics; Error analysis; Sampling</sub></p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>Lecture Slides</td>
+        <td>Assignment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 id="module-02-analog-signal-processing">Module 02: Analog Signal Processing</h4>
+  <p><sub>Operational amplifier; Linear circuits with op-amps; First order and second order filters. System identification.</sub></p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>Lecture Slides</td>
+        <td>Assignment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 id="module-03-measuring-movements-linear-and-rotational">Module 03: Measuring movements: linear and rotational</h4>
+  <p><sub>Resistive; Inductive; Capacitive; Digital sensors; Camera based tracking; Accelerometer; Gyroscope.</sub></p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>Lecture Slides</td>
+        <td>Assignment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 id="module-04-measuring-effort-force-and-torque">Module 04: Measuring effort: Force and Torque</h4>
+  <p><sub>Strain gauge; Piezoelectric sensors.</sub></p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>Lecture Slides</td>
+        <td>Assignment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 id="module-05-measuring-pressure-flow-volume">Module 05: Measuring pressure, flow, volume.</h4>
+  <p><sub>Different pressure, flow, and volume sensing methods. </sub></p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>Lecture Slides</td>
+        <td>Assignment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 id="module-06-measuring-temperature">Module 06: Measuring temperature.</h4>
+  <p><sub>Thermocouple; Thermistor; Radiation thermometry.</sub></p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>Lecture Slides</td>
+        <td>Assignment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 id="module-07-measuring-biopotentials">Module 07: Measuring biopotentials</h4>
+  <p><sub>Origins of biopotentials; Review of basic electrochemistry; Electrode half-potentials; Electrical equivalent circuits of electrodes.</sub></p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>Lecture Slides</td>
+        <td>Assignment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4 id="module-08-measuring-chemicals">Module 08: Measuring chemicals</h4>
+  <p><sub>pH sensor; Oxygen and Cardon dioxide sensors; Glucose sensors.</sub></p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>Lecture Slides</td>
+        <td>Assignment</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3 id="discussion-videos">Discussion videos</h3>
+  <ul>
+    <li><a href="https://youtu.be/yUq7RIp1VLo">Discussion 01</a> (13 Aug 2021)</li>
+    <li><a href="https://youtu.be/d1gH2OCJJL4">Discussion 02</a> (20 Aug 2021)</li>
+    <li><a href="https://youtu.be/tWRTDyL08es">Discussion 03</a> (27 Aug 2021)</li>
+    <li><a href="https://youtu.be/4Df8UyNxDA8">Discussion 04</a> (03 Sep 2021)</li>
+    <li><a href="https://youtu.be/c4nfxak-BxY">Discussion 05</a> (08 Sep 2021)</li>
+    <li><a href="https://youtu.be/5CYayZeL7yg">Discussion 07</a> (22 Sep 2021)</li>
+  </ul>
+
+  <h3 id="submit-course-documents">Submit Course Documents</h3>
+  <p><a href="https://forms.gle/AAKEZZx1aFd58nd48">Submission link</a></p>
+
+</div>
+:ET

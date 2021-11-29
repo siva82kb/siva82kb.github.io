@@ -1,24 +1,74 @@
 ---
 layout: default
+title: Transducers &  Instrumentation
 ---
 {::options parse_block_html="true" /}
 <div class="well">
-## Transducers and Instrumentation Lab
+## Transducers and Instrumentation: Theory & Lab
 ---
-Welcome to the course page for Transducers and Instrumentation Lab. This page contains all course realted information. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
-
+Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course realted information. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
 
 ### Course Information Document
-- [Batch 1: Course Information Document](https://drive.google.com/file/d/1h8EHEz0MVD-vevSxi8FQVJpR0OU_NrnV/view?usp=sharing)
-- [Batch 2: Course Information Document]()
-- [Lab manual](https://drive.google.com/file/d/19O8uBIMIatuMfBGU0YFJC9wiancEnBVe/view?usp=sharing)
+- **Theory**: [Course Info](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/info/course_info.pdf) 
+- **Lab**: Course Info
 
+### [Theory] Lecture timings
+Mondays and Tuesday: 9:00AM to 10:30AM 
 
 ### Lab timings
 Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 
-### Report upload upload URL
-- **Batch 1**: You will need to upload all course related document [here](https://forms.gle/65hrtYr4L3HWvqep6).
-- **Batch 2**: You will need to upload all course related document [here]().
+### Course Modules
+#### Module 01: Introduction to measurement
+<sub>Measurement; Measuring instrument; Transducer & sensors; Generalized static characteristics of sensors; Generalized dynamic characteristics; Error analysis; Sampling</sub>
+
+- Lecture Slides | 
+  Assignment
+
+#### Module 02: Analog Signal Processing
+<sub>Operational amplifier; Linear circuits with op-amps; First order and second order filters. System identification.</sub>
+
+- Lecture Slides | 
+  Assignment
+
+#### Module 03: Measuring movements: linear and rotational
+<sub>Resistive; Inductive; Capacitive; Digital sensors; Camera based tracking; Accelerometer; Gyroscope.</sub>
+
+- Lecture Slides |
+  Assignment
+
+#### Module 04: Measuring effort: Force and Torque
+<sub>Strain gauge; Piezoelectric sensors.</sub>
+
+- Lecture Slides | 
+  Assignment
+
+#### Module 05: Measuring pressure, flow, volume.
+<sub>Different pressure, flow, and volume sensing methods. </sub>
+
+- Lecture Slides | 
+  Assignment
+
+#### Module 06: Measuring temperature.
+<sub>Thermocouple; Thermistor; Radiation thermometry.</sub>
+
+- Lecture Slides | 
+  Assignment
+
+#### Module 07: Measuring biopotentials
+<sub>Origins of biopotentials; Review of basic electrochemistry; Electrode half-cell potentials; Electrical equivalent circuits of electrodes.</sub>
+
+- Lecture Slides | 
+  Assignment
+
+#### Module 08: Measuring chemicals
+<sub>pH sensor; Oxygen and Cardon dioxide sensors; Glucose sensors.</sub>
+
+- Lecture Slides | 
+  Assignment
+
+
+### Submit Course Documents
+Submission link
 
 </div>
