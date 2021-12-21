@@ -123,7 +123,7 @@ Assignment: [[01](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/a
 
 #### Module 14: Frequency Selective Filters
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/intro_to_dsp/lectures/14-digitalfilters/digitalfilters.pdf) |
-Video lecture |
+Video lecture: [[01](https://youtu.be/3mzsMDIdDPU)] |
 [Assignment](https://colab.research.google.com/drive/12IyjlrNqaXf-KG3IL9BAR98MAzfHVPO5?usp=sharing)
 
 
