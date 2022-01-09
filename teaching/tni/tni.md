@@ -19,16 +19,20 @@ Welcome to the course page for Transducers and Instrumentation theory and lab co
 - **Lab**: Course Info
 
 ### Lecture timings
-Mondays and Tuesday: 9:00AM to 10:30AM 
+**Online classes till the end of January 2022**
+
+Mondays and Tuesday: 9:00AM to 10:30AM
 
 ### Lab timings
+**Labs start from February 2022.**
+
 Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 
 ### Course Modules
 #### Module 01: Introduction to measurement
 <sub>Measurement; Measuring instrument; Transducer & sensors; Generalized static characteristics of sensors; Generalized dynamic characteristics; Error analysis; Sampling</sub>
 
-- Lecture Slides | 
+- Lecture Slides: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module01-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module01-02.pdf)] | 
   Assignment
 
 #### Module 02: Analog Signal Processing
