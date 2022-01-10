@@ -33,7 +33,8 @@ Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 <sub>Measurement; Measuring instrument; Transducer & sensors; Generalized static characteristics of sensors; Generalized dynamic characteristics; Error analysis; Sampling</sub>
 
 - Lecture Slides: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module01-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module01-02.pdf)] | 
-  Assignment
+ Assignment | 
+ Video: [[01](https://youtu.be/99bOpjIB8sw)]
 
 #### Module 02: Analog Signal Processing
 <sub>Operational amplifier; Linear circuits with op-amps; First order and second order filters. System identification.</sub>
