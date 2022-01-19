@@ -12,7 +12,7 @@ title: Transducers &  Instrumentation
 [Modules](#course-modules) |
 [Submit Stuff](#submit-course-documents)
 
-Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course realted information. For all course related queries please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
+Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course-related information. For all course-related queries, please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
 
 ### Course Information Document
 - **Theory**: [Course Info](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/info/course_info.pdf) 
@@ -64,6 +64,7 @@ Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 
 
 ### Submit Course Documents
-Submission link
+
+You can submit your assignment using this [link](https://forms.gle/B5vUAqjis1ya6DT57).
 
 </div>
