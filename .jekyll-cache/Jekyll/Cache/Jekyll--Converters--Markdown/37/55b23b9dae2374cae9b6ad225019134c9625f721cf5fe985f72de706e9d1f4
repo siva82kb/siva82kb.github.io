@@ -1,4 +1,4 @@
-I"Ï<div class="well">
+I"Ý<div class="well">
   <h2 id="transducers-and-instrumentation-theory--lab">Transducers and Instrumentation: Theory &amp; Lab</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -7,7 +7,7 @@
 <a href="#course-modules">Modules</a> |
 <a href="#submit-course-documents">Submit Stuff</a></p>
 
-  <p>Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course realted information. For all course related queries please contact the course <a href="mailto:siva82kb@cmcvellore.ac.in">instructor</a>.</p>
+  <p>Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course-related information. For all course-related queries, please contact the course <a href="mailto:siva82kb@cmcvellore.ac.in">instructor</a>.</p>
 
   <h3 id="course-information-document">Course Information Document</h3>
   <ul>
@@ -30,7 +30,7 @@
   <ul>
     <li>Lecture Slides: [<a href="https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module01-01.pdf">01</a>] [<a href="https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module01-02.pdf">02</a>] | 
  Assignment: [<a href="https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/assignment/assignment-01.pdf">01</a>] | 
- Video: [<a href="https://youtu.be/99bOpjIB8sw">01</a>] [<a href="https://youtu.be/Q5y1_s6hi6o">02</a>]</li>
+ Video: [<a href="https://youtu.be/99bOpjIB8sw">01</a>] [<a href="https://youtu.be/Q5y1_s6hi6o">02</a>] [<a href="https://youtu.be/VyfCm8ByACg">03</a>] [<a href="https://youtu.be/WMoqoHO52ic">04</a>]</li>
   </ul>
 
   <h4 id="module-02-analog-signal-processing">Module 02: Analog Signal Processing</h4>
@@ -74,6 +74,10 @@ Assignment</li>
     <li>Lecture Slides | 
 Assignment</li>
   </ul>
+
+  <h3 id="submit-course-documents">Submit Course Documents</h3>
+
+  <p>You can submit your assignment using this <a href="https://forms.gle/B5vUAqjis1ya6DT57">link</a>.</p>
 
 </div>
 :ET
