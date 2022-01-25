@@ -30,12 +30,12 @@ Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 
 ### Course Modules
 #### Module 01: Introduction to measurement
-- Lecture Slides: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module01-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module01-02.pdf)] | 
+- Lecture Slides: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-01/module01-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-01/module01-02.pdf)] | 
  Assignment: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/assignment/assignment-01.pdf)] | 
  Video: [[01](https://youtu.be/99bOpjIB8sw)] [[02](https://youtu.be/Q5y1_s6hi6o)] [[03](https://youtu.be/VyfCm8ByACg)] [[04](https://youtu.be/WMoqoHO52ic)]
 
 #### Module 02: Analog Signal Processing
-- Lecture Slides | 
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-02/module02.pdf) | 
   Assignment
 
 #### Module 03: Measuring movements: linear and rotational
