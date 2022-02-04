@@ -9,8 +9,7 @@ title: Transducers &  Instrumentation
 [Course Info](#course-information-document) |
 [Lecture Times](#lecture-timings) |
 [Lab Times](#lab-timings) |
-[Modules](#course-modules) |
-[Submit Stuff](#submit-course-documents)
+[Modules](#course-modules)
 
 Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course-related information. For all course-related queries, please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
 
@@ -36,7 +35,8 @@ Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 
 #### Module 02: Analog Signal Processing
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-02/module02.pdf) | 
- Assignment
+ Assignment |
+ Video: [[01](https://youtu.be/4ZGajeM1Xhw)]
 
 #### Module 03: Measuring movements: linear and rotational
 - Lecture Slides |
@@ -62,9 +62,5 @@ Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 - Lecture Slides | 
   Assignment
 
-
-### Submit Course Documents
-
-You can submit your assignment using this [link](https://forms.gle/B5vUAqjis1ya6DT57).
 
 </div>
