@@ -1,11 +1,10 @@
-I"Š<div class="well">
+I"×<div class="well">
   <h2 id="transducers-and-instrumentation-theory--lab">Transducers and Instrumentation: Theory &amp; Lab</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
 <a href="#lecture-timings">Lecture Times</a> |
 <a href="#lab-timings">Lab Times</a> |
-<a href="#course-modules">Modules</a> |
-<a href="#submit-course-documents">Submit Stuff</a></p>
+<a href="#course-modules">Modules</a></p>
 
   <p>Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course-related information. For all course-related queries, please contact the course <a href="mailto:siva82kb@cmcvellore.ac.in">instructor</a>.</p>
 
@@ -37,7 +36,7 @@
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-02/module02.pdf">Lecture Slides</a> | 
  Assignment |
- Video: [<a href="https://youtu.be/4ZGajeM1Xhw">01</a>]</li>
+ Video: [<a href="https://youtu.be/4ZGajeM1Xhw">01</a>] [<a href="https://youtu.be/m8mL50jeugQ">02</a>]</li>
   </ul>
 
   <h4 id="module-03-measuring-movements-linear-and-rotational">Module 03: Measuring movements: linear and rotational</h4>
@@ -75,10 +74,6 @@ Assignment</li>
     <li>Lecture Slides | 
 Assignment</li>
   </ul>
-
-  <h3 id="submit-course-documents">Submit Course Documents</h3>
-
-  <p>You can submit your assignment using this <a href="https://forms.gle/B5vUAqjis1ya6DT57">link</a>.</p>
 
 </div>
 :ET

@@ -1,4 +1,4 @@
-I"T<div class="well">
+I"Ñ<div class="well">
   <h2 id="transducers-and-instrumentation-theory--lab">Transducers and Instrumentation: Theory &amp; Lab</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -32,11 +32,11 @@
  Video: [<a href="https://youtu.be/99bOpjIB8sw">01</a>] [<a href="https://youtu.be/Q5y1_s6hi6o">02</a>] [<a href="https://youtu.be/VyfCm8ByACg">03</a>] [<a href="https://youtu.be/WMoqoHO52ic">04</a>] [<a href="https://youtu.be/UBPEWRrNDk0">05</a>] [<a href="https://youtu.be/wRX8pVv7z3w">06</a>]</li>
   </ul>
 
-  <h4 id="module-02-analog-signal-processing">Module 02: Analog Signal Processing</h4>
+  <h4 id="module-02-basic-instrumentation">Module 02: Basic Instrumentation</h4>
   <ul>
     <li><a href="https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-02/module02.pdf">Lecture Slides</a> | 
  Assignment |
- Video: [<a href="https://youtu.be/4ZGajeM1Xhw">01</a>]</li>
+ Video: [<a href="https://youtu.be/4ZGajeM1Xhw">01</a>] [<a href="https://youtu.be/m8mL50jeugQ">02</a>]</li>
   </ul>
 
   <h4 id="module-03-measuring-movements-linear-and-rotational">Module 03: Measuring movements: linear and rotational</h4>
@@ -74,10 +74,6 @@ Assignment</li>
     <li>Lecture Slides | 
 Assignment</li>
   </ul>
-
-  <h3 id="submit-course-documents">Submit Course Documents</h3>
-
-  <p>You can submit your assignment using this <a href="https://forms.gle/B5vUAqjis1ya6DT57">link</a>.</p>
 
 </div>
 :ET
