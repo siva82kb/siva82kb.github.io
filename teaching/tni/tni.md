@@ -30,37 +30,29 @@ Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 ### Course Modules
 #### Module 01: Introduction to measurement
 - Lecture Slides: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-01/module01-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-01/module01-02.pdf)] | 
- Assignment: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/assignment/assignment-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/assignment/assignment-02.pdf)] | 
  Video: [[01](https://youtu.be/99bOpjIB8sw)] [[02](https://youtu.be/Q5y1_s6hi6o)] [[03](https://youtu.be/VyfCm8ByACg)] [[04](https://youtu.be/WMoqoHO52ic)] [[05](https://youtu.be/UBPEWRrNDk0)] [[06](https://youtu.be/wRX8pVv7z3w)]
 
 #### Module 02: Basic Instrumentation
 - [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-02/module02.pdf) | 
- Assignment |
- Video: [[01](https://youtu.be/4ZGajeM1Xhw)] [[02](https://youtu.be/m8mL50jeugQ)]
+ Video: [[01](https://youtu.be/4ZGajeM1Xhw)] [[02](https://youtu.be/m8mL50jeugQ)] [[03](https://youtu.be/QqtOEB3k68A)]
 
 #### Module 03: Measuring movements: linear and rotational
-- Lecture Slides |
-  Assignment
+- Lecture Slides
 
 #### Module 04: Measuring effort: Force and Torque
-- Lecture Slides | 
-  Assignment
+- Lecture Slides
 
 #### Module 05: Measuring pressure, flow, volume.
-- Lecture Slides | 
-  Assignment
+- Lecture Slides
 
 #### Module 06: Measuring temperature.
-- Lecture Slides | 
-  Assignment
+- Lecture Slides
 
 #### Module 07: Measuring biopotentials
-- Lecture Slides | 
-  Assignment
+- Lecture Slides
 
 #### Module 08: Measuring chemicals
-- Lecture Slides | 
-  Assignment
+- Lecture Slides
 
 
 </div>
