@@ -1,4 +1,4 @@
-I"g<div class="well">
+I"%<div class="well">
   <h2 id="transducers-and-instrumentation-theory--lab">Transducers and Instrumentation: Theory &amp; Lab</h2>
   <hr />
   <p><a href="#course-information-document">Course Info</a> |
@@ -45,7 +45,20 @@ Video: [<a href="https://youtu.be/JgmkeLM6SPo">01</a>] [<a href="https://youtu.b
 
   <h4 id="module-04-measuring-effort-force-and-torque">Module 04: Measuring effort: Force and Torque</h4>
   <ul>
-    <li>Lecture Slides</li>
+    <li>
+      <table>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-04/module04.pdf">Lecture Slides</a></td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>Video: [<a href="https://youtu.be/TTCLR6g4emI">01</a>]</td>
+            <td>[<a href="https://youtu.be/s3xLYkL74VA">02</a>]</td>
+          </tr>
+        </tbody>
+      </table>
+    </li>
   </ul>
 
   <h4 id="module-05-measuring-pressure-flow-volume">Module 05: Measuring pressure, flow, volume.</h4>

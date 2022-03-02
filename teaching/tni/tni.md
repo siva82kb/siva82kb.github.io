@@ -41,7 +41,9 @@ Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 Video: [[01](https://youtu.be/JgmkeLM6SPo)] [[02](https://youtu.be/wK80-d56IbA)] [[03](https://youtu.be/MAc4tbux0fY)] [[04](https://youtu.be/nbALojMAR4I)]
 
 #### Module 04: Measuring effort: Force and Torque
-- Lecture Slides
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-04/module04.pdf) | 
+Video: [[01](https://youtu.be/TTCLR6g4emI)] [[02](https://youtu.be/s3xLYkL74VA)]
+
 
 #### Module 05: Measuring pressure, flow, volume.
 - Lecture Slides
