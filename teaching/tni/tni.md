@@ -46,7 +46,8 @@ Video: [[01](https://youtu.be/TTCLR6g4emI)] [[02](https://youtu.be/s3xLYkL74VA)]
 
 
 #### Module 05: Measuring pressure, flow, volume.
-- Lecture Slides
+- Lecture Slides: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-05/module05-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-05/module05-02.pdf)] |
+Video: [[01](https://youtu.be/L7RGQZwGx3s)]
 
 #### Module 06: Measuring temperature.
 - Lecture Slides
