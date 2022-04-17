@@ -47,15 +47,13 @@ Video: [[01](https://youtu.be/TTCLR6g4emI)] [[02](https://youtu.be/s3xLYkL74VA)]
 
 #### Module 05: Measuring pressure, flow, volume.
 - Lecture Slides: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-05/module05-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-05/module05-02.pdf)] |
-Video: [[01](https://youtu.be/L7RGQZwGx3s)] [[02](https://youtu.be/BwVCHIJMzFE)]
+Video: [[01](https://youtu.be/L7RGQZwGx3s)] [[02](https://youtu.be/BwVCHIJMzFE)] [[03](https://youtu.be/omYoRAJjcHM)] [[04](https://youtu.be/ESlYcgvec0o)]
  
 #### Module 06: Measuring temperature.
-- Lecture Slides
+- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-06/module06.pdf) |
+Video: [[01](https://youtu.be/KZE0_U34wbA)]
 
 #### Module 07: Measuring biopotentials
-- Lecture Slides
-
-#### Module 08: Measuring chemicals
 - Lecture Slides
 
 
