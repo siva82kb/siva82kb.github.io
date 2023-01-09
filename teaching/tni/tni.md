@@ -14,13 +14,13 @@ title: Transducers &  Instrumentation
 Welcome to the course page for Transducers and Instrumentation theory and lab courses. This page contains all course-related information. For all course-related queries, please contact the course [instructor](mailto:siva82kb@cmcvellore.ac.in).
 
 ### Course Information Document
-- **Theory**: [Course Info](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/info/course_info.pdf) 
+- **Theory**: [Course Info](https://raw.githubusercontent.com/siva82kb/teaching/master/transducers_and_instrumentation/2023/course_info_2023.pdf) 
 - **Lab**: Course Info
 
 ### Lecture timings
-**Online classes till the end of January 2022**
+Monday: 9:00AM to 10:00 AM
 
-Mondays and Tuesday: 9:00AM to 10:30AM
+Friday: 8:00AM to 9:00 AM
 
 ### Lab timings
 **Labs start from February 2022.**
