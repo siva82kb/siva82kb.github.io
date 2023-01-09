@@ -27,6 +27,10 @@ Friday: 8:00AM to 9:00 AM
 
 Tue: 2:00PM - 5:00PM, Sat: 9:00AM - 12:00PM
 
+### Course Lecture Schedule
+[Schedule](https://raw.githubusercontent.com/siva82kb/teaching/master/transducers_and_instrumentation/2023/T%26I_course_schedule.pdf) 
+
+
 ### Course Modules
 #### Module 01: Introduction to measurement
 - Lecture Slides: [[01](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-01/module01-01.pdf)] [[02](https://github.com/siva82kb/teaching/raw/master/transducers_and_instrumentation/lectures/module-01/module01-02.pdf)] | 
