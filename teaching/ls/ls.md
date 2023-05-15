@@ -16,7 +16,7 @@ Welcome to the course page for Linear Systems. This page contains all course rea
 
 
 ### Course Information Document
-You can download the course document information from [here](https://github.com/siva82kb/teaching/raw/master/linear_systems/info/course_info.pdf).
+You can download the course document information from [here](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/info/course_info.pdf).
 
 
 ### Lecture timings
@@ -34,80 +34,80 @@ There is no one fixed textbook for the course. The course slides and course note
 
 ### Course Modules
 #### Module 01: Vectors
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/01-vectors/vectors.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/01-vectors/vectors.pdf) |
 Video lectures: 
 [[01](https://youtu.be/ju2OOo9SSDw)]
 [[02](https://youtu.be/JmVBRKQi4ns)] 
 [[03](https://youtu.be/eSHx-JXb4KI)]
 [[04](https://youtu.be/AgFGFZnTt4k)] |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/01-vectors/vectors.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/01-vectors/vectors.pdf)
 
 #### Module 02: Matrices
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/02-matrices/matrices.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/02-matrices/matrices.pdf) |
 Video lecture:
 [[01](https://youtu.be/AgFGFZnTt4k?t=1171)]
 [[02](https://youtu.be/69nFHl5QKrs)] 
 [[03](https://youtu.be/RWPG61KHk7Y)] 
 [[04](https://youtu.be/0ufBomd6u5U)]
 [[05](https://youtu.be/558MKybdmAw)] |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/02-matrix/matrix.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/02-matrix/matrix.pdf)
 
 #### Module 03: Orthogonality
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/03-orthogonality/orthogonality.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/03-orthogonality/orthogonality.pdf) |
 Video lecture [[01](https://youtu.be/qhbJ28q2A7Y)] [[02](https://youtu.be/DAPaZsaP5bU)] [[03](https://youtu.be/6kmNtAi27ok)] |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/03-orthogonality/orthogonality.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/03-orthogonality/orthogonality.pdf)
 
 #### Module 04: Matrix Inverses
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/04-matrixinverses/matrixinverses.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/04-matrixinverses/matrixinverses.pdf) |
 Video lecture: [[01](https://youtu.be/6kmNtAi27ok?t=2529)] [[02](https://youtu.be/kLtMGVBawzk)] |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/04-matrixinv/matrixinv.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/04-matrixinv/matrixinv.pdf)
 
 #### Module 04: Eigenvectors and eigenvalues
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/05-eigenvalvec/eigenvalvec.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/05-eigenvalvec/eigenvalvec.pdf) |
 Video lecture [[01](https://youtu.be/fYnADSsktbo)]
 [[02](https://youtu.be/28jMUbvhXTw)] |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/05-eigenvalvec/eigenvalvec.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/05-eigenvalvec/eigenvalvec.pdf)
 
 #### Module 06: Positive definiteness and Matrix norm
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/06-pdmatnorm/pdmatnorm.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/06-pdmatnorm/pdmatnorm.pdf) |
 Video lecture |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/06-pdm-matnorm/pdm-matnorm.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/06-pdm-matnorm/pdm-matnorm.pdf)
 
 #### Module 07: Singular Value Decomposition
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/07-svd/svd.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/07-svd/svd.pdf) |
 [Demo Notebook](https://colab.research.google.com/drive/1vnmHJLa5e3MwrhBWCohi2sYG3nlRrBl2?usp=sharing) |
 Video lecture: [[01](https://youtu.be/oBQ729ppi4w)] |
 [Assignment](https://colab.research.google.com/drive/1UVbyOq2ivoY6f5uz3Kvkn5ZMBcropqTx?usp=sharing)  
 
 #### Module 08: Linear Least Squares Methods
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/08-leastsquares/leastsq.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/08-leastsquares/leastsq.pdf) |
 Video lecture: [[01](https://youtu.be/lU283tU16LU)] |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/08-leastsquares/lesatsqaures.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/08-leastsquares/lesatsqaures.pdf)
 
 #### Module 09: Linear Dynamical Systems (LDS) - Single Input Single Output view
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/09-lds-siso/ldssiso.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/09-lds-siso/ldssiso.pdf) |
 Video lecture [[01](https://youtu.be/XfQwSap_TIw)] [[02](https://youtu.be/TcrwqVSicew)] [[03](https://youtu.be/tll1u7uSI8s)] [[04](https://youtu.be/4a4Rfz3oNRU)] |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/09-siso/siso.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/09-siso/siso.pdf)
 
 #### Module 10: LDS - State Space View
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/10-ldsss/ldsss.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/10-ldsss/ldsss.pdf) |
 Video lecture [[01](https://youtu.be/kSsT6amz3aY)] [[02](https://youtu.be/U6mRqmaTUU0)] |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/10-statespaceview/statespace.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/10-statespaceview/statespace.pdf)
 
 #### Module 11: Solution of LDS
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/11-ldssol/ldssol.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/11-ldssol/ldssol.pdf) |
 Video lecture [[01](https://youtu.be/ceDmVjhlW-k)] [[02](https://youtu.be/tvFJ2yXcOzM)] [[03](https://youtu.be/LcgqtbfTquc)] |
 Assignment
 
 #### Module 12: Stability
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/12-stability/stability.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/12-stability/stability.pdf) |
 Video lecture [[01](https://youtu.be/iEKi8wCU2UU)] |
 Assignment
 
 #### Module 13: Controllability and Observability
-- [Lecture Slides](https://github.com/siva82kb/teaching/raw/master/linear_systems/lectures/13-contobs/contobs.pdf) |
+- [Lecture Slides](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/lectures/13-contobs/contobs.pdf) |
 Video lecture |
-[Assignment](https://github.com/siva82kb/teaching/raw/master/linear_systems/assignment/11-ldssoln/ldssoln.pdf)
+[Assignment](https://github.com/siva82kb/teaching-repo/blob/3b5d7f58dd107e19f38898de6baa02f1dc06a106/linear_systems/assignment/11-ldssoln/ldssoln.pdf)
 
 <!-- #### Modu**le 14: State Feedback Control
 - Lecture Slides |
