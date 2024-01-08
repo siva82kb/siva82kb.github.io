@@ -8,7 +8,6 @@ title: Applied Linear Algebra in Data Analysis
 ---
 [Course Information](#course-information-document) |
 [Lecture Timings](#lecture-timings) |
-[References](#references) |
 [Modules](#course-modules) |
 [Submit Stuff](#submit-course-documents)
 
