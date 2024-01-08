@@ -25,9 +25,10 @@ Thu - 6:00 - 7:30 PM
 
 
 ### Course Modules
+
 #### Module 01: Concepts in Vector Spaces
 - [Lecture Slides](https://github.com/siva82kb/alada/blob/main/lectures/01-vectors-spaces/01-vector-spaces.pdf) |
-Video lectures: [To be uploaded] | Assignment: [To be uploaded]
+Video lecture | Assignment | Miscellaneous: [List of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 
 ### Submit Course Documents
 Submission link
