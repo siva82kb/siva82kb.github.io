@@ -1,6 +1,8 @@
 # Jekyll configuration
 
 name: SB
+title: SB
+tagline: Sivakumar Balasubramanian
 description: Personal website of SB.
 
 # url is currently only used only for the RSS feed in feed.xml
@@ -32,13 +34,10 @@ paginate: 10
 
 highlighter: rouge
 markdown: kramdown
-gems:
-  - jekyll-paginate
 plugins:
   - jekyll-paginate
 
 exclude: ['README.md', 'LICENSE']
 
 # Social media stuff
-twitter_username: siva82kb
 github_username: siva82kb

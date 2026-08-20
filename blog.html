@@ -3,17 +3,25 @@ layout: page
 title: Blog
 ---
 <hr>
+
+<div class="well">
+<p>I enjoy writing because it helps me think more clearly. As a neurorehab engineer, I think about issues in my field and write about them in my Substack blog, <a href="https://siva82kb.substack.com"><b>Repairing Broken Movements</b></a> &mdash; musings on movement control, learning, and repair.</p>
+</div>
+
+<h3>Older posts</h3>
+<p>Some older writing of mine on more technical topics.</p>
+
 <div class="well">
 {%for post in site.posts %}
     {% unless post.next %}
-        <h1>{{ post.date | date: '%Y' }}</h1>
+        <h4>{{ post.date | date: '%Y' }}</h4>
         <ul>
     {% else %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
             </ul>
-            <h1>{{ post.date | date: '%Y' }}</h1>
+            <h4>{{ post.date | date: '%Y' }}</h4>
             <ul>
         {% endif %}
     {% endunless %}

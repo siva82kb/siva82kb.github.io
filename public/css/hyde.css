@@ -85,7 +85,16 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin-bottom: .25rem;
+}
+/* Links list directly below the nav: align it with the nav items above */
+.sidebar-nav + ul {
+  margin-top: 0;
+  padding-left: 0;
+  list-style: none;
+}
+.sidebar-nav + ul li {
+  line-height: 1.75;
 }
 .sidebar-nav-item {
   display: block;
