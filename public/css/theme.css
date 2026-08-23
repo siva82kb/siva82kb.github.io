@@ -1,0 +1,334 @@
+/*
+ * theme.css
+ *
+ * Refreshed look for the Hyde layout: light sidebar with a portrait,
+ * Inter throughout.
+ *
+ * Loaded AFTER poole.css and hyde.css, so everything here is an override.
+ * Delete the <link> in _includes/head.html to fall back to the old theme.
+ *
+ * NOTE ON SPECIFICITY: hyde.css sets `.sidebar a { color: #fff }`, which beats
+ * a bare `.sidebar-nav-item` rule. Anything recolouring a sidebar link must
+ * match that selector's weight or higher, or the link stays white.
+ */
+
+:root {
+  --bg:          #fdfdfc;
+  --rule:        #e4e0da;
+  --text:        #23201d;
+  --muted:       #6b6660;
+  --accent:      #9a3f2b;
+  --accent-soft: #ecdfd9;
+
+  /* Sidebar. For a dark sidebar instead, set --sidebar-bg to #262b31 and
+     swap the three values below for:
+       --sidebar-text:   rgba(255,255,255,.74);
+       --sidebar-strong: #ffffff;
+       --sidebar-rule:   rgba(255,255,255,.15);  */
+  --sidebar-bg:     #f1efeb;
+  --sidebar-text:   #5f5a54;
+  --sidebar-strong: #23201d;
+  --sidebar-rule:   #ded9d1;
+
+  --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+
+/* Base
+   ------------------------------------------------------------------ */
+
+html {
+  font-size: 17px;
+}
+@media (min-width: 48em) {
+  html { font-size: 18px; }
+}
+
+body {
+  font-family: var(--sans);
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--text);
+  background-color: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-soft);
+  transition: border-color .15s ease;
+}
+a:hover,
+a:focus {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom-color: var(--accent);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--sans);
+  font-weight: 600;
+  letter-spacing: -.014em;
+  line-height: 1.3;
+  color: var(--text);
+}
+
+hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid var(--rule);
+  border-bottom: 0;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: .25rem 0 .25rem 1.25rem;
+  border-left: 3px solid var(--rule);
+  color: var(--muted);
+  font-style: normal;
+}
+
+code, pre {
+  font-family: "SF Mono", "IBM Plex Mono", Menlo, Consolas, monospace;
+  font-size: .85em;
+}
+code {
+  padding: .1em .35em;
+  background-color: #f2f0ec;
+  border-radius: 3px;
+  color: #7a3c28;
+}
+pre {
+  padding: 1rem 1.25rem;
+  background-color: #f7f5f2;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  line-height: 1.55;
+}
+pre code {
+  padding: 0;
+  background: transparent;
+  color: inherit;
+}
+
+table {
+  font-size: .95rem;
+}
+th, td {
+  border-color: var(--rule);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* Sidebar
+   ------------------------------------------------------------------ */
+
+.sidebar {
+  background-color: var(--sidebar-bg);
+  color: var(--sidebar-text);
+  padding: 2.5rem 1.5rem;
+}
+@media (min-width: 48em) {
+  .sidebar {
+    width: 17rem;
+    border-right: 1px solid var(--sidebar-rule);
+    padding: 3rem 2rem;
+  }
+}
+
+/* Overrides hyde.css `.sidebar a { color: #fff }` — see note at top. */
+.sidebar a {
+  color: var(--sidebar-text);
+  border-bottom: 0;
+}
+.sidebar a:hover,
+.sidebar a:focus {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* Portrait */
+.sidebar-photo {
+  display: block;
+  width: 104px;
+  height: 104px;
+  margin: 0 auto 1.1rem;
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: #e2ddd6;
+  box-shadow: 0 0 0 1px var(--sidebar-rule);
+}
+@media (min-width: 48em) {
+  .sidebar-photo {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.sidebar-about {
+  margin-bottom: 1.75rem;
+}
+.sidebar-about h1 {
+  margin: 0 0 .3rem;
+  font-family: var(--sans);
+  font-size: 1.4rem;
+  font-weight: 600;
+  letter-spacing: -.022em;
+  line-height: 1.25;
+  color: var(--sidebar-strong);
+}
+.sidebar-about h1 a {
+  color: var(--sidebar-strong);
+}
+.sidebar-about h1 a:hover {
+  color: var(--accent);
+}
+.sidebar-about .lead {
+  margin: 0;
+  font-size: .82rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--sidebar-text);
+}
+
+/* Navigation */
+.sidebar-nav {
+  margin-bottom: .25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--sidebar-rule);
+}
+.sidebar a.sidebar-nav-item {
+  display: block;
+  padding: .12rem 0;
+  font-size: .9rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: var(--sidebar-text);
+}
+.sidebar a.sidebar-nav-item:hover,
+.sidebar a.sidebar-nav-item:focus {
+  color: var(--accent);
+  text-decoration: none;
+}
+.sidebar .sidebar-nav-item.active {
+  font-weight: 600;
+  color: var(--sidebar-strong);
+}
+
+/* External links list below the nav */
+.sidebar-nav + ul {
+  margin: .75rem 0 0;
+  padding-left: 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--sidebar-rule);
+  list-style: none;
+}
+.sidebar-nav + ul li {
+  line-height: 1.9;
+}
+.sidebar-nav + ul li a {
+  font-size: .85rem;
+  color: var(--sidebar-text);
+}
+.sidebar-nav + ul li a:hover {
+  color: var(--accent);
+}
+.sidebar-nav + ul li .fa {
+  width: 1.1em;
+  margin-right: .2rem;
+  text-align: center;
+}
+
+.sidebar-sticky > p:last-child {
+  margin-top: 1.5rem;
+  font-size: .72rem;
+  color: #8f8981;
+}
+
+
+/* Content
+   ------------------------------------------------------------------ */
+
+@media (min-width: 48em) {
+  .content {
+    max-width: 40rem;
+    margin-left: 20rem;
+  }
+}
+@media (min-width: 64em) {
+  .content {
+    margin-left: 22rem;
+  }
+}
+
+.page-title,
+.post-title,
+.post-title a {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -.03em;
+  color: var(--text);
+}
+.post-title a {
+  border-bottom: 0;
+}
+.page-title {
+  margin-bottom: .75rem;
+}
+
+.content h3 {
+  margin-top: 2rem;
+  font-size: .82rem;
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.content ul,
+.content ol {
+  padding-left: 1.25rem;
+}
+.content li {
+  margin-bottom: .3rem;
+}
+
+/* `well` and `tight-details` are inherited from an older Bootstrap theme;
+   give them something sensible to do. */
+.well {
+  margin-bottom: 1.5rem;
+}
+.tight-details {
+  padding-left: 0;
+  list-style: none;
+}
+.tight-details li {
+  margin-bottom: .45rem;
+  padding-left: 0;
+  font-size: .93rem;
+  line-height: 1.55;
+  color: var(--muted);
+}
+
+.contact-details {
+  font-size: .93rem;
+  color: var(--muted);
+}
+
+.post-date {
+  font-size: .82rem;
+  color: var(--muted);
+}
+
+
+/* MathJax should not inherit the link underline treatment */
+mjx-container a {
+  border-bottom: 0;
+}

@@ -41,3 +41,11 @@ exclude: ['README.md', 'LICENSE']
 
 # Social media stuff
 github_username: siva82kb
+
+# CV. Overwrite cv.pdf in the repo root to update, and bump the date below.
+# Keep the filename stable: https://siva82kb.github.io/cv.pdf is the shared link.
+cv: cv.pdf
+cv_updated: August 2026
+
+# Sidebar portrait. Falls back to images/profile-placeholder.svg if unset.
+profile_photo: images/profile.jpg

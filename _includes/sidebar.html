@@ -1,6 +1,9 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <img class="sidebar-photo"
+           src="{{ site.baseurl }}/{{ site.profile_photo | default: 'images/profile-placeholder.svg' }}"
+           alt="{{ site.tagline }}">
       <h1>
         <a href="{{ site.baseurl }}/">
           {{ site.title }}
@@ -32,6 +35,13 @@
     </nav>
 
     <ul>
+        {% if site.cv %}
+          <li>
+            <a href="{{ site.baseurl }}/{{ site.cv }}"{% if site.cv_updated %} title="Last updated {{ site.cv_updated }}"{% endif %}>
+            <i class="fa fa-file-text-o"></i> CV
+            </a>
+          </li>
+        {% endif %}
         <li>
           <a href="https://siva82kb.substack.com">
           <i class="fa fa-pencil"></i> Substack

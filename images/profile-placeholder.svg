@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 208" width="208" height="208" role="img" aria-label="Placeholder portrait">
+  <defs>
+    <clipPath id="c"><circle cx="104" cy="104" r="104"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="208" height="208" fill="#e2ddd6"/>
+    <circle cx="104" cy="84" r="34" fill="#bdb6ab"/>
+    <path d="M104 128c-38 0-62 24-66 52v28h132v-28c-4-28-28-52-66-52z" fill="#bdb6ab"/>
+  </g>
+</svg>
